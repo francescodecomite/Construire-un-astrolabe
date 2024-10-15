@@ -1,7 +1,7 @@
 # Construire un astrolabe
  Fichiers, manuel d'instruction, mode d'emploi et docs diverses sur la construction et l'utilisation d'un astrolabe
 
-*Cette activité est en cours de construction, merci de me faire part de vos remarques et critiques [Contactez moi](mailto:fdecomite@gmail.com)
+*Cette activité est en cours de construction, merci de me faire part de vos remarques et critiques [Contactez moi](mailto:fdecomite@gmail.com)*
 
 # Contenu
 
