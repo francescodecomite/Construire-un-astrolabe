@@ -1,11 +1,19 @@
 # Construire un astrolabe
- Fichiers, manuel d'instruction, mode d'emploi et docs diverses sur la construction et l'utilisation d'un astrolabe
+ Fichiers prêts à découper
 
-# Contenu
+# Informations
+	
+Les fichiers de ce répertoire permettent de construire un astrolabe d'un diamètre horizontal de 20cm  (dans l'autre sens, il y a la poignée. 
 
- * Répertoire **doc construction** : les fichiers de Michel Dumas qui m'ont servi à programmer les calculs et dessiner les pièces. 
- * Répertoire **doc utilisation** : Un fichier de Yaël Nazé sur les différentes opérations possibles avec un astrolabe. 
- * Répertoire **Fichiers SVG** : les fichiers de dessin prêts pour la découpe laser.
- * Répertoire **Presetnation Ciel et Espace** : les transparents de mon intervention aux Journées du Ciel et de l'Espace 2024, ainsi que les fichiers Tex qui les ont engendrés. Eventuellement, un document pdf reprenant les points abordés (sous réserve).
- * Répertoire  **programme python** : le programme qui permet de calculer les différentes parties de l'astrolabe. Vous pourrez ici définir de nouveaux tympans, ou obtenir un *rete* minimal
-que vous pourrez améliorer et orner à votre guise. 
+Le *rete* a été fait à la main, à partir de la version de base construite par le journal. Ce fichier présente plusieurs problèmes : 
+
+J'ai utilisé la fonction SVG *écrire seuivant un chemin*, pour avoir les noms des étoiles qui suivent les branches du rete. Dans Inkscape, celà me force à conserver
+le chemin (le cercle à gauche de l'image), sinon les noms des étoiles éclatent dans tous les sens (essayez !). 
+
+Pour ne pas qu'il soit imprimé, je l'ai mis dans une couleur non reconnu par ma découpeuse laser (Trotec). Sur la trote, on peut aussi s'arranger pour que ce cercle
+se trouve en dehors de la plaque de découpe, en plaçant le dessin sur la plaque de façon adéquate. 
+
+Il reste aussi les points représentant les étoiles. On n'en a plus besoin ici, mais c'est pas grave, ils se trouvent sur la partie du plexiglas ou du bois qui sera jetée. 
+Vous allez juste perdre un peu de temps...
+
+Si vous voulez créer votre propre rete, il vous faux partir de celui créé par le programme. 
