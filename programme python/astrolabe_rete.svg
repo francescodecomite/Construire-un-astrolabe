@@ -1,0 +1,212 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+<circle cx="250.0" cy="250.0"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="250.0" cy="250.0"  r="11.904761904761905" fill="none" stroke="green" id="  "  stroke-width="0.5" />
+<circle cx="250.0" cy="198.36010522518066"  r="129.76522775097123" fill="none" stroke="black" id="ecliptique"  stroke-width="0.5" />
+<circle cx="250.0" cy="198.36010522518066"  r="121.97931408591295" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="250.0" cy="198.36010522518066"  r="123.27696636342267" fill="none" stroke="none" id="ecliptiqueinterne"  stroke-width="0.5" />
+<path d="
+M249.99999999999997 76.3807911392677
+A119.04761904761904 119.04761904761904 0 0 1250.0 238.0952380952381"  id=" " fill="none" stroke="green"   stroke-width="0.5" />
+<path d="
+M262.1776116854332 76.99017963194069
+A119.04761904761904 119.04761904761904 0 0 1257.2046000682862 240.52281192203506"  id=" " fill="none" stroke="green"   stroke-width="0.5" />
+<path d="
+M249.99999999999997 76.3807911392677
+A119.04761904761904 119.04761904761904 0 0 0 250.0 238.0952380952381"  id=" " fill="none"  stroke="green"   stroke-width="0.5" />
+<path d="
+M237.82238831456675 76.99017963194069
+A119.04761904761904 119.04761904761904 0 0 0 242.7953999317138 240.52281192203506"  id=" " fill="none"  stroke="green"   stroke-width="0.5" />
+<path d="
+M341.70474716646606 278.79139523102566
+A95.23809523809524 95.23809523809524 0 0 0 257.2046000682862 240.52281192203506"  id=" " fill="none"  stroke="green"   stroke-width="0.5" />
+<path d="
+M335.42025542650003 285.4366981060536
+A95.23809523809524 95.23809523809524 0 0 0 261.4709307787761 246.81549013542158"  id=" " fill="none"  stroke="green"   stroke-width="0.5" />
+<path d="
+M158.29525283353397 278.79139523102566
+A95.23809523809524 95.23809523809524 0 0 1242.7953999317138 240.52281192203506"  id=" " fill="none" stroke="green"   stroke-width="0.5" />
+<path d="
+M164.57974457349997 285.4366981060536
+A95.23809523809524 95.23809523809524 0 0 1238.5290692212239 246.81549013542158"  id=" " fill="none" stroke="green"   stroke-width="0.5" />
+<path d="
+M377.4300032224109 173.8527877057583
+A119.04761904761904 119.04761904761904 0 0 1425.57735175995646 171.5919749546502"  id=" " fill="none" stroke="green"   stroke-width="0.5" />
+<path d="
+M378.49560427118774 180.2522611722914
+A119.04761904761904 119.04761904761904 0 0 1429.27669374563624 180.46517475261015"  id=" " fill="none" stroke="green"   stroke-width="0.5" />
+<path d="
+M122.56999677758911 173.85278770575832
+A119.04761904761904 119.04761904761904 0 0 0 74.42264824004351 171.59197495465025"  id=" " fill="none"  stroke="green"   stroke-width="0.5" />
+<path d="
+M121.50439572881226 180.2522611722914
+A119.04761904761904 119.04761904761904 0 0 0 70.72330625436376 180.46517475261015"  id=" " fill="none"  stroke="green"   stroke-width="0.5" />
+<path d="
+M346.91376485405027 284.65458080198266
+A119.04761904761904 119.04761904761904 0 0 0 430.6314433957508 315.93562390179795"  id=" " fill="none"  stroke="green"   stroke-width="0.5" />
+<path d="
+M340.40830481406465 291.44798173930366
+A119.04761904761904 119.04761904761904 0 0 0 427.11029341906897 324.88103102630845"  id=" " fill="none"  stroke="green"   stroke-width="0.5" />
+<path d="
+M153.08623514594973 284.6545808019827
+A119.04761904761904 119.04761904761904 0 0 169.36855660424916 315.935623901798"  id=" " fill="none" stroke="green"   stroke-width="0.5" />
+<path d="
+M159.59169518593535 291.44798173930366
+A119.04761904761904 119.04761904761904 0 0 172.889706580931 324.88103102630845"  id=" " fill="none" stroke="green"   stroke-width="0.5" />
+<path d="
+M114.03084018323918 385.9691598167608
+A404.7619047619047 404.7619047619047 0 0 1385.9691598167608 385.9691598167608"  id=" " fill="none" stroke="green"   stroke-width="0.5" />
+<path d="
+M121.70780612792964 393.2352534610206
+A404.7619047619047 404.7619047619047 0 0 1378.29219387207036 393.23525346102053"  id=" " fill="none" stroke="green"   stroke-width="0.5" />
+<circle cx="250.0" cy="198.36010522518066"  r="0.7142857142857142" fill="none" stroke="blue" id="  "  stroke-width="0.5" />
+<line x1="369.04761904761904" y1="250.0"   x2="364.88095238095235" y2="250.0"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#ecliptiqueinterne" startOffset="6.513888888888886%">0</textPath>
+ </text><line x1="364.61921054813035" y1="259.1996557378594"   x2="362.32682633716774" y2="259.01566262310223"   id=" " stroke="black"  stroke-width="0.5" /><line x1="359.6611011518777" y1="267.73918872603906"   x2="355.822962611562" y2="267.1183171206277"   id=" " stroke="black"  stroke-width="0.5" /><line x1="354.25341380048764" y1="275.6274336648629"   x2="352.16834552447784" y2="275.1148849915657"   id=" " stroke="black"  stroke-width="0.5" /><line x1="348.4662743058761" y1="282.87878456638543"   x2="345.01995470517045" y2="281.72802710656197"   id=" " stroke="black"  stroke-width="0.5" /><line x1="342.36055319362197" y1="289.51131227714217"   x2="340.51334212974956" y2="288.7210860315993"   id=" " stroke="black"  stroke-width="0.5" /><line x1="335.988716363011" y1="295.5452635133837"   x2="332.97911129030564" y2="293.95117929041527"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#ecliptiqueinterne" startOffset="12.971620414536801%">30</textPath>
+ </text><line x1="329.3957144543356" y1="301.00188453335056"   x2="327.80780016524886" y2="299.9818468426835"   id=" " stroke="black"  stroke-width="0.5" /><line x1="322.6198637323397" y1="305.90251418442733"   x2="320.07816850170775" y2="303.94592618797236"   id=" " stroke="black"  stroke-width="0.5" /><line x1="315.6936887121676" y1="310.26789582373664"   x2="314.37981493792427" y2="309.0625379072619"   id=" " stroke="black"  stroke-width="0.5" /><line x1="308.644709555396" y1="314.11766383119425"   x2="306.59214472095715" y2="311.87354559710246"   id=" " stroke="black"  stroke-width="0.5" /><line x1="301.4961663795148" y1="317.46996703970365"   x2="300.46624305192455" y2="316.12056769890955"   id=" " stroke="black"  stroke-width="0.5" /><line x1="294.26767890996825" y1="320.3411977649074"   x2="292.7183101481194" y2="317.87925584313564"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#ecliptiqueinterne" startOffset="18.959405039305807%">60</textPath>
+ </text><line x1="286.97584408737487" y1="322.74580089509107"   x2="286.23632720562733" y2="321.2908848771893"   id=" " stroke="black"  stroke-width="0.5" /><line x1="279.63477691222295" y1="324.69614256458834"   x2="278.5975597202952" y2="322.08177757482775"   id=" " stroke="black"  stroke-width="0.5" /><line x1="272.25660142349017" y1="326.20242226589033"   x2="271.81146939502037" y2="324.6783738205726"   id=" " stroke="black"  stroke-width="0.5" /><line x1="264.85189961285215" y1="327.2726159103395"   x2="264.3320831264023" y2="324.56807435347764"   id=" " stroke="black"  stroke-width="0.5" /><line x1="257.43012652792584" y1="327.9124404146339"   x2="257.28152399736734" y2="326.3541916063412"   id=" " stroke="black"  stroke-width="0.5" /><line x1="250.0" y1="328.12533297615187"   x2="250.0" y2="325.3909463219865"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#ecliptiqueinterne" startOffset="24.5%">90</textPath>
+ </text><line x1="242.56987347207414" y1="327.9124404146339"   x2="242.71847600263266" y2="326.3541916063412"   id=" " stroke="black"  stroke-width="0.5" /><line x1="235.14810038714785" y1="327.2726159103395"   x2="235.66791687359768" y2="324.56807435347764"   id=" " stroke="black"  stroke-width="0.5" /><line x1="227.7433985765098" y1="326.20242226589033"   x2="228.1885306049796" y2="324.6783738205726"   id=" " stroke="black"  stroke-width="0.5" /><line x1="220.36522308777705" y1="324.69614256458834"   x2="221.40244027970485" y2="322.08177757482775"   id=" " stroke="black"  stroke-width="0.5" /><line x1="213.02415591262516" y1="322.7458008950911"   x2="213.76367279437267" y2="321.2908848771893"   id=" " stroke="black"  stroke-width="0.5" /><line x1="205.73232109003175" y1="320.3411977649074"   x2="207.28168985188063" y2="317.87925584313564"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#ecliptiqueinterne" startOffset="29.540594960694193%">120</textPath>
+ </text><line x1="198.50383362048518" y1="317.46996703970365"   x2="199.53375694807548" y2="316.1205676989096"   id=" " stroke="black"  stroke-width="0.5" /><line x1="191.355290444604" y1="314.11766383119425"   x2="193.40785527904285" y2="311.87354559710246"   id=" " stroke="black"  stroke-width="0.5" /><line x1="184.30631128783241" y1="310.2678958237367"   x2="185.62018506207576" y2="309.0625379072619"   id=" " stroke="black"  stroke-width="0.5" /><line x1="177.38013626766036" y1="305.90251418442733"   x2="179.92183149829225" y2="303.94592618797236"   id=" " stroke="black"  stroke-width="0.5" /><line x1="170.60428554566448" y1="301.00188453335056"   x2="172.1921998347512" y2="299.9818468426836"   id=" " stroke="black"  stroke-width="0.5" /><line x1="164.011283636989" y1="295.5452635133837"   x2="167.02088870969436" y2="293.95117929041527"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#ecliptiqueinterne" startOffset="35.5283795854632%">150</textPath>
+ </text><line x1="157.63944680637803" y1="289.51131227714217"   x2="159.48665787025047" y2="288.7210860315993"   id=" " stroke="black"  stroke-width="0.5" /><line x1="151.53372569412392" y1="282.87878456638543"   x2="154.98004529482958" y2="281.72802710656197"   id=" " stroke="black"  stroke-width="0.5" /><line x1="145.7465861995124" y1="275.62743366486296"   x2="147.83165447552216" y2="275.1148849915657"   id=" " stroke="black"  stroke-width="0.5" /><line x1="140.3388988481223" y1="267.73918872603906"   x2="144.177037388438" y2="267.1183171206277"   id=" " stroke="black"  stroke-width="0.5" /><line x1="135.38078945186965" y1="259.1996557378595"   x2="137.67317366283223" y2="259.0156626231023"   id=" " stroke="black"  stroke-width="0.5" /><line x1="130.95238095238102" y1="250.0"   x2="135.1190476190477" y2="250.0"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#ecliptiqueinterne" startOffset="42.486111111111086%">180</textPath>
+ </text><line x1="127.1443273118129" y1="240.1392629667445"   x2="129.60144076557663" y2="240.3364777074096"   id=" " stroke="black"  stroke-width="0.5" /><line x1="124.05800523994203" y1="229.62715320094847"   x2="128.46597505654407" y2="230.34020283891527"   id=" " stroke="black"  stroke-width="0.5" /><line x1="121.8051897445932" y1="218.48732452745105"   x2="124.36908594970134" y2="219.11757803690202"   id=" " stroke="black"  stroke-width="0.5" /><line x1="120.50699837806775" y1="206.76110898685607"   x2="125.03925343483539" y2="208.2744701723161"   id=" " stroke="black"  stroke-width="0.5" /><line x1="120.29185314900329" y1="194.51160243296323"   x2="122.88601608602322" y2="195.621370384304"   id=" " stroke="black"  stroke-width="0.5" /><line x1="121.29218903955606" y1="181.8279023764354"   x2="125.7969624231716" y2="184.21392579326016"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#ecliptiqueinterne" startOffset="51.033173387229624%">210</textPath>
+ </text><line x1="123.63964934355772" y1="168.82917033916016"   x2="126.16685635668658" y2="170.45258693237696"   id=" " stroke="black"  stroke-width="0.5" /><line x1="127.45857033839307" y1="155.6680409772331"   x2="131.74752037654932" y2="158.96965954302993"   id=" " stroke="black"  stroke-width="0.5" /><line x1="132.85769250858073" y1="142.5327451868696"   x2="135.20053865840913" y2="144.6820902831322"   id=" " stroke="black"  stroke-width="0.5" /><line x1="139.92025989058885" y1="129.6471868567549"   x2="143.77305079441828" y2="133.8595353167685"   id=" " stroke="black"  stroke-width="0.5" /><line x1="148.6929866420306" y1="117.26816124953257"   x2="150.71912690918998" y2="119.92279802454189"   id=" " stroke="black"  stroke-width="0.5" /><line x1="159.17475825135904" y1="105.67898635751507"   x2="162.35364171256145" y2="110.73022183500203"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#ecliptiqueinterne" startOffset="61.66095461026333%">240</textPath>
+ </text><line x1="171.30633442854398" y1="95.17909276557512"   x2="172.88020773997312" y2="98.27551091026362"   id=" " stroke="black"  stroke-width="0.5" /><line x1="184.9626320493692" y1="86.06961095556002"   x2="187.2389399276413" y2="91.80717457211543"   id=" " stroke="black"  stroke-width="0.5" /><line x1="199.94926324842015" y1="78.63567963087894"   x2="200.95027798345174" y2="82.06296603826135"   id=" " stroke="black"  stroke-width="0.5" /><line x1="216.0047679634756" y1="73.1269685079192"   x2="217.19460108475394" y2="79.31752461014204"   id=" " stroke="black"  stroke-width="0.5" /><line x1="232.80935456377" y1="69.73858275422222"   x2="233.1531674724946" y2="73.34381109913778"   id=" " stroke="black"  stroke-width="0.5" /><line x1="249.99999999999997" y1="68.5948774742094"   x2="249.99999999999997" y2="74.94405676261209"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#ecliptiqueinterne" startOffset="74.0%">270</textPath>
+ </text><line x1="267.19064543622994" y1="69.73858275422222"   x2="266.84683252750534" y2="73.34381109913778"   id=" " stroke="black"  stroke-width="0.5" /><line x1="283.9952320365243" y1="73.12696850791914"   x2="282.805398915246" y2="79.31752461014199"   id=" " stroke="black"  stroke-width="0.5" /><line x1="300.05073675157996" y1="78.63567963087897"   x2="299.04972201654834" y2="82.06296603826138"   id=" " stroke="black"  stroke-width="0.5" /><line x1="315.0373679506306" y1="86.06961095555994"   x2="312.76106007235853" y2="91.80717457211534"   id=" " stroke="black"  stroke-width="0.5" /><line x1="328.693665571456" y1="95.17909276557509"   x2="327.1197922600269" y2="98.27551091026359"   id=" " stroke="black"  stroke-width="0.5" /><line x1="340.82524174864096" y1="105.67898635751499"   x2="337.6463582874385" y2="110.73022183500194"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#ecliptiqueinterne" startOffset="86.33904538973667%">300</textPath>
+ </text><line x1="351.30701335796937" y1="117.26816124953251"   x2="349.28087309080996" y2="119.92279802454189"   id=" " stroke="black"  stroke-width="0.5" /><line x1="360.0797401094111" y1="129.64718685675487"   x2="356.2269492055817" y2="133.85953531676844"   id=" " stroke="black"  stroke-width="0.5" /><line x1="367.1423074914193" y1="142.53274518686953"   x2="364.79946134159087" y2="144.68209028313214"   id=" " stroke="black"  stroke-width="0.5" /><line x1="372.5414296616069" y1="155.66804097723303"   x2="368.25247962345065" y2="158.96965954302988"   id=" " stroke="black"  stroke-width="0.5" /><line x1="376.3603506564423" y1="168.82917033916004"   x2="373.8331436433134" y2="170.45258693237685"   id=" " stroke="black"  stroke-width="0.5" /><line x1="378.7078109604439" y1="181.8279023764353"   x2="374.20303757682836" y2="184.21392579326007"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#ecliptiqueinterne" startOffset="96.96682661277038%">330</textPath>
+ </text><line x1="379.70814685099674" y1="194.51160243296312"   x2="377.11398391397677" y2="195.62137038430384"   id=" " stroke="black"  stroke-width="0.5" /><line x1="379.49300162193225" y1="206.76110898685607"   x2="374.96074656516464" y2="208.27447017231611"   id=" " stroke="black"  stroke-width="0.5" /><line x1="378.19481025540676" y1="218.487324527451"   x2="375.63091405029866" y2="219.117578036902"   id=" " stroke="black"  stroke-width="0.5" /><line x1="375.941994760058" y1="229.62715320094838"   x2="371.53402494345596" y2="230.3402028389152"   id=" " stroke="black"  stroke-width="0.5" /><line x1="372.8556726881871" y1="240.13926296674444"   x2="370.3985592344234" y2="240.33647770740956"   id=" " stroke="black"  stroke-width="0.5" /><circle cx="250.0" cy="250.0"  r="192.289429877338" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="250.0" cy="250.0"  r="206.80183967940124" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="250.0" cy="250.0"  r="193.25087702672468" fill="none" stroke="none" id="calendar"  stroke-width="0.5" />
+<circle cx="250.0" cy="250.0"  r="200.59778448901918" fill="none" stroke="none" id="graduations"  stroke-width="0.5" />
+<line x1="285.9107625984966" y1="46.33994494653797"   x2="283.3907090828127" y2="60.6318786345002"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#calendar" startOffset="81.02430555555557%">JANVIER</textPath>
+ </text><line x1="384.5127802035445" y1="92.92258960404999"   x2="375.07328685592734" y2="103.94556577218682"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#calendar" startOffset="89.10652777777779%">FEVRIER</textPath>
+ </text><line x1="442.0018520032515" y1="173.17363914575753"   x2="428.52803782758474" y2="178.5649627144763"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#calendar" startOffset="97.18875000000003%">MARS</textPath>
+ </text><line x1="454.3856354455522" y1="281.52003994766847"   x2="440.042783835338" y2="279.3081073197619"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#calendar" startOffset="5.544861111111118%">AVRIL</textPath>
+ </text><line x1="412.1678468979336" y1="378.33000556094873"   x2="400.7876471156225" y2="369.32439113561907"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#calendar" startOffset="13.900972222222208%">MAI</textPath>
+ </text><line x1="324.3436026098669" y1="442.97675934104336"   x2="319.12650768987623" y2="429.43453061535615"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#calendar" startOffset="22.257083333333355%">JUIN</textPath>
+ </text><line x1="219.3613491770742" y1="454.51961756891586"   x2="221.51142993657777" y2="440.16736370443056"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#calendar" startOffset="30.613333333333344%">JUILLET</textPath>
+ </text><line x1="119.58628726354544" y1="410.4969296437732"   x2="128.73812675382294" y2="399.23398721263123"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#calendar" startOffset="39.106527777777785%">AOUT</textPath>
+ </text><line x1="56.079182135090576" y1="321.845092340322"   x2="69.68766058175086" y2="316.8033314743345"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#calendar" startOffset="47.462638888888875%">SEPTEMBRE</textPath>
+ </text><line x1="45.89314054600857" y1="216.72251784444393"   x2="60.21642892874479" y2="219.05777975009698"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#calendar" startOffset="55.81888888888889%">OCTOBRE</textPath>
+ </text><line x1="91.20075949017632" y1="117.52433390132381"   x2="102.34456584174288" y2="126.82087187316074"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#calendar" startOffset="64.17513888888891%">NOVEMBRE</textPath>
+ </text><line x1="177.3229714581796" y1="56.389436194415794"   x2="182.42311381199156" y2="69.97614242638659"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#calendar" startOffset="72.53125%">DECEMBRE</textPath>
+ </text><line x1="299.83725129196915" y1="49.29312598108183"   x2="298.84050626612975" y2="53.307263461460195"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="79.94361111111112%">10</textPath>
+ </text><line x1="316.90817276860014" y1="54.32093287336039"   x2="316.2390910409141" y2="56.27772354462681"   id=" " stroke="black"  stroke-width="0.5" /><line x1="333.4803283118504" y1="60.796311664570254"   x2="331.8107217456134" y2="64.58038543127884"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="82.68333333333334%">20</textPath>
+ </text><line x1="349.43771642399713" y1="68.67393610634599"   x2="348.4433392597572" y2="70.48719674528255"   id=" " stroke="black"  stroke-width="0.5" /><line x1="364.65575148856846" y1="77.89230248075364"   x2="362.36263645879706" y2="81.33445643113853"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="85.42250000000001%">30</textPath>
+ </text><line x1="379.0222691171863" y1="88.38238039546204"   x2="377.7320464260144" y2="89.99855659150742"   id=" " stroke="black"  stroke-width="0.5" /><line x1="395.00080421197225" y1="102.54910080753643"   x2="392.1007881277328" y2="105.4981187913857"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="88.43666666666667%">10</textPath>
+ </text><line x1="407.1407806071355" y1="115.56125571486149"   x2="405.56937280106416" y2="116.90564315771289"   id=" " stroke="black"  stroke-width="0.5" /><line x1="418.1150071463977" y1="129.56601282465402"   x2="414.7527070034698" y2="131.97469256816095"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="91.17638888888888%">20</textPath>
+ </text><line x1="427.8466666220287" y1="144.46534187188672"   x2="426.0681999558084" y2="145.52068845316785"   id=" " stroke="black"  stroke-width="0.5" /><line x1="436.2597801340638" y1="160.14291792410023"   x2="432.5345845313825" y2="161.94005956561824"   id=" " stroke="black"  stroke-width="0.5" /><line x1="446.832478808018" y1="186.5651816344059"   x2="442.89582923185765" y2="187.83387800171778"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="96.10777777777776%">10</textPath>
+ </text><line x1="451.5565913944308" y1="203.7188876511894"   x2="449.5410254804865" y2="204.1816987746775"   id=" " stroke="black"  stroke-width="0.5" /><line x1="454.7892583915245" y1="221.21874668757133"   x2="450.693473223694" y2="221.79437175381992"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="98.8475%">20</textPath>
+ </text><line x1="456.5052410943275" y1="238.92813044881532"   x2="454.4401886833842" y2="239.03884914432717"   id=" " stroke="black"  stroke-width="0.5" /><line x1="456.6925279957626" y1="256.7230770861024"   x2="452.5586774358473" y2="256.5886155443804"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="1.5872222222222376%">30</textPath>
+ </text><line x1="455.34965687319607" y1="274.4646544395259"   x2="453.2961603044641" y2="274.2200078951306"   id=" " stroke="black"  stroke-width="0.5" /><line x1="451.73281185071994" y1="295.50685132578155"   x2="447.6981556137056" y2="294.59671429926595"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="4.601111111111095%">10</textPath>
+ </text><line x1="447.07350545267894" y1="312.68200972669666"   x2="445.10277039815213" y2="312.0551896294297"   id=" " stroke="black"  stroke-width="0.5" /><line x1="440.9562297633537" y1="329.3896668928019"   x2="437.1371051680866" y2="327.8018735549459"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="7.340833333333364%">20</textPath>
+ </text><line x1="433.4238043869947" y1="345.51287284437785"   x2="431.5895663431247" y2="344.5577441159341"   id=" " stroke="black"  stroke-width="0.5" /><line x1="424.5350379364181" y1="360.92574735974443"   x2="421.0443371776897" y2="358.70723241254956"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="10.080555555555549%">30</textPath>
+ </text><line x1="414.3521498506395" y1="375.5204036571653"   x2="412.70862835213313" y2="374.26519962059365"   id=" " stroke="black"  stroke-width="0.5" /><line x1="402.95464194917406" y1="389.18289550438567"   x2="399.8955491101906" y2="386.399237594298"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="12.82027777777779%">10</textPath>
+ </text><line x1="390.42229431756505" y1="401.81758841904946"   x2="389.01807137438936" y2="400.29941253485896"   id=" " stroke="black"  stroke-width="0.5" /><line x1="376.85295193172936" y1="413.3258383752893"   x2="374.31589289309477" y2="410.05932160778355"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="15.560000000000002%">20</textPath>
+ </text><line x1="362.3415972479783" y1="423.62709011717556"   x2="361.2181812754985" y2="421.8908192160038"   id=" " stroke="black"  stroke-width="0.5" /><line x1="347.0015261300464" y1="432.6409177134924"   x2="345.06149560744547" y2="428.98809935922253"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="18.299722222222215%">30</textPath>
+ </text><line x1="330.94011575166405" y1="440.3042263243042"   x2="330.1307145941474" y2="438.40118406106114"   id=" " stroke="black"  stroke-width="0.5" /><line x1="310.88742100701506" y1="447.63532796010753"   x2="309.66967258687475" y2="443.6826214009054"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="21.313333333333333%">10</textPath>
+ </text><line x1="293.6741333826198" y1="452.1375051000232"   x2="293.2373920487936" y2="450.11613004902296"   id=" " stroke="black"  stroke-width="0.5" /><line x1="276.133983744082" y1="455.1438904487502"   x2="275.6113040692004" y2="451.0410126397752"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="24.053055555555545%">20</textPath>
+ </text><line x1="258.40391495074437" y1="456.6310119713046"   x2="258.3198758012369" y2="454.56470185159156"   id=" " stroke="black"  stroke-width="0.5" /><line x1="240.60803364216804" y1="456.58846013927814"   x2="240.79587296932468" y2="452.4566909364926"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="26.792777777777758%">30</textPath>
+ </text><line x1="222.88527927560668" y1="455.0165671715896"   x2="223.1564264828506" y2="452.96640149987377"   id=" " stroke="black"  stroke-width="0.5" /><line x1="205.35970729121968" y1="451.9263359783938"   x2="206.25251314539526" y2="447.88780925882594"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="29.53249999999997%">10</textPath>
+ </text><line x1="188.1681467348593" y1="447.34189321221913"   x2="188.78646526751072" y2="445.3684742800969"   id=" " stroke="black"  stroke-width="0.5" /><line x1="171.43093480511982" y1="441.2953289790094"   x2="173.00231610901739" y2="437.4694223994292"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="32.27222222222224%">20</textPath>
+ </text><line x1="155.27874551028043" y1="433.8338511881817"   x2="156.2259580551776" y2="431.9955126762999"   id=" " stroke="black"  stroke-width="0.5" /><line x1="139.5193591081916" y1="424.81712983263407"   x2="141.72897192602775" y2="421.3207872359814"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="35.01194444444445%">30</textPath>
+ </text><line x1="125.18927658589168" y1="414.89173483116645"   x2="126.43738382003275" y2="413.2428174828548"   id=" " stroke="black"  stroke-width="0.5" /><line x1="108.85329173968518" y1="401.14432719113984"   x2="111.67622590489148" y2="398.12144064731706"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="38.02583333333337%">10</textPath>
+ </text><line x1="96.38150883712387" y1="388.4498467591283"   x2="97.91769374875264" y2="387.065348291537"   id=" " stroke="black"  stroke-width="0.5" /><line x1="85.0494678116772" y1="374.73300615945186"   x2="88.34847845544368" y2="372.23834603626284"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="40.76555555555558%">20</textPath>
+ </text><line x1="74.93649049494294" y1="360.08982030395714"   x2="76.68712558999351" y2="358.98892210091753"   id=" " stroke="black"  stroke-width="0.5" /><line x1="66.12153288551636" y1="344.63461431428"   x2="69.79910222780603" y2="342.7419220279944"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="43.50527777777779%">30</textPath>
+ </text><line x1="58.66629777651886" y1="328.4755712833046"   x2="60.57963479875366" y2="327.6908155704715"   id=" " stroke="black"  stroke-width="0.5" /><line x1="51.59580776041312" y1="308.33333006559656"   x2="55.5638916052049" y2="307.1666634642846"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="46.51888888888891%">10</textPath>
+ </text><line x1="47.315298979511994" y1="291.0598693010603"   x2="49.34214598971687" y2="290.64927060804973"   id=" " stroke="black"  stroke-width="0.5" /><line x1="44.536106638510745" y1="273.48594089074015"   x2="48.64538450574054" y2="273.01622207292536"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="49.25861111111112%">20</textPath>
+ </text><line x1="43.27768448156331" y1="255.73455852535105"   x2="45.344907636747706" y2="255.67721294009755"   id=" " stroke="black"  stroke-width="0.5" /><line x1="43.549857506288504" y1="237.9443142413639"   x2="47.678860356162716" y2="238.18542795653664"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="51.998333333333335%">30</textPath>
+ </text><line x1="45.35072056049137" y1="220.2397358937344"   x2="47.397213354886475" y2="220.53733853479707"   id=" " stroke="black"  stroke-width="0.5" /><line x1="48.66621359673729" y1="202.75905010152565"   x2="52.692889324802564" y2="203.70386909949514"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="54.73805555555555%">10</textPath>
+ </text><line x1="53.47312888221873" y1="185.62461787733014"   x2="55.43839759339656" y2="186.26837169855685"   id=" " stroke="black"  stroke-width="0.5" /><line x1="59.73393693529616" y1="168.97021448477778"   x2="63.539258196590254" y2="170.59081019508224"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="57.47777777777776%">20</textPath>
+ </text><line x1="67.4048134562749" y1="152.91241713871437"   x2="69.23076532171217" y2="153.88329296732724"   id=" " stroke="black"  stroke-width="0.5" /><line x1="76.42586888970095" y1="137.57659539006355"   x2="79.89735151190692" y2="139.82506348226227"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="60.21750000000003%">30</textPath>
+ </text><line x1="86.73395780234503" y1="123.07009666789186"   x2="88.3666182243216" y2="124.33939570121294"   id=" " stroke="black"  stroke-width="0.5" /><line x1="100.69119937479172" y1="106.91302312702746"   x2="103.67737538729591" y2="109.7747626644869"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="63.23111111111109%">10</textPath>
+ </text><line x1="113.5429829772842" y1="94.6086122076033"   x2="114.90755314751135" y2="96.16252608552728"   id=" " stroke="black"  stroke-width="0.5" /><line x1="127.40774584914453" y1="83.45228876686167"   x2="129.8595909321616" y2="86.78324299152445"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="65.97083333333336%">20</textPath>
+ </text><line x1="142.17724032368085" y1="73.53115461768473"   x2="143.25546792044406" y2="75.29584307150787"   id=" " stroke="black"  stroke-width="0.5" /><line x1="157.74808314002715" y1="64.91465554926984"   x2="159.5931214772266" y2="68.61636243828443"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="68.71055555555557%">30</textPath>
+ </text><line x1="173.9987065931399" y1="57.67006396489097"   x2="174.7587195272085" y2="59.59336332524208"   id=" " stroke="black"  stroke-width="0.5" /><line x1="190.81535984025496" y1="51.84809043578139"   x2="191.99905264344986" y2="55.811128627065784"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="71.45027777777779%">10</textPath>
+ </text><line x1="208.0667486434254" y1="47.494189403239346"   x2="208.48608115699113" y2="49.51924750920696"   id=" " stroke="black"  stroke-width="0.5" /><line x1="225.63211701929472" y1="44.638837231029925"   x2="226.11947467890883" y2="48.746060486409306"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="74.19%">20</textPath>
+ </text><line x1="243.37432521590154" y1="43.304326778618474"   x2="243.44058196374255" y2="45.37128351083231"   id=" " stroke="black"  stroke-width="0.5" /><line x1="261.16918162049205" y1="43.499999329992164"   x2="260.94579798808223" y2="47.62999934339234"   id=" " stroke="black"  stroke-width="0.5" /><text font-family="Arial, Helvetica, sans-serif" font-size="7" >
+<textPath xlink:href="#graduations" startOffset="76.92972222222227%">30</textPath>
+ </text><line x1="278.87775477764103" y1="45.224327192444065"   x2="278.5889772298646" y2="47.272083920519634"   id=" " stroke="black"  stroke-width="0.5" /><circle cx="319.5392227856624" cy="253.33290950210693"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="284.8425778684219" cy="256.6749425604946"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="409.7158053620425" cy="282.55551439547776"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="326.41406976644635" cy="329.7534851889154"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="276.66065642665575" cy="284.10076920135833"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="280.7810528720199" cy="333.2030725026776"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="275.6444880369681" cy="384.89353417462223"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="258.26326220807795" cy="297.3317250248253"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="267.81393564988053" cy="412.2392269393762"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="250.96729754307077" cy="354.5669546698791"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="217.1109116741271" cy="406.8021849848774"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="222.56651587993198" cy="310.3423555009358"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="203.14440995255998" cy="348.283342803801"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="139.63207368271907" cy="334.6546283506945"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="89.65836704425209" cy="291.285090532393"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="220.55036127456523" cy="256.96431322959893"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="157.53779861776616" cy="253.37589163768965"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="115.05578055813598" cy="195.59129077779875"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="179.95095457094118" cy="201.85302465909567"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="159.36923278698524" cy="142.26569078831432"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="206.94990063367896" cy="190.30956513104744"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="191.3964825740568" cy="160.8457210502057"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="240.53652526889863" cy="154.97004342832832"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="249.6557882570254" cy="193.0010393228438"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="298.19584322056863" cy="160.4831199863988"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="335.3362625280346" cy="129.05054574869968"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="382.8918560823033" cy="165.15583482184437"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+<circle cx="338.1831224020441" cy="229.3379430623304"  r="0.7142857142857142" fill="none" stroke="black" id="  "  stroke-width="0.5" />
+</svg>
