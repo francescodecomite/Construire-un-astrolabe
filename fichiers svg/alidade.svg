@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg214"
+   sodipodi:docname="alidadeechelleok.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata220">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs218" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview216"
+     showgrid="false"
+     inkscape:zoom="1.7"
+     inkscape:cx="249.15782"
+     inkscape:cy="296.89269"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg214" />
+  <g
+     transform="matrix(1.7,0,0,1.7,-22.647069,-169.11765)"
+     id="g222">
+    <circle
+       stroke-width="0.5"
+       id="  "
+       stroke="#000000"
+       fill="none"
+       r="0.71428573"
+       cy="250"
+       cx="250" />
+    <path
+       stroke-width="0.5"
+       stroke="#ff0000"
+       fill="none"
+       id=" "
+       d="M 250,226.19048 A 23.809524,23.809524 0 0 0 226.19048,250" />
+    <path
+       stroke-width="0.5"
+       stroke="#ff0000"
+       fill="none"
+       id="path4"
+       d="M 250,273.80952 A 23.809524,23.809524 0 0 0 273.80952,250" />
+    <line
+       stroke-width="0.5"
+       stroke="#ff0000"
+       id="line6"
+       y2="226.19048"
+       x2="444.26807"
+       y1="226.19048"
+       x1="250" />
+    <line
+       stroke-width="0.5"
+       stroke="#ff0000"
+       id="line8"
+       y2="250"
+       x2="469.25845"
+       y1="250"
+       x1="273.80951" />
+    <line
+       stroke-width="0.5"
+       stroke="#ff0000"
+       id="line10"
+       y2="250"
+       x2="469.25845"
+       y1="226.19048"
+       x1="444.26807" />
+    <line
+       stroke-width="0.5"
+       stroke="#ff0000"
+       id="line12"
+       y2="250"
+       x2="30.741562"
+       y1="250"
+       x1="226.19048" />
+    <line
+       stroke-width="0.5"
+       stroke="#ff0000"
+       id="line14"
+       y2="273.80951"
+       x2="55.731941"
+       y1="273.80951"
+       x1="250" />
+    <line
+       stroke-width="0.5"
+       stroke="#ff0000"
+       id="line16"
+       y2="250"
+       x2="30.741562"
+       y1="273.80951"
+       x1="55.731941" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line18"
+       y2="246.42857"
+       x2="262.95947"
+       y1="250"
+       x1="262.95947" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line20"
+       y2="253.57143"
+       x2="237.04053"
+       y1="250"
+       x1="237.04053" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line22"
+       y2="246.42857"
+       x2="268.13925"
+       y1="250"
+       x1="268.13925" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line24"
+       y2="253.57143"
+       x2="231.86075"
+       y1="250"
+       x1="231.86075" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line26"
+       y2="242.85715"
+       x2="273.31903"
+       y1="250"
+       x1="273.31903" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line28"
+       y2="257.14285"
+       x2="226.68097"
+       y1="250"
+       x1="226.68097" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line30"
+       y2="246.42857"
+       x2="278.49881"
+       y1="250"
+       x1="278.49881" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line32"
+       y2="253.57143"
+       x2="221.50119"
+       y1="250"
+       x1="221.50119" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line34"
+       y2="246.42857"
+       x2="283.67859"
+       y1="250"
+       x1="283.67859" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line36"
+       y2="253.57143"
+       x2="216.32141"
+       y1="250"
+       x1="216.32141" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line38"
+       y2="246.42857"
+       x2="288.85837"
+       y1="250"
+       x1="288.85837" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line40"
+       y2="253.57143"
+       x2="211.14163"
+       y1="250"
+       x1="211.14163" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line42"
+       y2="246.42857"
+       x2="294.03815"
+       y1="250"
+       x1="294.03815" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line44"
+       y2="253.57143"
+       x2="205.96185"
+       y1="250"
+       x1="205.96185" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line46"
+       y2="242.85715"
+       x2="299.21793"
+       y1="250"
+       x1="299.21793" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line48"
+       y2="257.14285"
+       x2="200.78207"
+       y1="250"
+       x1="200.78207" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line50"
+       y2="246.42857"
+       x2="304.39771"
+       y1="250"
+       x1="304.39771" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line52"
+       y2="253.57143"
+       x2="195.60229"
+       y1="250"
+       x1="195.60229" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line54"
+       y2="246.42857"
+       x2="309.57748"
+       y1="250"
+       x1="309.57748" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line56"
+       y2="253.57143"
+       x2="190.42252"
+       y1="250"
+       x1="190.42252" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line58"
+       y2="246.42857"
+       x2="314.75726"
+       y1="250"
+       x1="314.75726" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line60"
+       y2="253.57143"
+       x2="185.24274"
+       y1="250"
+       x1="185.24274" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line62"
+       y2="246.42857"
+       x2="319.93704"
+       y1="250"
+       x1="319.93704" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line64"
+       y2="253.57143"
+       x2="180.06296"
+       y1="250"
+       x1="180.06296" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line66"
+       y2="242.85715"
+       x2="325.11682"
+       y1="250"
+       x1="325.11682" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line68"
+       y2="257.14285"
+       x2="174.88318"
+       y1="250"
+       x1="174.88318" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line70"
+       y2="246.42857"
+       x2="330.2966"
+       y1="250"
+       x1="330.2966" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line72"
+       y2="253.57143"
+       x2="169.7034"
+       y1="250"
+       x1="169.7034" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line74"
+       y2="246.42857"
+       x2="335.47638"
+       y1="250"
+       x1="335.47638" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line76"
+       y2="253.57143"
+       x2="164.52362"
+       y1="250"
+       x1="164.52362" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line78"
+       y2="246.42857"
+       x2="340.65616"
+       y1="250"
+       x1="340.65616" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line80"
+       y2="253.57143"
+       x2="159.34384"
+       y1="250"
+       x1="159.34384" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line82"
+       y2="246.42857"
+       x2="345.83594"
+       y1="250"
+       x1="345.83594" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line84"
+       y2="253.57143"
+       x2="154.16406"
+       y1="250"
+       x1="154.16406" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line86"
+       y2="242.85715"
+       x2="351.01572"
+       y1="250"
+       x1="351.01572" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line88"
+       y2="257.14285"
+       x2="148.9843"
+       y1="250"
+       x1="148.9843" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line90"
+       y2="246.42857"
+       x2="356.1955"
+       y1="250"
+       x1="356.1955" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line92"
+       y2="253.57143"
+       x2="143.80452"
+       y1="250"
+       x1="143.80452" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line94"
+       y2="246.42857"
+       x2="361.37527"
+       y1="250"
+       x1="361.37527" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line96"
+       y2="253.57143"
+       x2="138.62474"
+       y1="250"
+       x1="138.62474" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line98"
+       y2="246.42857"
+       x2="366.55505"
+       y1="250"
+       x1="366.55505" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line100"
+       y2="253.57143"
+       x2="133.44496"
+       y1="250"
+       x1="133.44496" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line102"
+       y2="246.42857"
+       x2="371.73483"
+       y1="250"
+       x1="371.73483" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line104"
+       y2="253.57143"
+       x2="128.26518"
+       y1="250"
+       x1="128.26518" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line106"
+       y2="242.85715"
+       x2="376.91461"
+       y1="250"
+       x1="376.91461" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line108"
+       y2="257.14285"
+       x2="123.0854"
+       y1="250"
+       x1="123.0854" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line110"
+       y2="246.42857"
+       x2="382.09439"
+       y1="250"
+       x1="382.09439" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line112"
+       y2="253.57143"
+       x2="117.90562"
+       y1="250"
+       x1="117.90562" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line114"
+       y2="246.42857"
+       x2="387.27417"
+       y1="250"
+       x1="387.27417" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line116"
+       y2="253.57143"
+       x2="112.72584"
+       y1="250"
+       x1="112.72584" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line118"
+       y2="246.42857"
+       x2="392.45395"
+       y1="250"
+       x1="392.45395" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line120"
+       y2="253.57143"
+       x2="107.54606"
+       y1="250"
+       x1="107.54606" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line122"
+       y2="246.42857"
+       x2="397.63373"
+       y1="250"
+       x1="397.63373" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line124"
+       y2="253.57143"
+       x2="102.36628"
+       y1="250"
+       x1="102.36628" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line126"
+       y2="242.85715"
+       x2="402.81351"
+       y1="250"
+       x1="402.81351" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line128"
+       y2="257.14285"
+       x2="97.186508"
+       y1="250"
+       x1="97.186508" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line130"
+       y2="246.42857"
+       x2="407.99329"
+       y1="250"
+       x1="407.99329" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line132"
+       y2="253.57143"
+       x2="92.006729"
+       y1="250"
+       x1="92.006729" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line134"
+       y2="246.42857"
+       x2="413.17307"
+       y1="250"
+       x1="413.17307" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line136"
+       y2="253.57143"
+       x2="86.82695"
+       y1="250"
+       x1="86.82695" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line138"
+       y2="246.42857"
+       x2="418.35284"
+       y1="250"
+       x1="418.35284" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line140"
+       y2="253.57143"
+       x2="81.647171"
+       y1="250"
+       x1="81.647171" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line142"
+       y2="246.42857"
+       x2="423.53262"
+       y1="250"
+       x1="423.53262" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line144"
+       y2="253.57143"
+       x2="76.467392"
+       y1="250"
+       x1="76.467392" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line146"
+       y2="242.85715"
+       x2="428.7124"
+       y1="250"
+       x1="428.7124" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line148"
+       y2="257.14285"
+       x2="71.287613"
+       y1="250"
+       x1="71.287613" />
+    <line
+       stroke-width="0.5"
+       stroke="none"
+       id="droite"
+       y2="241.66667"
+       x2="431.40512"
+       y1="241.66667"
+       x1="262.95947" />
+    <line
+       stroke-width="0.5"
+       stroke="none"
+       id="gauche"
+       y2="258.33334"
+       x2="68.594879"
+       y1="258.33334"
+       x1="237.04053" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line152"
+       y2="250"
+       x2="273.80951"
+       y1="250"
+       x1="262.95947" />
+    <line
+       stroke-width="0.5"
+       stroke="#000000"
+       id="line154"
+       y2="250"
+       x2="226.19048"
+       y1="250"
+       x1="237.04053" />
+    <text
+       id="text158"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath156"
+         startOffset="2.9999999%"
+         xlink:href="#droite">-15</textPath></text>
+    <text
+       id="text162"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath160"
+         startOffset="2.9999999%"
+         xlink:href="#gauche">-15</textPath></text>
+    <text
+       id="text166"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath164"
+         startOffset="18.000002%"
+         xlink:href="#droite">-10</textPath></text>
+    <text
+       id="text170"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath168"
+         startOffset="18.000002%"
+         xlink:href="#gauche">-10</textPath></text>
+    <text
+       id="text174"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath172"
+         startOffset="34.5%"
+         xlink:href="#droite">-5</textPath></text>
+    <text
+       id="text178"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath176"
+         startOffset="34.5%"
+         xlink:href="#gauche">-5</textPath></text>
+    <text
+       id="text182"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath180"
+         startOffset="50.999999%"
+         xlink:href="#droite">0</textPath></text>
+    <text
+       id="text186"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath184"
+         startOffset="50.999999%"
+         xlink:href="#gauche">0</textPath></text>
+    <text
+       id="text190"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath188"
+         startOffset="66.74%"
+         xlink:href="#droite">5</textPath></text>
+    <text
+       id="text194"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath192"
+         startOffset="66.74%"
+         xlink:href="#gauche">5</textPath></text>
+    <text
+       id="text198"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath196"
+         startOffset="81%"
+         xlink:href="#droite">10</textPath></text>
+    <text
+       id="text202"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath200"
+         startOffset="81%"
+         xlink:href="#gauche">10</textPath></text>
+    <text
+       id="text206"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath204"
+         startOffset="96.259999%"
+         xlink:href="#droite">15</textPath></text>
+    <text
+       id="text210"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath208"
+         startOffset="96.259999%"
+         xlink:href="#gauche">15</textPath></text>
+    <circle
+       stroke-width="0.5"
+       id="circle212"
+       stroke="#ff0000"
+       fill="none"
+       r="4.4168205"
+       cy="250"
+       cx="250" />
+  </g>
+</svg>
