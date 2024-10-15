@@ -18,4 +18,7 @@ se trouve en dehors de la plaque de découpe, en plaçant le dessin sur la plaqu
 Il reste aussi les points représentant les étoiles. On n'en a plus besoin ici, mais c'est pas grave, ils se trouvent sur la partie du plexiglas ou du bois qui sera jetée. 
 Vous allez juste perdre un peu de temps...
 
-Si vous voulez créer votre propre rete, il vous faut partir de celui créé par le programme. 
+Si vous voulez créer votre propre rete, il vous faut partir de celui créé par le programme, ou bien, solution intermédiaire, vous pouvez partir du fichier *rete_de_base* qui
+est déjà à l'échelle. Mais vous devez définir les lignes de découpe (aidez-vous de *retefinal* pour mettre les bonnes couleurs, les lgines de découpe et elur couleur, ainsi que les noms des étoiles. 
+
+Si vous créez un rete différent du mien, faites-le moi savoir, pareil si vous acceptez que je le publie dans le dépôt. 
