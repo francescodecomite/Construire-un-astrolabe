@@ -5,6 +5,7 @@
 	
 Les fichiers de ce répertoire permettent de construire un astrolabe d'un diamètre horizontal de 20cm  (dans l'autre sens, il y a la poignée). 
 
+Utilisez de préférence le fichier *alidadePlusviseurs*, pour avoir un outil rudimentaire de pointage. Les viseurs peuvent sans doute être améliorés, j'y réfléchis (16/10:2024)
 Le *rete* a été fait à la main, à partir de la version de base construite par le programme. 
 
 Ce fichier présente plusieurs problèmes : 
