@@ -1,0 +1,321 @@
+
+\documentclass{beamer}
+%\documentclass[handout]{beamer}
+\usepackage{pgfpages}
+%\setbeameroption{show notes on second screen=left}
+%\setbeameroption{hide notes}
+%\setbeameroption{show only  notes}
+
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[francais]{babel}
+\usepackage{multimedia}
+%comment
+\setbeamertemplate{navigation symbols}{} 
+ \usetheme{Warsaw}
+\setbeamercovered{highly dynamic}
+
+\usepackage{multimedia}
+
+%\usepackage{pgfpages}
+%\mode<handout>{\pgfpagesuselayout{4 on 1}[a4paper,landscape,border shrink=5mm]}
+\mode<handout>{\pgfpagesuselayout{8 on 1}[a4paper,border shrink=5mm]}
+\mode<handout>{\setbeamercolor{background canvas}{bg=black!5}}
+
+
+\pgfdeclareimage[height=0.9\textheight]{ask}{images/ask}
+\pgfdeclareimage[height=0.9\textheight]{github}{images/github}
+\pgfdeclareimage[height=0.9\textheight]{qrcode}{images/qrcode}
+\pgfdeclareimage[height=0.9\textheight]{githubconso1}{images/githubconso1}
+\pgfdeclareimage[height=0.9\textheight]{fichierssvg}{images/fichierssvg}
+\pgfdeclareimage[height=0.9\textheight]{githubpro1}{images/githubpro1}
+\pgfdeclareimage[height=0.85\textheight]{astrolabe1}{images/astrolabe1}
+\pgfdeclareimage[height=0.85\textheight]{astrolabe2}{images/astrolabe2}
+\pgfdeclareimage[height=0.9\textheight]{menger6}{images/menger6}
+\pgfdeclareimage[height=0.9\textheight]{blender}{images/blender}
+\pgfdeclareimage[height=0.9\textheight]{baseball}{images/baseball}
+\pgfdeclareimage[height=0.9\textheight]{mandel1}{images/mandel1}
+\pgfdeclareimage[height=0.9\textheight]{mandel2}{images/mandel2}
+\pgfdeclareimage[height=0.9\textheight]{mandel3}{images/mandel3}
+\pgfdeclareimage[height=0.9\textheight]{tetra}{images/tetra}
+\pgfdeclareimage[height=0.9\textheight]{sierpinski}{images/sierpinski}
+\pgfdeclareimage[height=0.9\textheight]{octa}{images/octa}
+\pgfdeclareimage[height=0.9\textheight]{icosa}{images/icosi}
+\pgfdeclareimage[height=0.9\textheight]{dodeca}{images/dodeca}
+\pgfdeclareimage[height=0.9\textheight]{archi}{images/archi}
+\pgfdeclareimage[height=0.9\textheight]{archi2}{images/archi2}
+\pgfdeclareimage[height=0.9\textheight]{platon}{images/platon}
+\pgfdeclareimage[height=0.9\textheight]{menger}{images/menger}
+\pgfdeclareimage[height=0.8\textheight]{cutmenger}{images/cutmenger}
+\pgfdeclareimage[height=0.9\textheight]{cutdodeca}{images/cutdodeca}
+\pgfdeclareimage[height=0.9\textheight]{apollon}{images/Apollon}
+\pgfdeclareimage[height=1.3\textheight]{calcul}{images/calcul}
+\pgfdeclareimage[height=0.9\textheight]{chou}{images/chou}
+\pgfdeclareimage[height=0.9\textheight]{fougere}{images/fougere}
+\pgfdeclareimage[height=0.9\textheight]{fern}{images/fern}
+\pgfdeclareimage[height=0.9\textheight]{foug}{images/foug}
+\pgfdeclareimage[width=\textwidth]{cantor}{images/cantor}
+\pgfdeclareimage[height=0.9\textheight]{koch}{images/koch}
+\pgfdeclareimage[height=0.9\textheight]{hilbert}{images/hilbert}
+\pgfdeclareimage[height=0.8\textheight]{mandelbrot}{images/mandelbrot}
+\pgfdeclareimage[height=0.8\textheight]{brooksmatelski1978}{images/Mandel}
+\pgfdeclareimage[height=0.9\textheight]{m1}{images/m1}
+\pgfdeclareimage[height=0.9\textheight]{m2}{images/m2}
+\pgfdeclareimage[height=0.9\textheight]{m3}{images/m3}
+\pgfdeclareimage[height=0.9\textheight]{m4}{images/m4}
+\pgfdeclareimage[height=0.9\textheight]{bulb1}{images/bulb1}
+\pgfdeclareimage[height=0.9\textheight]{bulb2}{images/bulb2}
+\pgfdeclareimage[height=0.9\textheight]{bulb3}{images/bulb3}
+\pgfdeclareimage[height=0.8\textheight]{denevan}{images/denevan}
+
+
+
+\newtheorem{fdefinition}[theorem]{Définition}
+\newtheorem{Remarque}[theorem]{Remarque}
+\newtheorem{Remarques}[theorem]{Remarques}
+%\newtheorem{Theoreme}[theorem]{Théorème}
+\newtheorem{notation}[theorem]{Notation}
+  \title[Construire un astrolabe]{Construire un astrolabe}
+  
+  \author{Francesco De Comité}\institute{Ex-Université de Lille \\ Faculté des Sciences et Technologies}
+%\titlegraphic{\includegraphics[width=3.5cm]{images/logo.jpg}\hfill}
+
+%\titlegraphic{\ \vfill\vfill\hfill\includegraphics[width=3.5cm]{images/logo.jpg}\hfill\hfill\hfill\hfill \raisebox{0.25cm}{\includegraphics[width=1.1cm]{images/logoCNRS.jpg}}\hfill\hfill}
+
+
+%\logo{\includegraphics[height=0.5cm]{lille1.png}}
+
+\setbeamertemplate{part page}{
+        \begin{beamercolorbox}[sep=8pt,center,wd=\textwidth]{part title}
+            \usebeamerfont{part title}\insertpart\par
+        \end{beamercolorbox}
+}
+
+
+%%%%%%%%%%%%%%%
+
+\setbeamertemplate{part page}{
+        \begin{beamercolorbox}[sep=8pt,center,wd=\textwidth, rounded=true,shadow=true]{part title}
+            \usebeamerfont{part title}\insertpart\par
+        \end{beamercolorbox}
+}
+
+%\definecolor{Universite}{RGB}{181,0,103}
+\definecolor{Espace}{RGB}{0,37,115}
+
+   \setbeamercolor{item projected}{bg=Espace}
+
+\setbeamercolor{title}{bg=Espace}
+\setbeamercolor{part title}{bg=Espace}
+\setbeamercolor{frametitle}{bg=Espace}
+%\setbeamercolor{structure}{bg=Universite}
+\setbeamercolor{block title}{bg=Espace}
+%\setbeamercolor{title}{fg=white,bg=!181!0!103}
+
+\setbeamercolor{section in head/foot}{bg=Espace}
+
+\makeatletter
+\setbeamertemplate{footline}
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.25\paperwidth,ht=2.25ex,dp=1ex,center]{section in head/foot}%
+    \usebeamerfont{author in head/foot}\insertshortauthor
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.60\paperwidth,ht=2.25ex,dp=1ex,center]{section in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.15\paperwidth,ht=2.25ex,dp=1ex,right]{section in head/foot}%
+   % \usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
+    %\insertframenumber{} / \inserttotalframenumber\hspace*{2ex} 
+	%\hfill\raisebox{-0.11cm}{\includegraphics[width=0.7cm]{images/logo.jpg}}
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+\makeatother
+
+
+%%%%%%%%%%%%%%
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ \begin{frame}
+\titlepage
+\note[item]{bla bla}
+   \end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  
+ \begin{frame}\frametitle{Généralités}
+
+\begin{block}{Qui suis-je ? }
+\begin{itemize}
+\item Maître de conférences en informatique (retraité) \\ à l'Université de Lille
+\item Enseignements en programmation, maths pour l'informatique, logique, intelligence artificielle. 
+\item Recherche en IA, puis en Art, Mathématiques, Informatique. 
+\item \begin{block}{Donner une réalité à des objets mathématiques. }
+	\begin{itemize}
+	\item Logiciels adéquats (Blender, Rhino, Inkscape)
+	\item Langages de description (SVF, STL)
+	\item Outils de conception : imprimantes 3D, découpe laser, atelier {\it ``standard''}.
+	\end{itemize}
+	\end{block}
+\end{itemize}
+\end{block}
+
+   \end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  
+ \begin{frame}\frametitle{Pourquoi construire un astrolabe ?}
+ 
+ \begin{block}{Parce qu'on peut !}
+ \begin{itemize}
+ \item Des documents très bien écrits (Michel Dumas).
+ \item Des logiciels.
+ \item Des machines et des lieux : fablabs. 
+ \item Des gens. 
+ \end{itemize}
+ 
+ 
+ 
+ \end{block}
+ 
+\end{frame}
+
+
+\begin{frame}\frametitle{N'hésitez pas à interrompre !}
+\begin{center}
+\pgfuseimage{ask}
+\end{center}
+{\hfill \small Créé grace à Dall-E}
+   \end{frame}
+
+
+      
+   
+
+\begin{frame}\frametitle{Toutes les infos dans le GIT}
+\begin{block}{GIT minimal}
+\begin{itemize}
+\item GIT (Global Information tracker) permet un travail coopératif et le suivi de
+versions de projets (informatiques). 
+\item GIT permet de rendre des fichiers, programmes, etc... disponibles pour plusieurs utilisateurs.
+\item Utilisé aussi par les {\it makers} pour diffuser leur projet. 
+\item Permet un retour des utilisateurs (critiques, améliorations \dots)
+\end{itemize}
+\end{block}
+   \end{frame}
+   
+   \begin{frame}\frametitle{With a little help from my friends}
+\begin{block}{Des documents très utiles}
+\begin{itemize}
+\item {\em Réalisation d'un astrolabe} Michel Dumas. 
+\item {\em Les secrets de l'astrolabe} Ya{\"e}l Nazé.
+\item Ces documents sont dans le dépôt GIT. 
+\end{itemize}
+\end{block}
+
+   \end{frame}
+
+\begin{frame}\frametitle{GIT en pratique -1}
+{\small \tt https://github.com/francescodecomite/Construire-un-astrolabe}
+{\tt https://tinyurl.com/39dbhsa5}
+\begin{center}
+\pgfuseimage{qrcode}
+\end{center}
+\vfill
+\ 
+
+\end{frame}
+
+\begin{frame}\frametitle{GIT en pratique -- Simples consommateurs }
+Simples consommateurs
+\begin{center}
+\hglue -1cm \pgfuseimage{githubconso1}
+\end{center}
+
+\end{frame}
+
+\begin{frame}\frametitle{GIT en pratique -- Simples consommateurs}
+\begin{center}
+\hglue -1cm \pgfuseimage{fichierssvg}
+\end{center}
+
+   \end{frame}
+   
+   \begin{frame}\frametitle{GIT en pratique -- Pour les pros}
+\begin{center}
+\hglue -2cm \pgfuseimage{githubpro1}
+\end{center}
+
+   \end{frame}
+   
+   
+   
+
+
+\begin{frame}\frametitle{Le déroulé}
+\begin{block}{Le plan}
+\begin{itemize}
+\item C'est quoi un astrolabe ?
+\item Les différents composants. 
+\item Qu'est-ce qu'on peut faire avec ? 
+\item Comment on calcule les différentes parties ? 
+\item Comment on programme ? 
+\item Comment on construit ?
+
+\end{itemize}
+\end{block}
+
+   \end{frame}
+   
+\begin{frame}\frametitle{Un exemple d'astrolabe : recto}
+\begin{center}
+\pgfuseimage{astrolabe1}
+\end{center}
+{\hfill Crédits : Landesmuseum Württemberg, Stuttgart}
+
+
+
+   \end{frame}
+   
+   \begin{frame}\frametitle{Un exemple d'astrolabe : verso}
+\begin{center}
+\pgfuseimage{astrolabe2}
+\end{center}
+{\hfill Crédits : Landesmuseum Württemberg, Stuttgart}
+   \end{frame}
+   
+\begin{frame}\frametitle{Le recto}
+
+
+   \end{frame}
+   
+\begin{frame}\frametitle{}
+
+   \end{frame}
+ 
+
+\end{document}
+
+\begin{frame}\frametitle{}
+
+   \end{frame}
+   
+\begin{frame}\frametitle{}
+
+   \end{frame}
+   
+\begin{frame}\frametitle{}
+
+   \end{frame}
+   
+\begin{frame}\frametitle{}
+
+   \end{frame}
+   
+
