@@ -8,8 +8,11 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="89"
+   inkscape:export-xdpi="89"
+   inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan44annote.png"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="tympan44seul.svg"
+   sodipodi:docname="tympan44annote.svg"
    id="svg315"
    version="1.1"
    viewBox="0 0 500 500">
@@ -28,6 +31,21 @@
   <defs
      id="defs319">
     <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2318"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2316" />
+    </marker>
+    <marker
+       inkscape:collect="always"
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0.0"
@@ -232,7 +250,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
-     inkscape:cy="250"
+     inkscape:cy="317.20808"
      inkscape:cx="250"
      inkscape:zoom="1.6550575"
      showgrid="false"
@@ -248,6 +266,8 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="sphereceleste"
      stroke="black"
@@ -256,6 +276,8 @@
      cy="250.0"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="capricorne"
      stroke="black"
@@ -264,6 +286,8 @@
      cy="250.0"
      cx="250.0" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text6"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -271,6 +295,8 @@
        startOffset="23%"
        xlink:href="#capricorne">Latitude 44</textPath></text>
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="cercleexterne"
      stroke="black"
@@ -279,6 +305,8 @@
      cy="250.0"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="cercleinvisible"
      stroke="none"
@@ -287,6 +315,8 @@
      cy="250.0"
      cx="250.0" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text12"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -294,6 +324,8 @@
        startOffset="58.6%"
        xlink:href="#cercleinvisible">230</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text16"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -301,6 +333,8 @@
        startOffset="62.4%"
        xlink:href="#cercleinvisible">220</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text20"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -308,6 +342,8 @@
        startOffset="65.5%"
        xlink:href="#cercleinvisible">210</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text24"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -315,6 +351,8 @@
        startOffset="68.6%"
        xlink:href="#cercleinvisible">200</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text28"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -322,6 +360,8 @@
        startOffset="71.55%"
        xlink:href="#cercleinvisible">190</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text32"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -329,6 +369,8 @@
        startOffset="74.4%"
        xlink:href="#cercleinvisible">Sud</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text36"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -336,6 +378,8 @@
        startOffset="77.4%"
        xlink:href="#cercleinvisible">170</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text40"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -343,6 +387,8 @@
        startOffset="80.3%"
        xlink:href="#cercleinvisible">160</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text44"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -350,6 +396,8 @@
        startOffset="83.4%"
        xlink:href="#cercleinvisible">150</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text48"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -357,6 +405,8 @@
        startOffset="86.5%"
        xlink:href="#cercleinvisible">140</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text52"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -364,6 +414,8 @@
        startOffset="90%"
        xlink:href="#cercleinvisible">130</textPath></text>
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="cancer"
      stroke="black"
@@ -372,6 +424,8 @@
      cy="250.0"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="  "
      stroke="black"
@@ -380,24 +434,32 @@
      cy="250.0"
      cx="250.0" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="horizon"
      d=" M85.27758662140084 174.0108888765832 A171.3757785268722 171.3757785268722 0 0 0 414.7224133785992 174.0108888765832" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="none"
      fill="none"
      id="horizonlarge"
      d=" M81.13244590771217 183.73109587834324 A178.2308096679471 178.2308096679471 0 0 0 418.86755409228783 183.73109587834324" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path58"
      d=" M85.27758662140084 174.0108888765832 A171.3757785268722 171.3757785268722 0 0 0 414.7224133785992 174.0108888765832" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text62"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -405,6 +467,8 @@
        startOffset="6.5%"
        xlink:href="#horizonlarge">250</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text66"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -412,6 +476,8 @@
        startOffset="16.8%"
        xlink:href="#horizonlarge">Ouest</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text70"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -419,6 +485,8 @@
        startOffset="30.4%"
        xlink:href="#horizonlarge">300</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text74"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -426,6 +494,8 @@
        startOffset="40.15%"
        xlink:href="#horizonlarge">330</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text78"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -433,6 +503,8 @@
        startOffset="48.2%"
        xlink:href="#horizonlarge">Nord</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text82"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -440,6 +512,8 @@
        startOffset="57.65%"
        xlink:href="#horizonlarge">30</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text86"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -447,6 +521,8 @@
        startOffset="67.4%"
        xlink:href="#horizonlarge">60</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text90"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -454,6 +530,8 @@
        startOffset="79.25%"
        xlink:href="#horizonlarge">Est</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text94"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -461,18 +539,24 @@
        startOffset="91%"
        xlink:href="#horizonlarge">110</textPath></text>
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id=" "
      d=" M98.61172523211587 150.05297032227168 A151.6915656961748 151.6915656961748 0 0 0 401.3882747678841 150.05297032227168" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="10"
      d=" M382.66700140654723 126.27738599434507 A135.02030874784586 135.02030874784586 0 1 1117.33299859345277 126.27738599434507" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text100"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -480,6 +564,8 @@
        startOffset="7.2%"
        xlink:href="#10">10</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text104"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -487,18 +573,24 @@
        startOffset="91.3%"
        xlink:href="#10">10</textPath></text>
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path106"
      d=" M143.89093104326253 102.86508244562944 A120.60188098802267 120.60188098802267 0 1 0 356.1090689567375 102.86508244562944" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="20"
      d=" M313.29186785054225 79.99424144286587 A107.91018397089718 107.91018397089718 0 1 1186.70813214945775 79.99424144286587" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text111"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -506,6 +598,8 @@
        startOffset="17.27%"
        xlink:href="#20">20</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text115"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -513,6 +607,8 @@
        startOffset="81.32%"
        xlink:href="#20">20</textPath></text>
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      id="circle117"
      stroke="black"
@@ -521,6 +617,8 @@
      cy="173.353189310058"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="30"
      stroke="black"
@@ -529,6 +627,8 @@
      cy="178.31784162395803"
      cx="250.0" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text122"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -536,6 +636,8 @@
        startOffset="96.85%"
        xlink:href="#30">30</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text126"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -543,6 +645,8 @@
        startOffset="51.6%"
        xlink:href="#30">30</textPath></text>
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      id="circle128"
      stroke="black"
@@ -551,6 +655,8 @@
      cy="182.47647040069558"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="40"
      stroke="black"
@@ -559,6 +665,8 @@
      cy="185.97072944419972"
      cx="250.0" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text133"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -566,6 +674,8 @@
        startOffset="95.15%"
        xlink:href="#40">40</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text137"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -573,6 +683,8 @@
        startOffset="53.18%"
        xlink:href="#40">40</textPath></text>
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      id="circle139"
      stroke="black"
@@ -581,6 +693,8 @@
      cy="188.90867495459025"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="50"
      stroke="black"
@@ -589,6 +703,8 @@
      cy="191.37363896305342"
      cx="250.0" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text144"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -596,6 +712,8 @@
        startOffset="93.45%"
        xlink:href="#50">50</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text148"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -603,6 +721,8 @@
        startOffset="54.18%"
        xlink:href="#50">50</textPath></text>
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      id="circle150"
      stroke="black"
@@ -611,6 +731,8 @@
      cy="193.43037299636873"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="60"
      stroke="black"
@@ -619,6 +741,8 @@
      cy="195.12937730898165"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      id="circle153"
      stroke="black"
@@ -627,6 +751,8 @@
      cy="196.5099932840155"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="70"
      stroke="black"
@@ -635,6 +761,8 @@
      cy="197.60263188553134"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      id="circle156"
      stroke="black"
@@ -643,6 +771,8 @@
      cy="198.43038330473874"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="80"
      stroke="black"
@@ -651,6 +781,8 @@
      cy="199.01017095866757"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      id="circle159"
      stroke="black"
@@ -659,18 +791,24 @@
      cy="199.35355879863306"
      cx="250.0" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="moins18"
      d=" M68.81606342301865 258.95542322090296 A293.5914579352213 293.5914579352213 0 0 0 431.18393657698135 258.95542322090296" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="none"
      fill="none"
      id="moins18p"
      d=" M68.730736882636 257.01945350329686 A292.12350064554516 292.12350064554516 0 0 0 431.269263117364 257.01945350329686" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text165"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -678,6 +816,8 @@
        startOffset="2%"
        xlink:href="#moins18p">-18</textPath></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text169"
      font-size="7"
      font-family="Arial, Helvetica, sans-serif"><textPath
@@ -685,420 +825,560 @@
        startOffset="95%"
        xlink:href="#moins18p">-18</textPath></text>
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path171"
      d=" M369.04761904761904 250.0 A165.4956655972236 165.4956655972236 0 0 0 130.95238095238096 250.0" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path173"
      d=" M376.52717698065646 242.31034467279505 A166.12783215393313 166.12783215393313 0 0 0 262.3078615966079 198.84930515701564" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path175"
      d=" M237.85024330672223 200.98317556625193 A166.12783215393313 166.12783215393313 0 0 0 138.4019853683048 256.7823394799151" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path177"
      d=" M361.5980146316952 256.7823394799151 A166.12783215393313 166.12783215393313 0 0 0 262.14975669327777 200.98317556625193" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path179"
      d=" M237.6921384033921 198.84930515701564 A166.12783215393313 166.12783215393313 0 0 0 123.47282301934355 242.31034467279505" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path181"
      d=" M383.9739823939283 233.58992706521116 A168.04870299916502 168.04870299916502 0 0 0 262.24625118476484 197.7697408691253" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path183"
      d=" M238.0651933354735 202.02176933291508 A168.04870299916502 168.04870299916502 0 0 0 145.77939120687353 262.7656710731681" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path185"
      d=" M354.2206087931265 262.7656710731681 A168.04870299916502 168.04870299916502 0 0 0 261.9348066645265 202.02176933291508" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path187"
      d=" M237.75374881523513 197.7697408691253 A168.04870299916502 168.04870299916502 0 0 0 116.02601760607172 233.58992706521116" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path189"
      d=" M391.29783726502967 223.6997885492762 A171.33372055391803 171.33372055391803 0 0 0 262.08881540295374 196.69287144399377" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path191"
      d=" M238.36657832043386 203.0317172922065 A171.33372055391803 171.33372055391803 0 0 0 153.0574767509547 268.04421716118947" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path193"
      d=" M346.9425232490453 268.04421716118947 A171.33372055391803 171.33372055391803 0 0 0 261.63342167956614 203.0317172922065" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path195"
      d=" M237.91118459704623 196.69287144399377 A171.33372055391803 171.33372055391803 0 0 0 108.70216273497036 223.6997885492762" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path197"
      d=" M398.37191996606253 212.486390091622 A176.11680876967185 176.11680876967185 0 0 0 261.8349644605541 195.62742782552527" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path199"
      d=" M238.75063953501493 204.0062918555465 A176.11680876967185 176.11680876967185 0 0 0 160.22023088514496 272.69946521558313" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path201"
      d=" M339.77976911485507 272.69946521558313 A176.11680876967185 176.11680876967185 0 0 0 261.2493604649851 204.0062918555465" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path203"
      d=" M238.1650355394459 195.62742782552527 A176.11680876967185 176.11680876967185 0 0 0 101.62808003393747 212.486390091622" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path205"
      d=" M405.0211715287962 199.78484174103266 A182.604263103977 182.604263103977 0 0 0 261.4849436621997 194.58237196102792" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path207"
      d=" M239.21318885084648 204.93925521510187 A182.604263103977 182.604263103977 0 0 0 167.25975730426086 276.80159322999395" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path209"
      d=" M332.74024269573914 276.80159322999395 A182.604263103977 182.604263103977 0 0 0 260.78681114915355 204.93925521510187" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path211"
      d=" M238.5150563378003 194.58237196102792 A182.604263103977 182.604263103977 0 0 0 94.97882847120383 199.78484174103266" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path213"
      d=" M411.00799007036073 185.4259427469437 A191.09793416454664 191.09793416454664 0 0 0 261.03988976245944 193.56681088237806" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path215"
      d=" M239.74967054157767 205.8248669079524 A191.09793416454664 191.09793416454664 0 0 0 174.17404964068777 280.41084642836614" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path217"
      d=" M325.82595035931223 280.41084642836614 A191.09793416454664 191.09793416454664 0 0 0 260.2503294584223 205.8248669079524" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path219"
      d=" M238.96011023754053 193.56681088237806 A191.09793416454664 191.09793416454664 0 0 0 88.99200992963927 185.4259427469437" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path221"
      d=" M411.94080921636305 168.25042636841096 A202.0329031112541 202.0329031112541 0 0 0 260.50187777957166 192.58989853529343" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path223"
      d=" M240.3552183127457 206.65788441385166 A202.0329031112541 202.0329031112541 0 0 0 180.96534627516286 283.57880264181614" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path225"
      d=" M319.03465372483714 283.57880264181614 A202.0329031112541 202.0329031112541 0 0 0 259.6447816872543 206.65788441385166" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path227"
      d=" M239.49812222042831 192.58989853529343 A202.0329031112541 202.0329031112541 0 0 0 88.05919078363695 168.25042636841096" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path229"
      d=" M400.85962504755514 149.25680167322383 A216.03924822351289 216.03924822351289 0 0 0 259.87395564401015 191.6607264335677" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path231"
      d=" M241.02470703738305 207.43355811126827 A216.03924822351289 216.03924822351289 0 0 0 187.6389187565465 286.3494998847374" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path233"
      d=" M312.3610812434535 286.3494998847374 A216.03924822351289 216.03924822351289 0 0 0 258.97529296261695 207.43355811126827" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path235"
      d=" M240.12604435598985 191.6607264335677 A216.03924822351289 216.03924822351289 0 0 0 99.14037495244486 149.25680167322383" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path237"
      d=" M388.2183759902297 132.51170689289683 A234.04621480155606 234.04621480155606 0 0 0 259.1601641535041 190.78820479671714" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path239"
      d=" M241.7527989193703 208.14762187361424 A234.04621480155606 234.04621480155606 0 0 0 194.2021834896552 288.76042029224624" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path241"
      d=" M305.7978165103448 288.76042029224624 A234.04621480155606 234.04621480155606 0 0 0 258.2472010806297 208.14762187361424" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path243"
      d=" M240.83983584649587 190.78820479671714 A234.04621480155606 234.04621480155606 0 0 0 111.78162400977035 132.51170689289683" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path245"
      d=" M374.4363736353296 118.00224473467077 A257.4655502117238 257.4655502117238 0 0 0 258.36553993897 189.9809364165322" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path247"
      d=" M242.53398401692127 208.7962805139406 A257.4655502117238 257.4655502117238 0 0 0 200.66405392308752 290.8433356820297" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path249"
      d=" M299.3359460769125 290.8433356820297 A257.4655502117238 257.4655502117238 0 0 0 257.46601598307876 208.7962805139406" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path251"
      d=" M241.63446006102998 189.9809364165322 A257.4655502117238 257.4655502117238 0 0 0 125.56362636467044 118.00224473467077" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path253"
      d=" M359.85273248175656 105.63866291527799 A288.5328878746602 288.5328878746602 0 0 0 257.49609952353217 189.24708605579522" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path255"
      d=" M243.36261523643515 209.37619519112 A288.5328878746602 288.5328878746602 0 0 0 207.0344714046861 292.6250253692518" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path257"
      d=" M292.9655285953139 292.6250253692518 A288.5328878746602 288.5328878746602 0 0 0 256.63738476356485 209.37619519112" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path259"
      d=" M242.5039004764678 189.24708605579522 A288.5328878746602 288.5328878746602 0 0 0 140.14726751824344 105.63866291527799" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path261"
      d=" M344.72769036379117 95.29226536162199 A330.99133119444707 330.99133119444707 0 0 0 256.55880307779296 188.5942486723724" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path263"
      d=" M244.23293805347666 209.88446778155998 A330.99133119444707 330.99133119444707 0 0 0 213.32406860006603 294.1278788647734" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path265"
      d=" M286.675931399934 294.1278788647734 A330.99133119444707 330.99133119444707 0 0 0 255.76706194652334 209.88446778155998" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path267"
      d=" M243.44119692220704 188.5942486723724 A330.99133119444707 330.99133119444707 0 0 0 155.27230963620883 95.29226536162199" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path269"
      d=" M329.25215872153535 86.82244695861607 A391.596105941027 391.596105941027 0 0 0 255.5614971260476 188.0293201444384" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path271"
      d=" M245.13911533530404 210.31862510430201 A391.596105941027 391.596105941027 0 0 0 219.54393109849826 295.3703961830963" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path273"
      d=" M280.45606890150174 295.3703961830963 A391.596105941027 391.596105941027 0 0 0 254.86088466469596 210.31862510430201" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path275"
      d=" M244.4385028739524 188.0293201444384 A391.596105941027 391.596105941027 0 0 0 170.74784127846465 86.82244695861607" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path277"
      d=" M313.5602984524119 80.09441757482654 A483.8769552810811 483.8769552810811 0 0 0 254.51283621571895 187.55837441063682" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path279"
      d=" M246.07524773143206 210.67660376898988 A483.8769552810811 483.8769552810811 0 0 0 225.70543152809154 296.3675975584238" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path281"
      d=" M274.29456847190846 296.3675975584238 A483.8769552810811 483.8769552810811 0 0 0 253.92475226856794 210.67660376898988" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path283"
      d=" M245.48716378428105 187.55837441063682 A483.8769552810811 483.8769552810811 0 0 0 186.43970154758807 80.09441757482654" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path285"
      d=" M297.7421991140835 74.98999770770729 A639.4261501570302 639.4261501570302 0 0 0 253.42218439007152 187.18655100166015" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path287"
      d=" M247.03539016884437 210.95673629923337 A639.4261501570302 639.4261501570302 0 0 0 231.82011691752308 297.1313529353322" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path289"
      d=" M268.1798830824769 297.1313529353322 A639.4261501570302 639.4261501570302 0 0 0 252.96460983115563 210.95673629923337" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path291"
      d=" M246.57781560992848 187.18655100166015 A639.4261501570302 639.4261501570302 0 0 0 202.25780088591648 74.98999770770729" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path293"
      d=" M281.8553376495369 71.41372969393439 A953.0515541295 953.0515541295 0 0 0 252.29949815696173 186.91795680601655" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path295"
      d=" M248.01356504036053 211.1577390707864 A953.0515541295 953.0515541295 0 0 0 237.89963474086278 297.6706399616098" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path297"
      d=" M262.1003652591372 297.6706399616098 A953.0515541295 953.0515541295 0 0 0 251.98643495963947 211.1577390707864" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      fill="none"
      id="path299"
      d=" M247.70050184303827 186.91795680601655 A953.0515541295 953.0515541295 0 0 0 218.14466235046308 71.41372969393439" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path301"
      d=" M265.93445462964314 69.29606635644885 A1898.8498104638143 1898.8498104638143 0 0 0 251.15519347209724 186.75558557483402" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path303"
      d=" M249.0037727118883 211.27870249581838 A1898.8498104638143 1898.8498104638143 0 0 0 243.9556864857735 297.9917375248473" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path305"
      d=" M256.04431351422653 297.9917375248473 A1898.8498104638143 1898.8498104638143 0 0 0 250.9962272881117 211.27870249581838" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.25"
      stroke="black"
      fill="none"
      id="path307"
      d=" M248.84480652790276 186.75558557483402 A1898.8498104638143 1898.8498104638143 0 0 0 234.06554537035683 69.29606635644885" />
   <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      stroke="black"
      id="line309"
@@ -1107,6 +1387,8 @@
      y1="68.59487747420943"
      x1="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="circle311"
      stroke="red"
@@ -1115,6 +1397,8 @@
      cy="250.0"
      cx="250.0" />
   <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      stroke-width="0.5"
      id="circle313"
      stroke="red"
@@ -1123,10 +1407,14 @@
      cy="250.0"
      cx="250.0" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="path1146"
      d="M 343.1905,350.44101 316.60532,300.29169"
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend);paint-order:fill markers stroke" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text1458"
      y="366.75464"
      x="217.51509"
@@ -1137,10 +1425,14 @@
        id="tspan1456"
        sodipodi:role="line">Tropique du Cancer</tspan></text>
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="path1502"
      d="m 181.8668,386.08931 -43.50302,-1.20842"
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;marker-end:url(#marker1506)" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text1540"
      y="389.11035"
      x="195.15939"
@@ -1151,10 +1443,14 @@
        id="tspan1538"
        sodipodi:role="line">Tropique du Capricorne</tspan></text>
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="path1542"
      d="m 114.79964,331.71054 39.87777,-1.20842"
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;marker-end:url(#Arrow1Mend)" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text1628"
      y="332.31476"
      x="48.940899"
@@ -1165,6 +1461,8 @@
        id="tspan1626"
        sodipodi:role="line">Equateur</tspan></text>
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text1632"
      y="176.42892"
      x="432.61337"
@@ -1175,14 +1473,20 @@
        id="tspan1630"
        sodipodi:role="line">Horizon</tspan></text>
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="path1634"
      d="m 459.19856,179.44996 -48.33669,18.73047"
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;marker-end:url(#marker1638)" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="path1688"
      d="M 114.19543,67.067157 244.70449,193.34676"
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;marker-end:url(#marker1692)" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text1756"
      y="64.650322"
      x="67.671364"
@@ -1193,18 +1497,26 @@
        id="tspan1754"
        sodipodi:role="line">Zénith</tspan></text>
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="path1830"
      d="M 383.06827,73.109244 371.5883,145.01007"
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;marker-end:url(#marker1476)" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="path2010"
      d="M 377.63039,72.505035 330.50212,132.32169"
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;marker-end:url(#marker2014)" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="path2100"
      d="M 392.1314,72.505035 380.65143,195.76359"
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;marker-end:url(#marker2104)" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text2198"
      y="64.650322"
      x="371.58832"
@@ -1215,14 +1527,20 @@
        id="tspan2196"
        sodipodi:role="line">Lignes d'azimuts</tspan></text>
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="path2200"
      d="m 208.45198,32.023057 8.45892,88.818673"
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;marker-end:url(#marker2204)" />
   <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="path2302"
      d="M 215.70248,30.81464 245.3087,87.006042"
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;marker-end:url(#marker1846)" />
   <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
      id="text2312"
      y="25.376762"
      x="140.17641"
@@ -1232,4 +1550,22 @@
        x="140.17641"
        id="tspan2310"
        sodipodi:role="line">Almicantarats</tspan></text>
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     id="path2314"
+     d="M 86.401833,97.277589 240.47503,244.70449"
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;marker-end:url(#marker2318)" />
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     id="text2424"
+     y="91.839714"
+     x="19.938885"
+     style="font-weight:bold;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;"
+     xml:space="preserve"><tspan
+       y="91.839714"
+       x="19.938885"
+       id="tspan2422"
+       sodipodi:role="line">Pôle Nord</tspan></text>
 </svg>
