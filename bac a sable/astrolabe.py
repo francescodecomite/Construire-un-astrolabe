@@ -136,37 +136,45 @@ coefB=TAILLE/2
 #PHI=50.7333
 #PHI=44
 #PHI=46
-PHI=39
+#PHI=39
 #PHI=30 # encore des problème avec cette latitude : décommentez la dernière ligne des 4 dictionnaires ci-dessous pour l'activer quand même...
 #PHI=60
-
+PHI=25
 decalages={50.7333:[9,18.1,30.8,40.15,48.2,57.5,67,78.2,88.3],
           39:[6.5,16.8,30.4,40.15,48.2,57.65,67.4,79.25,91],
            44:[6.5,16.8,30.4,40.15,48.2,57.65,67.4,79.25,91],
            46:[6.5,16.8,30.4,40.15,48.2,57.65,67.4,79.25,91],
-           60:[14,22,32.6,41,48.42,57.1,65.55,75.5,84]}
-           # Il y a encore des problèmes de cercles avec cette latiture 30:[6.5,16.8,30.4,40.15,48.2,57.65,67.4,79.25,91]
-
+           60:[14,22,32.6,41,48.42,57.1,65.55,75.5,84],
+           25:[14,22,32.6,41,48.42,57.1,65.55,75.5,84],
+           # Il y a encore des problèmes de cercles avec cette latitude
+           30:[6.5,16.8,30.4,40.15,48.2,57.65,67.4,79.25,91]}
+ 
 decalsup={50.7333:[58.6,62,65.5,68.6,71.55,74.4,77.4,80.35,83.4,86.7,90.2],
           44:[58.6,62.4,65.5,68.6,71.55,74.4,77.4,80.3,83.4,86.5,90],
           46:[58.6,62.4,65.5,68.6,71.55,74.4,77.4,80.3,83.4,86.5,90],
          39:[58.6,62.4,65.5,68.6,71.55,74.4,77.4,80.3,83.4,86.5,90],
-          60:[59,62.3,65.3,68.4,71.3,74.3,77.4,80.4,83.6,86.4,90]}
-          # Il y a encore des problèmes de cercles avec cette latiture 30:[58.6,62.4,65.5,68.6,71.55,74.4,77.4,80.3,83.4,86.5,90]}
+          60:[59,62.3,65.3,68.4,71.3,74.3,77.4,80.4,83.6,86.4,90],
+           25:[59,62.3,65.3,68.4,71.3,74.3,77.4,80.4,83.6,86.4,90],
+          # Il y a encore des problèmes de cercles avec cette latitude
+          30:[58.6,62.4,65.5,68.6,71.55,74.4,77.4,80.3,83.4,86.5,90]}
 
 decaldroit={50.7333:[12.485,97.13,95.561,94.1,92.59],
             44:[7.2,17.27,96.85,95.15,93.45],
             46:[8.6,20.5,96.3,94.8,93.45],
              39:[8.6,20.5,96.3,94.8,93.45],
-            60:[96.38,95,93.8,92.7,91.5]}
-            # Il y a encore des problèmes de cercles avec cette latiture 30: [10,5.75,212,95.15,93.45]}
+            60:[96.38,95,93.8,92.7,91.5],
+            25:[96.38,95,93.8,92.7,91.5],
+            # Il y a encore des problèmes de cercles avec cette latitude
+            30: [10,5.75,212,95.15,93.45]}
 
 decalgauche={50.7333:[86.2,51.7,52.9,54.1,54.8],
              44:[91.3,81.32,51.6,53.18,54.18],
              46:[89.785,78.1,52,53.18,54.18],
               39:[89.785,78.1,52,53.18,54.18],
-             60:[52.62,53.6,54.5,55.3,55.7]}
-             # Il y a encore des problèmes de cercles avec cette latiture 30:[91.3,81.32,51.6,53.18,54.18] }
+             25:[52.62,53.6,54.5,55.3,55.7],
+              60:[52.62,53.6,54.5,55.3,55.7],
+             # Il y a encore des problèmes de cercles avec cette latitude
+             30:[91.3,81.32,51.6,53.18,54.18] }
 from math import *
 
 def transfo(x):
@@ -374,6 +382,7 @@ def tympan(x):
     up=x*tan(angle(PHI/2))
     rayonhor=(u+up)/2
     centre=rayonhor-up
+    print(centre)
     # un deuxieme cercle fantome pour bien positionner le texte
     rayonhorlarge=rayonhor*1.04
     #image.write(cercle(0,-centre,rayonhor,stroke="\"blue\"",  id="\"horizon0\"" ))
@@ -383,6 +392,7 @@ def tympan(x):
     # Les points de contact calcul
    
     v=(rayoncap*rayoncap-rayonhor*rayonhor+centre*centre)/(2*centre)
+    print(rayoncap," ",v)
     u=sqrt(rayoncap*rayoncap-v*v)
     vp=(rayoncap*rayoncap-rayonhorlarge*rayonhorlarge+centre*centre)/(2*centre)
     up=sqrt(rayoncap*rayoncap-vp*vp)
@@ -412,7 +422,7 @@ def tympan(x):
     
     
     
-   
+    
     
     # Tracé des almucantarats
     k=0
@@ -492,7 +502,7 @@ def tympan(x):
         # Sauvegarde de l'almucantarat de 80°  
         if i==80:
          sauvegarde=((0,-centre),radi)
-     
+    
     # Tracé de l'almucantarat -18 degrés
     alpha=(180-(PHI-18))/2
     alphap=(PHI+18)/2
@@ -1644,9 +1654,9 @@ if __name__=="__main__":
    #ostenseur(R/2)
    #dos(R/2)
    tympan(R/2)
-   tympanseul(R/2)
+   #tympanseul(R/2)
    #rete(R/2)
-   #texttry(R/2) 
+  
   
 
     
