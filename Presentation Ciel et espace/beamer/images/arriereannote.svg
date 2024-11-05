@@ -1,0 +1,6900 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 3779.5274 2267.7164"
+   version="1.1"
+   id="svg1940"
+   sodipodi:docname="arriereannote.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   width="1000mm"
+   height="600mm">
+  <metadata
+     id="metadata1946">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1944" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview1942"
+     showgrid="true"
+     inkscape:zoom="0.78715622"
+     inkscape:cx="686.63992"
+     inkscape:cy="478.87776"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1940"
+     inkscape:document-rotation="0"
+     units="mm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2753" />
+  </sodipodi:namedview>
+  <text
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="7px"
+     id="text1784"><textPath
+       xlink:href="#basic"
+       startOffset="0.1%"
+       id="textPath1782" /></text>
+  <g
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\arriere.png"
+     id="g2784">
+    <circle
+       stroke-width="0.854745"
+       id="capricorne"
+       stroke="#000000"
+       fill="none"
+       r="310.11023"
+       cy="571.91113"
+       cx="522.86188" />
+    <circle
+       stroke-width="0.854745"
+       id="capricornebis"
+       stroke="none"
+       fill="none"
+       r="316.31244"
+       cy="571.91113"
+       cx="522.86188" />
+    <circle
+       stroke-width="0.854745"
+       id="  "
+       stroke="#000000"
+       fill="none"
+       r="1.2210643"
+       cy="571.91113"
+       cx="522.86188" />
+    <circle
+       stroke-width="0.854745"
+       id="circle5"
+       stroke="#000000"
+       fill="none"
+       r="328.71686"
+       cy="571.91113"
+       cx="522.86188" />
+    <circle
+       stroke-width="0.854745"
+       id="circle7"
+       stroke="#000000"
+       fill="none"
+       r="353.52567"
+       cy="571.91113"
+       cx="522.86188" />
+    <circle
+       stroke-width="0.854745"
+       id="calendar"
+       stroke="none"
+       fill="none"
+       r="330.36044"
+       cy="571.91113"
+       cx="522.86188" />
+    <circle
+       stroke-width="0.854745"
+       id="graduations"
+       stroke="none"
+       fill="none"
+       r="342.91989"
+       cy="571.91113"
+       cx="522.86188" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id=" "
+       y2="248.18825"
+       x2="579.94293"
+       y1="223.75633"
+       x1="584.25098" />
+    <text
+       id="text14"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath12"
+         startOffset="81.024307%"
+         xlink:href="#calendar">JANVIER</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line16"
+       y2="322.23254"
+       x2="736.67334"
+       y1="303.38889"
+       x1="752.81012" />
+    <text
+       id="text20"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath18"
+         startOffset="89.10653%"
+         xlink:href="#calendar">FEVRIER</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line22"
+       y2="449.79364"
+       x2="828.05377"
+       y1="440.57727"
+       x1="851.08716" />
+    <text
+       id="text26"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath24"
+         startOffset="97.188753%"
+         xlink:href="#calendar">MARS</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line28"
+       y2="622.01306"
+       x2="847.7381"
+       y1="625.79437"
+       x1="872.25708" />
+    <text
+       id="text32"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath30"
+         startOffset="5.5448614%"
+         xlink:href="#calendar">AVRIL</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line34"
+       y2="775.89502"
+       x2="780.63184"
+       y1="791.29004"
+       x1="800.08618" />
+    <text
+       id="text38"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath36"
+         startOffset="13.900973%"
+         xlink:href="#calendar">MAI</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line40"
+       y2="878.65265"
+       x2="641.0329"
+       y1="901.80292"
+       x1="649.95148" />
+    <text
+       id="text44"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath42"
+         startOffset="22.257084%"
+         xlink:href="#calendar">JUIN</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line46"
+       y2="897.00031"
+       x2="474.16092"
+       y1="921.5354"
+       x1="470.48538" />
+    <text
+       id="text50"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath48"
+         startOffset="30.613333%"
+         xlink:href="#calendar">JUILLET</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line52"
+       y2="827.02515"
+       x2="315.56589"
+       y1="846.27899"
+       x1="299.92093" />
+    <text
+       id="text56"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath54"
+         startOffset="39.10653%"
+         xlink:href="#calendar">AOUT</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line58"
+       y2="686.11078"
+       x2="214.61971"
+       y1="694.72961"
+       x1="191.35616" />
+    <text
+       id="text62"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath60"
+         startOffset="47.462639%"
+         xlink:href="#calendar">SEPTEMBRE</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line64"
+       y2="519.01575"
+       x2="198.42874"
+       y1="515.02362"
+       x1="173.94321" />
+    <text
+       id="text68"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath66"
+         startOffset="55.818892%"
+         xlink:href="#calendar">OCTOBRE</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line70"
+       y2="361.33765"
+       x2="270.44635"
+       y1="345.44531"
+       x1="251.39613" />
+    <text
+       id="text74"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath72"
+         startOffset="64.175141%"
+         xlink:href="#calendar">NOVEMBRE</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line76"
+       y2="264.16217"
+       x2="407.33984"
+       y1="240.93582"
+       x1="398.62119" />
+    <text
+       id="text80"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath78"
+         startOffset="72.531247%"
+         xlink:href="#calendar">DECEMBRE</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line82"
+       y2="235.66689"
+       x2="606.35425"
+       y1="228.80475"
+       x1="608.05817" />
+    <text
+       id="text86"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath84"
+         startOffset="79.943609%"
+         xlink:href="#graduations">10</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line88"
+       y2="240.74486"
+       x2="636.09692"
+       y1="237.39975"
+       x1="637.24072" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line90"
+       y2="254.93817"
+       x2="662.71649"
+       y1="248.46935"
+       x1="665.57062" />
+    <text
+       id="text94"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath92"
+         startOffset="82.683337%"
+         xlink:href="#graduations">20</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line96"
+       y2="265.03583"
+       x2="691.14972"
+       y1="261.93607"
+       x1="692.84961" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line98"
+       y2="283.5791"
+       x2="714.94464"
+       y1="277.69476"
+       x1="718.86475" />
+    <text
+       id="text102"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath100"
+         startOffset="85.422498%"
+         xlink:href="#graduations">30</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line104"
+       y2="298.39029"
+       x2="741.21851"
+       y1="295.62744"
+       x1="743.42413" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line106"
+       y2="324.88663"
+       x2="765.78174"
+       y1="319.84531"
+       x1="770.73926" />
+    <text
+       id="text110"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath108"
+         startOffset="88.436669%"
+         xlink:href="#graduations">10</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line112"
+       y2="344.38766"
+       x2="788.80615"
+       y1="342.08948"
+       x1="791.49249" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line114"
+       y2="370.14807"
+       x2="804.505"
+       y1="366.03046"
+       x1="810.25281" />
+    <text
+       id="text118"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath116"
+         startOffset="91.176391%"
+         xlink:href="#graduations">20</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line120"
+       y2="393.30481"
+       x2="823.84869"
+       y1="391.50073"
+       x1="826.88898" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line122"
+       y2="421.37357"
+       x2="834.90289"
+       y1="418.30136"
+       x1="841.27106" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line124"
+       y2="465.63879"
+       x2="852.61542"
+       y1="463.46997"
+       x1="859.34503" />
+    <text
+       id="text128"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath126"
+         startOffset="96.107781%"
+         xlink:href="#graduations">10</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line130"
+       y2="493.58524"
+       x2="863.97522"
+       y1="492.79404"
+       x1="867.42084" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line132"
+       y2="523.69391"
+       x2="865.94537"
+       y1="522.7099"
+       x1="872.94702" />
+    <text
+       id="text136"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath134"
+         startOffset="98.847502%"
+         xlink:href="#graduations">20</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line138"
+       y2="553.17316"
+       x2="872.35034"
+       y1="552.98389"
+       x1="875.88055" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line140"
+       y2="583.17432"
+       x2="869.13391"
+       y1="583.40417"
+       x1="876.20068" />
+    <text
+       id="text144"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath142"
+         startOffset="1.5872221%"
+         xlink:href="#graduations">30</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line146"
+       y2="613.315"
+       x2="870.39465"
+       y1="613.73322"
+       x1="873.90509" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line148"
+       y2="648.14874"
+       x2="860.82489"
+       y1="649.70465"
+       x1="867.72211" />
+    <text
+       id="text152"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath150"
+         startOffset="4.6011109%"
+         xlink:href="#graduations">10</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line154"
+       y2="677.99384"
+       x2="856.38812"
+       y1="679.06543"
+       x1="859.75708" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line156"
+       y2="704.91266"
+       x2="842.77087"
+       y1="707.62701"
+       x1="849.29968" />
+    <text
+       id="text160"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath158"
+         startOffset="7.3408335%"
+         xlink:href="#graduations">20</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line162"
+       y2="733.55664"
+       x2="833.28741"
+       y1="735.18945"
+       x1="836.42303" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line164"
+       y2="757.74512"
+       x2="815.2605"
+       y1="761.5376"
+       x1="821.22778" />
+    <text
+       id="text168"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath166"
+         startOffset="10.080556%"
+         xlink:href="#graduations">30</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line170"
+       y2="784.34125"
+       x2="801.01062"
+       y1="786.48706"
+       x1="803.82019" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line172"
+       y2="805.08429"
+       x2="779.10681"
+       y1="809.8429"
+       x1="784.3363" />
+    <text
+       id="text176"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath174"
+         startOffset="12.820278%"
+         xlink:href="#graduations">10</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line178"
+       y2="828.84644"
+       x2="760.51184"
+       y1="831.44177"
+       x1="762.91235" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line180"
+       y2="845.53094"
+       x2="735.3786"
+       y1="851.11499"
+       x1="739.71576" />
+    <text
+       id="text184"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath182"
+         startOffset="15.560001%"
+         xlink:href="#graduations">20</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line186"
+       y2="865.75671"
+       x2="712.98822"
+       y1="868.72485"
+       x1="714.90869" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line188"
+       y2="877.88947"
+       x2="685.36853"
+       y1="884.13397"
+       x1="688.685" />
+    <text
+       id="text192"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath190"
+         startOffset="18.299723%"
+         xlink:href="#graduations">30</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line194"
+       y2="893.98108"
+       x2="659.84448"
+       y1="897.23431"
+       x1="661.22821" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line196"
+       y2="903.00964"
+       x2="624.86658"
+       y1="909.76672"
+       x1="626.9483" />
+    <text
+       id="text200"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath198"
+         startOffset="21.313334%"
+         xlink:href="#graduations">10</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line202"
+       y2="914.00763"
+       x2="596.77576"
+       y1="917.4632"
+       x1="597.52234" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line204"
+       y2="915.58875"
+       x2="566.6441"
+       y1="922.60254"
+       x1="567.5376" />
+    <text
+       id="text208"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath206"
+         startOffset="24.053055%"
+         xlink:href="#graduations">20</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line210"
+       y2="921.61243"
+       x2="537.08459"
+       y1="925.14478"
+       x1="537.22827" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line212"
+       y2="918.00885"
+       x2="507.12747"
+       y1="925.07202"
+       x1="506.80637" />
+    <text
+       id="text216"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath214"
+         startOffset="26.792777%"
+         xlink:href="#graduations">30</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line218"
+       y2="918.88013"
+       x2="476.97305"
+       y1="922.38489"
+       x1="476.50952" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line220"
+       y2="910.19836"
+       x2="448.07596"
+       y1="917.10217"
+       x1="446.54971" />
+    <text
+       id="text224"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath222"
+         startOffset="29.532498%"
+         xlink:href="#graduations">10</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line226"
+       y2="905.89154"
+       x2="418.21793"
+       y1="909.26514"
+       x1="417.16092" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line228"
+       y2="892.38824"
+       x2="391.23508"
+       y1="898.92859"
+       x1="388.54883" />
+    <text
+       id="text232"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath230"
+         startOffset="32.27222%"
+         xlink:href="#graduations">20</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line234"
+       y2="883.03064"
+       x2="362.55606"
+       y1="886.17328"
+       x1="360.93683" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line236"
+       y2="864.78235"
+       x2="337.77362"
+       y1="870.75928"
+       x1="333.99631" />
+    <text
+       id="text240"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath238"
+         startOffset="35.011944%"
+         xlink:href="#graduations">30</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line242"
+       y2="850.97308"
+       x2="311.63281"
+       y1="853.79187"
+       x1="309.49918" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line244"
+       y2="825.12323"
+       x2="286.39874"
+       y1="830.29083"
+       x1="281.57297" />
+    <text
+       id="text248"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath246"
+         startOffset="38.025832%"
+         xlink:href="#graduations">10</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line250"
+       y2="806.22296"
+       x2="262.87866"
+       y1="808.58978"
+       x1="260.25256" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line252"
+       y2="780.87634"
+       x2="246.52019"
+       y1="785.14093"
+       x1="240.88057" />
+    <text
+       id="text256"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath254"
+         startOffset="40.765557%"
+         xlink:href="#graduations">20</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line258"
+       y2="758.22662"
+       x2="226.58522"
+       y1="760.10858"
+       x1="223.59253" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line260"
+       y2="730.45251"
+       x2="214.81023"
+       y1="733.68805"
+       x1="208.52345" />
+    <text
+       id="text264"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath262"
+         startOffset="43.505278%"
+         xlink:href="#graduations">30</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line266"
+       y2="704.72284"
+       x2="199.04964"
+       y1="706.06439"
+       x1="195.77879" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line268"
+       y2="669.63696"
+       x2="190.47527"
+       y1="671.63141"
+       x1="183.69186" />
+    <text
+       id="text272"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath270"
+         startOffset="46.518889%"
+         xlink:href="#graduations">10</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line274"
+       y2="641.40063"
+       x2="179.83926"
+       y1="642.1026"
+       x1="176.37437" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line276"
+       y2="611.25714"
+       x2="178.64815"
+       y1="612.06012"
+       x1="171.62338" />
+    <text
+       id="text280"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath278"
+         startOffset="49.258611%"
+         xlink:href="#graduations">20</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line282"
+       y2="581.61627"
+       x2="173.00601"
+       y1="581.71429"
+       x1="169.47212" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line284"
+       y2="551.71423"
+       x2="176.99588"
+       y1="551.30206"
+       x1="169.93739" />
+    <text
+       id="text288"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath286"
+         startOffset="51.998335%"
+         xlink:href="#graduations">30</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line290"
+       y2="521.54504"
+       x2="176.5144"
+       y1="521.03625"
+       x1="173.01595" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line292"
+       y2="492.76837"
+       x2="185.56732"
+       y1="491.1532"
+       x1="178.68376" />
+    <text
+       id="text296"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath294"
+         startOffset="54.738057%"
+         xlink:href="#graduations">10</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line298"
+       y2="462.96255"
+       x2="190.26073"
+       y1="461.86209"
+       x1="186.90112" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line300"
+       y2="436.16193"
+       x2="204.10907"
+       y1="433.39154"
+       x1="197.60391" />
+    <text
+       id="text304"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath302"
+         startOffset="57.477778%"
+         xlink:href="#graduations">20</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line306"
+       y2="407.60059"
+       x2="213.83865"
+       y1="405.94089"
+       x1="210.71721" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line308"
+       y2="383.56818"
+       x2="232.07307"
+       y1="379.72446"
+       x1="226.13861" />
+    <text
+       id="text312"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath310"
+         startOffset="60.2175%"
+         xlink:href="#graduations">30</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line314"
+       y2="357.09561"
+       x2="246.55119"
+       y1="354.92575"
+       x1="243.76018" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line316"
+       y2="332.19751"
+       x2="272.72479"
+       y1="327.30539"
+       x1="267.61996" />
+    <text
+       id="text320"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath318"
+         startOffset="63.231111%"
+         xlink:href="#graduations">10</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line322"
+       y2="308.92752"
+       x2="291.92267"
+       y1="306.27112"
+       x1="289.58994" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line324"
+       y2="292.89374"
+       x2="317.48303"
+       y1="287.19949"
+       x1="313.29163" />
+    <text
+       id="text328"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath326"
+         startOffset="65.970832%"
+         xlink:href="#graduations">20</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line330"
+       y2="273.25613"
+       x2="340.38312"
+       y1="270.23941"
+       x1="338.53992" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line332"
+       y2="261.83765"
+       x2="368.31219"
+       y1="255.50961"
+       x1="365.15811" />
+    <text
+       id="text336"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath334"
+         startOffset="68.710554%"
+         xlink:href="#graduations">30</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line338"
+       y2="246.41292"
+       x2="394.23761"
+       y1="243.12505"
+       x1="392.93839" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line340"
+       y2="239.94722"
+       x2="423.70981"
+       y1="233.17244"
+       x1="421.68628" />
+    <text
+       id="text344"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath342"
+         startOffset="71.450281%"
+         xlink:href="#graduations">10</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line346"
+       y2="229.19131"
+       x2="451.89423"
+       y1="225.72949"
+       x1="451.17737" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line348"
+       y2="227.86955"
+       x2="482.03833"
+       y1="220.8483"
+       x1="481.2052" />
+    <text
+       id="text352"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath350"
+         startOffset="74.190003%"
+         xlink:href="#graduations">20</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line354"
+       y2="222.1004"
+       x2="511.64859"
+       y1="218.56696"
+       x1="511.53534" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line356"
+       y2="225.96165"
+       x2="541.57361"
+       y1="218.90146"
+       x1="541.95551" />
+    <text
+       id="text360"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath358"
+         startOffset="76.929724%"
+         xlink:href="#graduations">30</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line362"
+       y2="225.34981"
+       x2="571.73444"
+       y1="221.84918"
+       x1="572.22809" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line364"
+       y2="365.32718"
+       x2="562.95636"
+       y1="368.72327"
+       x1="558.68939" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line366"
+       y2="362.07233"
+       x2="567.33899"
+       y1="365.32718"
+       x1="562.95636" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line368"
+       y2="358.96567"
+       x2="571.83173"
+       y1="362.07233"
+       x1="567.33899" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line370"
+       y2="356.01395"
+       x2="576.42871"
+       y1="358.96567"
+       x1="571.83173" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line372"
+       y2="353.22345"
+       x2="581.12384"
+       y1="356.01395"
+       x1="576.42871" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line374"
+       y2="350.60025"
+       x2="585.91077"
+       y1="353.22345"
+       x1="581.12384" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line376"
+       y2="348.14999"
+       x2="590.78278"
+       y1="350.60025"
+       x1="585.91077" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line378"
+       y2="345.87793"
+       x2="595.73297"
+       y1="348.14999"
+       x1="590.78278" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line380"
+       y2="343.78903"
+       x2="600.75409"
+       y1="345.87793"
+       x1="595.73297" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line382"
+       y2="341.88773"
+       x2="605.83899"
+       y1="343.78903"
+       x1="600.75409" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line384"
+       y2="340.17816"
+       x2="610.98004"
+       y1="341.88773"
+       x1="605.83899" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line386"
+       y2="338.664"
+       x2="616.16956"
+       y1="340.17816"
+       x1="610.98004" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line388"
+       y2="337.34854"
+       x2="621.39972"
+       y1="338.664"
+       x1="616.16956" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line390"
+       y2="336.23462"
+       x2="626.6626"
+       y1="337.34854"
+       x1="621.39972" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line392"
+       y2="335.32462"
+       x2="631.95026"
+       y1="336.23462"
+       x1="626.6626" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line394"
+       y2="334.62054"
+       x2="637.25446"
+       y1="335.32462"
+       x1="631.95026" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line396"
+       y2="334.12396"
+       x2="642.5672"
+       y1="334.62054"
+       x1="637.25446" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line398"
+       y2="333.83597"
+       x2="647.88019"
+       y1="334.12396"
+       x1="642.5672" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line400"
+       y2="333.75726"
+       x2="653.1853"
+       y1="333.83597"
+       x1="647.88019" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line402"
+       y2="333.88809"
+       x2="658.47443"
+       y1="333.75726"
+       x1="653.1853" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line404"
+       y2="334.2283"
+       x2="663.73938"
+       y1="333.88809"
+       x1="658.47443" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line406"
+       y2="334.77731"
+       x2="668.97211"
+       y1="334.2283"
+       x1="663.73938" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line408"
+       y2="335.53415"
+       x2="674.16473"
+       y1="334.77731"
+       x1="668.97211" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line410"
+       y2="336.49741"
+       x2="679.3092"
+       y1="335.53415"
+       x1="674.16473" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line412"
+       y2="337.66528"
+       x2="684.39795"
+       y1="336.49741"
+       x1="679.3092" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line414"
+       y2="339.03561"
+       x2="689.42322"
+       y1="337.66528"
+       x1="684.39795" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line416"
+       y2="340.60587"
+       x2="694.3775"
+       y1="339.03561"
+       x1="689.42322" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line418"
+       y2="342.37308"
+       x2="699.2536"
+       y1="340.60587"
+       x1="694.3775" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line420"
+       y2="344.33405"
+       x2="704.04443"
+       y1="342.37308"
+       x1="699.2536" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line422"
+       y2="346.48511"
+       x2="708.74292"
+       y1="344.33405"
+       x1="704.04443" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line424"
+       y2="348.82236"
+       x2="713.34247"
+       y1="346.48511"
+       x1="708.74292" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line426"
+       y2="351.34158"
+       x2="717.83661"
+       y1="348.82236"
+       x1="713.34247" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line428"
+       y2="354.03821"
+       x2="722.21912"
+       y1="351.34158"
+       x1="717.83661" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line430"
+       y2="356.90744"
+       x2="726.48395"
+       y1="354.03821"
+       x1="722.21912" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line432"
+       y2="359.94418"
+       x2="730.62543"
+       y1="356.90744"
+       x1="726.48395" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line434"
+       y2="363.14313"
+       x2="734.63806"
+       y1="359.94418"
+       x1="730.62543" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line436"
+       y2="366.49866"
+       x2="738.51685"
+       y1="363.14313"
+       x1="734.63806" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line438"
+       y2="370.00504"
+       x2="742.25665"
+       y1="366.49866"
+       x1="738.51685" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line440"
+       y2="373.65625"
+       x2="745.85309"
+       y1="370.00504"
+       x1="742.25665" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line442"
+       y2="377.44614"
+       x2="749.30188"
+       y1="373.65625"
+       x1="745.85309" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line444"
+       y2="381.36838"
+       x2="752.599"
+       y1="377.44614"
+       x1="749.30188" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line446"
+       y2="385.41647"
+       x2="755.74084"
+       y1="381.36838"
+       x1="752.599" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line448"
+       y2="389.58383"
+       x2="758.724"
+       y1="385.41647"
+       x1="755.74084" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line450"
+       y2="393.86365"
+       x2="761.54553"
+       y1="389.58383"
+       x1="758.724" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line452"
+       y2="398.24918"
+       x2="764.20276"
+       y1="393.86365"
+       x1="761.54553" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line454"
+       y2="402.73346"
+       x2="766.69324"
+       y1="398.24918"
+       x1="764.20276" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line456"
+       y2="407.30954"
+       x2="769.01495"
+       y1="402.73346"
+       x1="766.69324" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line458"
+       y2="411.97034"
+       x2="771.1662"
+       y1="407.30954"
+       x1="769.01495" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line460"
+       y2="416.7088"
+       x2="773.14563"
+       y1="411.97034"
+       x1="771.1662" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line462"
+       y2="421.51788"
+       x2="774.95209"
+       y1="416.7088"
+       x1="773.14563" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line464"
+       y2="426.3905"
+       x2="776.58478"
+       y1="421.51788"
+       x1="774.95209" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line466"
+       y2="431.31955"
+       x2="778.04333"
+       y1="426.3905"
+       x1="776.58478" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line468"
+       y2="436.298"
+       x2="779.32758"
+       y1="431.31955"
+       x1="778.04333" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line470"
+       y2="441.31885"
+       x2="780.43768"
+       y1="436.298"
+       x1="779.32758" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line472"
+       y2="446.37518"
+       x2="781.37415"
+       y1="441.31885"
+       x1="780.43768" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line474"
+       y2="451.46008"
+       x2="782.13776"
+       y1="446.37518"
+       x1="781.37415" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line476"
+       y2="456.5668"
+       x2="782.72955"
+       y1="451.46008"
+       x1="782.13776" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line478"
+       y2="461.6886"
+       x2="783.15088"
+       y1="456.5668"
+       x1="782.72955" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line480"
+       y2="466.81897"
+       x2="783.40332"
+       y1="461.6886"
+       x1="783.15088" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line482"
+       y2="471.95135"
+       x2="783.48883"
+       y1="466.81897"
+       x1="783.40332" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line484"
+       y2="477.07956"
+       x2="783.40955"
+       y1="471.95135"
+       x1="783.48883" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line486"
+       y2="482.19727"
+       x2="783.16785"
+       y1="477.07956"
+       x1="783.40955" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line488"
+       y2="487.29855"
+       x2="782.76648"
+       y1="482.19727"
+       x1="783.16785" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line490"
+       y2="492.37753"
+       x2="782.20825"
+       y1="487.29855"
+       x1="782.76648" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line492"
+       y2="497.42847"
+       x2="781.49628"
+       y1="492.37753"
+       x1="782.20825" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line494"
+       y2="502.44592"
+       x2="780.63397"
+       y1="497.42847"
+       x1="781.49628" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line496"
+       y2="507.42456"
+       x2="779.62476"
+       y1="502.44592"
+       x1="780.63397" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line498"
+       y2="512.35931"
+       x2="778.47253"
+       y1="507.42456"
+       x1="779.62476" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line500"
+       y2="517.24524"
+       x2="777.18103"
+       y1="512.35931"
+       x1="778.47253" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line502"
+       y2="522.07764"
+       x2="775.75452"
+       y1="517.24524"
+       x1="777.18103" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line504"
+       y2="526.85211"
+       x2="774.1972"
+       y1="522.07764"
+       x1="775.75452" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line506"
+       y2="531.56433"
+       x2="772.51349"
+       y1="526.85211"
+       x1="774.1972" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line508"
+       y2="536.21045"
+       x2="770.70795"
+       y1="531.56433"
+       x1="772.51349" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line510"
+       y2="540.78662"
+       x2="768.78534"
+       y1="536.21045"
+       x1="770.70795" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line512"
+       y2="545.28931"
+       x2="766.75037"
+       y1="540.78662"
+       x1="768.78534" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line514"
+       y2="549.71527"
+       x2="764.60797"
+       y1="545.28931"
+       x1="766.75037" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line516"
+       y2="554.0614"
+       x2="762.36328"
+       y1="549.71527"
+       x1="764.60797" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line518"
+       y2="558.32513"
+       x2="760.02124"
+       y1="554.0614"
+       x1="762.36328" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line520"
+       y2="562.50378"
+       x2="757.58716"
+       y1="558.32513"
+       x1="760.02124" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line522"
+       y2="566.59515"
+       x2="755.06622"
+       y1="562.50378"
+       x1="757.58716" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line524"
+       y2="570.59723"
+       x2="752.46362"
+       y1="566.59515"
+       x1="755.06622" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line526"
+       y2="574.50836"
+       x2="749.78479"
+       y1="570.59723"
+       x1="752.46362" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line528"
+       y2="578.3269"
+       x2="747.0351"
+       y1="574.50836"
+       x1="749.78479" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line530"
+       y2="582.05182"
+       x2="744.21973"
+       y1="578.3269"
+       x1="747.0351" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line532"
+       y2="585.68201"
+       x2="741.34424"
+       y1="582.05182"
+       x1="744.21973" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line534"
+       y2="589.2168"
+       x2="738.41382"
+       y1="585.68201"
+       x1="741.34424" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line536"
+       y2="592.65576"
+       x2="735.43384"
+       y1="589.2168"
+       x1="738.41382" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line538"
+       y2="595.99866"
+       x2="732.40961"
+       y1="592.65576"
+       x1="735.43384" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line540"
+       y2="599.24561"
+       x2="729.34637"
+       y1="595.99866"
+       x1="732.40961" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line542"
+       y2="602.39685"
+       x2="726.24933"
+       y1="599.24561"
+       x1="729.34637" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line544"
+       y2="605.45288"
+       x2="723.1236"
+       y1="602.39685"
+       x1="726.24933" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line546"
+       y2="608.41455"
+       x2="719.97418"
+       y1="605.45288"
+       x1="723.1236" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line548"
+       y2="611.28284"
+       x2="716.80597"
+       y1="608.41455"
+       x1="719.97418" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line550"
+       y2="614.0589"
+       x2="713.62402"
+       y1="611.28284"
+       x1="716.80597" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line552"
+       y2="616.74432"
+       x2="710.43286"
+       y1="614.0589"
+       x1="713.62402" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line554"
+       y2="619.3407"
+       x2="707.23712"
+       y1="616.74432"
+       x1="710.43286" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line556"
+       y2="621.84979"
+       x2="704.0415"
+       y1="619.3407"
+       x1="707.23712" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line558"
+       y2="624.2738"
+       x2="700.85016"
+       y1="621.84979"
+       x1="704.0415" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line560"
+       y2="626.61499"
+       x2="697.66736"
+       y1="624.2738"
+       x1="700.85016" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line562"
+       y2="628.87573"
+       x2="694.49713"
+       y1="626.61499"
+       x1="697.66736" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line564"
+       y2="631.05865"
+       x2="691.34338"
+       y1="628.87573"
+       x1="694.49713" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line566"
+       y2="633.16663"
+       x2="688.20978"
+       y1="631.05865"
+       x1="691.34338" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line568"
+       y2="635.20251"
+       x2="685.09991"
+       y1="633.16663"
+       x1="688.20978" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line570"
+       y2="637.16949"
+       x2="682.01709"
+       y1="635.20251"
+       x1="685.09991" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line572"
+       y2="639.07068"
+       x2="678.96448"
+       y1="637.16949"
+       x1="682.01709" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line574"
+       y2="640.90955"
+       x2="675.94495"
+       y1="639.07068"
+       x1="678.96448" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line576"
+       y2="642.68951"
+       x2="672.96124"
+       y1="640.90955"
+       x1="675.94495" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line578"
+       y2="644.41412"
+       x2="670.01599"
+       y1="642.68951"
+       x1="672.96124" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line580"
+       y2="646.0871"
+       x2="667.11139"
+       y1="644.41412"
+       x1="670.01599" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line582"
+       y2="647.71216"
+       x2="664.24957"
+       y1="646.0871"
+       x1="667.11139" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line584"
+       y2="649.29315"
+       x2="661.43237"
+       y1="647.71216"
+       x1="664.24957" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line586"
+       y2="650.83398"
+       x2="658.66138"
+       y1="649.29315"
+       x1="661.43237" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line588"
+       y2="652.33856"
+       x2="655.93811"
+       y1="650.83398"
+       x1="658.66138" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line590"
+       y2="653.81085"
+       x2="653.26361"
+       y1="652.33856"
+       x1="655.93811" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line592"
+       y2="655.25482"
+       x2="650.63885"
+       y1="653.81085"
+       x1="653.26361" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line594"
+       y2="656.67444"
+       x2="648.06445"
+       y1="655.25482"
+       x1="650.63885" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line596"
+       y2="658.07379"
+       x2="645.54095"
+       y1="656.67444"
+       x1="648.06445" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line598"
+       y2="659.45679"
+       x2="643.06854"
+       y1="658.07379"
+       x1="645.54095" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line600"
+       y2="660.82739"
+       x2="640.64716"
+       y1="659.45679"
+       x1="643.06854" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line602"
+       y2="662.18939"
+       x2="638.27661"
+       y1="660.82739"
+       x1="640.64716" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line604"
+       y2="663.54675"
+       x2="635.95624"
+       y1="662.18939"
+       x1="638.27661" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line606"
+       y2="664.9032"
+       x2="633.68555"
+       y1="663.54675"
+       x1="635.95624" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line608"
+       y2="666.26245"
+       x2="631.46338"
+       y1="664.9032"
+       x1="633.68555" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line610"
+       y2="667.62805"
+       x2="629.2887"
+       y1="666.26245"
+       x1="631.46338" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line612"
+       y2="669.00348"
+       x2="627.15997"
+       y1="667.62805"
+       x1="629.2887" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line614"
+       y2="670.39209"
+       x2="625.07574"
+       y1="669.00348"
+       x1="627.15997" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line616"
+       y2="671.79712"
+       x2="623.03406"
+       y1="670.39209"
+       x1="625.07574" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line618"
+       y2="673.22174"
+       x2="621.03308"
+       y1="671.79712"
+       x1="623.03406" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line620"
+       y2="674.66876"
+       x2="619.07037"
+       y1="673.22174"
+       x1="621.03308" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line622"
+       y2="676.14099"
+       x2="617.14374"
+       y1="674.66876"
+       x1="619.07037" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line624"
+       y2="677.64099"
+       x2="615.25049"
+       y1="676.14099"
+       x1="617.14374" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line626"
+       y2="679.1712"
+       x2="613.388"
+       y1="677.64099"
+       x1="615.25049" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line628"
+       y2="680.73376"
+       x2="611.55322"
+       y1="679.1712"
+       x1="613.388" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line630"
+       y2="682.33075"
+       x2="609.74329"
+       y1="680.73376"
+       x1="611.55322" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line632"
+       y2="683.96381"
+       x2="607.9549"
+       y1="682.33075"
+       x1="609.74329" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line634"
+       y2="685.63458"
+       x2="606.18481"
+       y1="683.96381"
+       x1="607.9549" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line636"
+       y2="687.34436"
+       x2="604.42963"
+       y1="685.63458"
+       x1="606.18481" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line638"
+       y2="689.09418"
+       x2="602.68579"
+       y1="687.34436"
+       x1="604.42963" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line640"
+       y2="690.88495"
+       x2="600.94971"
+       y1="689.09418"
+       x1="602.68579" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line642"
+       y2="692.7171"
+       x2="599.21771"
+       y1="690.88495"
+       x1="600.94971" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line644"
+       y2="694.59113"
+       x2="597.48608"
+       y1="692.7171"
+       x1="599.21771" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line646"
+       y2="696.50696"
+       x2="595.7511"
+       y1="694.59113"
+       x1="597.48608" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line648"
+       y2="698.46442"
+       x2="594.00885"
+       y1="696.50696"
+       x1="595.7511" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line650"
+       y2="700.46307"
+       x2="592.25562"
+       y1="698.46442"
+       x1="594.00885" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line652"
+       y2="702.50226"
+       x2="590.48749"
+       y1="700.46307"
+       x1="592.25562" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line654"
+       y2="704.58075"
+       x2="588.70068"
+       y1="702.50226"
+       x1="590.48749" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line656"
+       y2="706.69751"
+       x2="586.89154"
+       y1="704.58075"
+       x1="588.70068" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line658"
+       y2="708.85089"
+       x2="585.05609"
+       y1="706.69751"
+       x1="586.89154" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line660"
+       y2="711.03912"
+       x2="583.1908"
+       y1="708.85089"
+       x1="585.05609" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line662"
+       y2="713.26007"
+       x2="581.29205"
+       y1="711.03912"
+       x1="583.1908" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line664"
+       y2="715.51154"
+       x2="579.35638"
+       y1="713.26007"
+       x1="581.29205" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line666"
+       y2="717.79089"
+       x2="577.38031"
+       y1="715.51154"
+       x1="579.35638" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line668"
+       y2="720.09528"
+       x2="575.36047"
+       y1="717.79089"
+       x1="577.38031" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line670"
+       y2="722.42175"
+       x2="573.29382"
+       y1="720.09528"
+       x1="575.36047" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line672"
+       y2="724.76697"
+       x2="571.17731"
+       y1="722.42175"
+       x1="573.29382" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line674"
+       y2="727.12744"
+       x2="569.00812"
+       y1="724.76697"
+       x1="571.17731" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line676"
+       y2="729.49945"
+       x2="566.78357"
+       y1="727.12744"
+       x1="569.00812" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line678"
+       y2="731.87915"
+       x2="564.5011"
+       y1="729.49945"
+       x1="566.78357" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line680"
+       y2="734.26233"
+       x2="562.15845"
+       y1="731.87915"
+       x1="564.5011" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line682"
+       y2="736.64484"
+       x2="559.75348"
+       y1="734.26233"
+       x1="562.15845" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line684"
+       y2="739.02209"
+       x2="557.28436"
+       y1="736.64484"
+       x1="559.75348" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line686"
+       y2="741.38953"
+       x2="554.74957"
+       y1="739.02209"
+       x1="557.28436" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line688"
+       y2="743.74255"
+       x2="552.14752"
+       y1="741.38953"
+       x1="554.74957" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line690"
+       y2="746.07611"
+       x2="549.47717"
+       y1="743.74255"
+       x1="552.14752" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line692"
+       y2="748.38538"
+       x2="546.73755"
+       y1="746.07611"
+       x1="549.47717" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line694"
+       y2="750.66528"
+       x2="543.92804"
+       y1="748.38538"
+       x1="546.73755" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line696"
+       y2="752.91058"
+       x2="541.04828"
+       y1="750.66528"
+       x1="543.92804" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line698"
+       y2="755.11627"
+       x2="538.09821"
+       y1="752.91058"
+       x1="541.04828" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line700"
+       y2="757.27704"
+       x2="535.078"
+       y1="755.11627"
+       x1="538.09821" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line702"
+       y2="759.38757"
+       x2="531.98798"
+       y1="757.27704"
+       x1="535.078" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line704"
+       y2="761.44269"
+       x2="528.82898"
+       y1="759.38757"
+       x1="531.98798" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line706"
+       y2="763.43719"
+       x2="525.60199"
+       y1="761.44269"
+       x1="528.82898" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line708"
+       y2="765.36572"
+       x2="522.30835"
+       y1="763.43719"
+       x1="525.60199" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line710"
+       y2="767.22321"
+       x2="518.94958"
+       y1="765.36572"
+       x1="522.30835" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line712"
+       y2="769.00446"
+       x2="515.52747"
+       y1="767.22321"
+       x1="518.94958" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line714"
+       y2="770.70459"
+       x2="512.04425"
+       y1="769.00446"
+       x1="515.52747" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line716"
+       y2="772.31842"
+       x2="508.50226"
+       y1="770.70459"
+       x1="512.04425" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line718"
+       y2="773.84137"
+       x2="504.90411"
+       y1="772.31842"
+       x1="508.50226" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line720"
+       y2="775.26862"
+       x2="501.25278"
+       y1="773.84137"
+       x1="504.90411" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line722"
+       y2="776.59558"
+       x2="497.55139"
+       y1="775.26862"
+       x1="501.25278" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line724"
+       y2="777.81799"
+       x2="493.80338"
+       y1="776.59558"
+       x1="497.55139" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line726"
+       y2="778.93146"
+       x2="490.01233"
+       y1="777.81799"
+       x1="493.80338" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line728"
+       y2="779.93213"
+       x2="486.18213"
+       y1="778.93146"
+       x1="490.01233" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line730"
+       y2="780.81616"
+       x2="482.31686"
+       y1="779.93213"
+       x1="486.18213" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line732"
+       y2="781.57983"
+       x2="478.42081"
+       y1="780.81616"
+       x1="482.31686" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line734"
+       y2="782.21979"
+       x2="474.49838"
+       y1="781.57983"
+       x1="478.42081" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line736"
+       y2="782.73285"
+       x2="470.55429"
+       y1="782.21979"
+       x1="474.49838" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line738"
+       y2="783.11627"
+       x2="466.59332"
+       y1="782.73285"
+       x1="470.55429" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line740"
+       y2="783.36725"
+       x2="462.62045"
+       y1="783.11627"
+       x1="466.59332" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line742"
+       y2="783.48346"
+       x2="458.64075"
+       y1="783.36725"
+       x1="462.62045" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line744"
+       y2="783.46289"
+       x2="454.65948"
+       y1="783.48346"
+       x1="458.64075" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line746"
+       y2="783.30353"
+       x2="450.68198"
+       y1="783.46289"
+       x1="454.65948" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line748"
+       y2="783.00397"
+       x2="446.71362"
+       y1="783.30353"
+       x1="450.68198" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line750"
+       y2="782.56293"
+       x2="442.75998"
+       y1="783.00397"
+       x1="446.71362" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line752"
+       y2="781.97949"
+       x2="438.82657"
+       y1="782.56293"
+       x1="442.75998" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line754"
+       y2="781.25299"
+       x2="434.91904"
+       y1="781.97949"
+       x1="438.82657" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line756"
+       y2="780.383"
+       x2="431.04303"
+       y1="781.25299"
+       x1="434.91904" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line758"
+       y2="779.36957"
+       x2="427.20419"
+       y1="780.383"
+       x1="431.04303" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line760"
+       y2="778.21289"
+       x2="423.40826"
+       y1="779.36957"
+       x1="427.20419" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line762"
+       y2="776.91357"
+       x2="419.6608"
+       y1="778.21289"
+       x1="423.40826" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line764"
+       y2="775.47241"
+       x2="415.9675"
+       y1="776.91357"
+       x1="419.6608" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line766"
+       y2="773.89062"
+       x2="412.33389"
+       y1="775.47241"
+       x1="415.9675" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line768"
+       y2="772.16962"
+       x2="408.76553"
+       y1="773.89062"
+       x1="412.33389" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line770"
+       y2="770.31104"
+       x2="405.26782"
+       y1="772.16962"
+       x1="408.76553" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line772"
+       y2="768.31708"
+       x2="401.84613"
+       y1="770.31104"
+       x1="405.26782" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line774"
+       y2="766.18994"
+       x2="398.50571"
+       y1="768.31708"
+       x1="401.84613" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line776"
+       y2="763.93213"
+       x2="395.25171"
+       y1="766.18994"
+       x1="398.50571" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line778"
+       y2="761.54663"
+       x2="392.08911"
+       y1="763.93213"
+       x1="395.25171" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line780"
+       y2="759.03644"
+       x2="389.02283"
+       y1="761.54663"
+       x1="392.08911" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line782"
+       y2="756.40497"
+       x2="386.0575"
+       y1="759.03644"
+       x1="389.02283" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line784"
+       y2="753.6557"
+       x2="383.19769"
+       y1="756.40497"
+       x1="386.0575" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line786"
+       y2="750.79254"
+       x2="380.44775"
+       y1="753.6557"
+       x1="383.19769" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line788"
+       y2="747.81952"
+       x2="377.81189"
+       y1="750.79254"
+       x1="380.44775" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line790"
+       y2="744.74091"
+       x2="375.29407"
+       y1="747.81952"
+       x1="377.81189" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line792"
+       y2="741.5611"
+       x2="372.89804"
+       y1="744.74091"
+       x1="375.29407" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line794"
+       y2="738.28467"
+       x2="370.62738"
+       y1="741.5611"
+       x1="372.89804" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line796"
+       y2="734.91663"
+       x2="368.48538"
+       y1="738.28467"
+       x1="370.62738" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line798"
+       y2="731.46179"
+       x2="366.47519"
+       y1="734.91663"
+       x1="368.48538" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line800"
+       y2="727.92529"
+       x2="364.59964"
+       y1="731.46179"
+       x1="366.47519" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line802"
+       y2="724.3125"
+       x2="362.86133"
+       y1="727.92529"
+       x1="364.59964" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line804"
+       y2="720.62872"
+       x2="361.26263"
+       y1="724.3125"
+       x1="362.86133" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line806"
+       y2="716.87952"
+       x2="359.80566"
+       y1="720.62872"
+       x1="361.26263" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line808"
+       y2="713.0705"
+       x2="358.49225"
+       y1="716.87952"
+       x1="359.80566" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line810"
+       y2="709.20734"
+       x2="357.32404"
+       y1="713.0705"
+       x1="358.49225" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line812"
+       y2="705.29578"
+       x2="356.30225"
+       y1="709.20734"
+       x1="357.32404" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line814"
+       y2="701.34167"
+       x2="355.42801"
+       y1="705.29578"
+       x1="356.30225" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line816"
+       y2="697.35089"
+       x2="354.70203"
+       y1="701.34167"
+       x1="355.42801" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line818"
+       y2="693.32941"
+       x2="354.12488"
+       y1="697.35089"
+       x1="354.70203" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line820"
+       y2="689.28308"
+       x2="353.69678"
+       y1="693.32941"
+       x1="354.12488" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line822"
+       y2="685.21783"
+       x2="353.41766"
+       y1="689.28308"
+       x1="353.69678" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line824"
+       y2="681.13959"
+       x2="353.28726"
+       y1="685.21783"
+       x1="353.41766" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line826"
+       y2="677.05432"
+       x2="353.30493"
+       y1="681.13959"
+       x1="353.28726" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line828"
+       y2="672.96783"
+       x2="353.46991"
+       y1="677.05432"
+       x1="353.30493" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line830"
+       y2="668.88605"
+       x2="353.78101"
+       y1="672.96783"
+       x1="353.46991" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line832"
+       y2="664.81464"
+       x2="354.23691"
+       y1="668.88605"
+       x1="353.78101" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line834"
+       y2="660.75934"
+       x2="354.83597"
+       y1="664.81464"
+       x1="354.23691" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line836"
+       y2="656.72583"
+       x2="355.57626"
+       y1="660.75934"
+       x1="354.83597" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line838"
+       y2="652.71948"
+       x2="356.45569"
+       y1="656.72583"
+       x1="355.57626" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line840"
+       y2="648.74591"
+       x2="357.47186"
+       y1="652.71948"
+       x1="356.45569" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line842"
+       y2="644.81024"
+       x2="358.62216"
+       y1="648.74591"
+       x1="357.47186" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line844"
+       y2="640.91779"
+       x2="359.90372"
+       y1="644.81024"
+       x1="358.62216" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line846"
+       y2="637.07336"
+       x2="361.31345"
+       y1="640.91779"
+       x1="359.90372" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line848"
+       y2="633.2821"
+       x2="362.84805"
+       y1="637.07336"
+       x1="361.31345" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line850"
+       y2="629.54865"
+       x2="364.504"
+       y1="633.2821"
+       x1="362.84805" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line852"
+       y2="625.87756"
+       x2="366.27762"
+       y1="629.54865"
+       x1="364.504" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line854"
+       y2="622.27313"
+       x2="368.16492"
+       y1="625.87756"
+       x1="366.27762" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line856"
+       y2="618.73956"
+       x2="370.1618"
+       y1="622.27313"
+       x1="368.16492" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line858"
+       y2="615.28094"
+       x2="372.26404"
+       y1="618.73956"
+       x1="370.1618" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line860"
+       y2="611.901"
+       x2="374.4671"
+       y1="615.28094"
+       x1="372.26404" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line862"
+       y2="608.60333"
+       x2="376.76642"
+       y1="611.901"
+       x1="374.4671" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line864"
+       y2="605.3913"
+       x2="379.15717"
+       y1="608.60333"
+       x1="376.76642" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line866"
+       y2="602.26801"
+       x2="381.63443"
+       y1="605.3913"
+       x1="379.15717" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line868"
+       y2="599.23639"
+       x2="384.19318"
+       y1="602.26801"
+       x1="381.63443" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line870"
+       y2="596.29907"
+       x2="386.82825"
+       y1="599.23639"
+       x1="384.19318" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line872"
+       y2="593.4585"
+       x2="389.53433"
+       y1="596.29907"
+       x1="386.82825" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line874"
+       y2="590.71686"
+       x2="392.30606"
+       y1="593.4585"
+       x1="389.53433" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line876"
+       y2="588.07611"
+       x2="395.13794"
+       y1="590.71686"
+       x1="392.30606" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line878"
+       y2="585.53784"
+       x2="398.02438"
+       y1="588.07611"
+       x1="395.13794" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line880"
+       y2="583.10358"
+       x2="400.95987"
+       y1="585.53784"
+       x1="398.02438" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line882"
+       y2="580.77429"
+       x2="403.93863"
+       y1="583.10358"
+       x1="400.95987" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line884"
+       y2="578.55103"
+       x2="406.95496"
+       y1="580.77429"
+       x1="403.93863" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line886"
+       y2="576.43433"
+       x2="410.00314"
+       y1="578.55103"
+       x1="406.95496" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line888"
+       y2="574.4245"
+       x2="413.07736"
+       y1="576.43433"
+       x1="410.00314" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line890"
+       y2="572.52167"
+       x2="416.17188"
+       y1="574.4245"
+       x1="413.07736" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line892"
+       y2="570.72559"
+       x2="419.28085"
+       y1="572.52167"
+       x1="416.17188" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line894"
+       y2="569.03589"
+       x2="422.39859"
+       y1="570.72559"
+       x1="419.28085" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line896"
+       y2="567.45178"
+       x2="425.51929"
+       y1="569.03589"
+       x1="422.39859" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line898"
+       y2="565.97223"
+       x2="428.6373"
+       y1="567.45178"
+       x1="425.51929" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line900"
+       y2="564.59595"
+       x2="431.74698"
+       y1="565.97223"
+       x1="428.6373" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line902"
+       y2="563.32147"
+       x2="434.84268"
+       y1="564.59595"
+       x1="431.74698" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line904"
+       y2="562.14691"
+       x2="437.91898"
+       y1="563.32147"
+       x1="434.84268" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line906"
+       y2="561.07031"
+       x2="440.97037"
+       y1="562.14691"
+       x1="437.91898" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line908"
+       y2="560.08929"
+       x2="443.99161"
+       y1="561.07031"
+       x1="440.97037" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line910"
+       y2="559.20129"
+       x2="446.97745"
+       y1="560.08929"
+       x1="443.99161" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line912"
+       y2="558.40344"
+       x2="449.92279"
+       y1="559.20129"
+       x1="446.97745" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line914"
+       y2="557.69281"
+       x2="452.82269"
+       y1="558.40344"
+       x1="449.92279" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line916"
+       y2="557.06598"
+       x2="455.67233"
+       y1="557.69281"
+       x1="452.82269" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line918"
+       y2="556.51953"
+       x2="458.4671"
+       y1="557.06598"
+       x1="455.67233" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line920"
+       y2="556.04962"
+       x2="461.20245"
+       y1="556.51953"
+       x1="458.4671" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line922"
+       y2="555.65228"
+       x2="463.87411"
+       y1="556.04962"
+       x1="461.20245" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line924"
+       y2="555.32349"
+       x2="466.47794"
+       y1="555.65228"
+       x1="463.87411" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line926"
+       y2="555.05872"
+       x2="469.01001"
+       y1="555.32349"
+       x1="466.47794" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line928"
+       y2="554.85339"
+       x2="471.46664"
+       y1="555.05872"
+       x1="469.01001" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line930"
+       y2="554.70294"
+       x2="473.8443"
+       y1="554.85339"
+       x1="471.46664" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line932"
+       y2="554.60229"
+       x2="476.13974"
+       y1="554.70294"
+       x1="473.8443" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line934"
+       y2="554.54639"
+       x2="478.34991"
+       y1="554.60229"
+       x1="476.13974" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line936"
+       y2="554.53003"
+       x2="480.47202"
+       y1="554.54639"
+       x1="478.34991" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line938"
+       y2="554.54785"
+       x2="482.50354"
+       y1="554.53003"
+       x1="480.47202" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line940"
+       y2="554.59442"
+       x2="484.44217"
+       y1="554.54785"
+       x1="482.50354" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line942"
+       y2="554.664"
+       x2="486.28595"
+       y1="554.59442"
+       x1="484.44217" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line944"
+       y2="554.75098"
+       x2="488.03311"
+       y1="554.664"
+       x1="486.28595" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line946"
+       y2="554.84955"
+       x2="489.68222"
+       y1="554.75098"
+       x1="488.03311" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line948"
+       y2="554.95374"
+       x2="491.23206"
+       y1="554.84955"
+       x1="489.68222" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line950"
+       y2="555.05768"
+       x2="492.68182"
+       y1="554.95374"
+       x1="491.23206" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line952"
+       y2="555.1554"
+       x2="494.03091"
+       y1="555.05768"
+       x1="492.68182" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line954"
+       y2="555.24084"
+       x2="495.27902"
+       y1="555.1554"
+       x1="494.03091" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line956"
+       y2="555.30804"
+       x2="496.42618"
+       y1="555.24084"
+       x1="495.27902" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line958"
+       y2="555.35089"
+       x2="497.47278"
+       y1="555.30804"
+       x1="496.42618" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line960"
+       y2="555.3634"
+       x2="498.4194"
+       y1="555.35089"
+       x1="497.47278" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line962"
+       y2="555.33954"
+       x2="499.26706"
+       y1="555.3634"
+       x1="498.4194" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line964"
+       y2="555.27338"
+       x2="500.01694"
+       y1="555.33954"
+       x1="499.26706" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line966"
+       y2="555.159"
+       x2="500.67068"
+       y1="555.27338"
+       x1="500.01694" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line968"
+       y2="554.99066"
+       x2="501.23016"
+       y1="555.159"
+       x1="500.67068" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line970"
+       y2="554.76263"
+       x2="501.69757"
+       y1="554.99066"
+       x1="501.23016" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line972"
+       y2="554.46924"
+       x2="502.07541"
+       y1="554.76263"
+       x1="501.69757" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line974"
+       y2="554.1051"
+       x2="502.36652"
+       y1="554.46924"
+       x1="502.07541" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line976"
+       y2="553.66486"
+       x2="502.57394"
+       y1="554.1051"
+       x1="502.36652" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line978"
+       y2="553.14331"
+       x2="502.70114"
+       y1="553.66486"
+       x1="502.57394" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line980"
+       y2="552.53552"
+       x2="502.7518"
+       y1="553.14331"
+       x1="502.70114" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line982"
+       y2="551.83667"
+       x2="502.72986"
+       y1="552.53552"
+       x1="502.7518" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line984"
+       y2="551.04218"
+       x2="502.63959"
+       y1="551.83667"
+       x1="502.72986" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line986"
+       y2="550.14771"
+       x2="502.4855"
+       y1="551.04218"
+       x1="502.63959" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line988"
+       y2="549.14917"
+       x2="502.27234"
+       y1="550.14771"
+       x1="502.4855" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line990"
+       y2="548.04272"
+       x2="502.00519"
+       y1="549.14917"
+       x1="502.27234" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line992"
+       y2="546.82477"
+       x2="501.68927"
+       y1="548.04272"
+       x1="502.00519" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line994"
+       y2="545.49207"
+       x2="501.33008"
+       y1="546.82477"
+       x1="501.68927" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line996"
+       y2="544.04163"
+       x2="500.93326"
+       y1="545.49207"
+       x1="501.33008" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line998"
+       y2="542.4707"
+       x2="500.50476"
+       y1="544.04163"
+       x1="500.93326" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1000"
+       y2="540.77716"
+       x2="500.0506"
+       y1="542.4707"
+       x1="500.50476" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1002"
+       y2="538.95886"
+       x2="499.57703"
+       y1="540.77716"
+       x1="500.0506" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1004"
+       y2="537.01428"
+       x2="499.09045"
+       y1="538.95886"
+       x1="499.57703" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1006"
+       y2="534.94208"
+       x2="498.59741"
+       y1="537.01428"
+       x1="499.09045" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1008"
+       y2="532.74139"
+       x2="498.10449"
+       y1="534.94208"
+       x1="498.59741" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1010"
+       y2="530.4118"
+       x2="497.61844"
+       y1="532.74139"
+       x1="498.10449" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1012"
+       y2="527.953"
+       x2="497.14612"
+       y1="530.4118"
+       x1="497.61844" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1014"
+       y2="525.36554"
+       x2="496.69437"
+       y1="527.953"
+       x1="497.14612" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1016"
+       y2="522.6499"
+       x2="496.27011"
+       y1="525.36554"
+       x1="496.69437" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1018"
+       y2="519.80731"
+       x2="495.88025"
+       y1="522.6499"
+       x1="496.27011" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1020"
+       y2="516.83917"
+       x2="495.53174"
+       y1="519.80731"
+       x1="495.88025" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1022"
+       y2="513.74756"
+       x2="495.23151"
+       y1="516.83917"
+       x1="495.53174" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1024"
+       y2="510.5347"
+       x2="494.98639"
+       y1="513.74756"
+       x1="495.23151" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1026"
+       y2="507.20343"
+       x2="494.80313"
+       y1="510.5347"
+       x1="494.98639" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1028"
+       y2="503.75684"
+       x2="494.68851"
+       y1="507.20343"
+       x1="494.80313" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1030"
+       y2="500.19858"
+       x2="494.64905"
+       y1="503.75684"
+       x1="494.68851" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1032"
+       y2="496.53256"
+       x2="494.69125"
+       y1="500.19858"
+       x1="494.64905" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1034"
+       y2="492.76324"
+       x2="494.82138"
+       y1="496.53256"
+       x1="494.69125" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1036"
+       y2="488.89536"
+       x2="495.04553"
+       y1="492.76324"
+       x1="494.82138" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1038"
+       y2="484.93402"
+       x2="495.36966"
+       y1="488.89536"
+       x1="495.04553" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1040"
+       y2="480.88477"
+       x2="495.79944"
+       y1="484.93402"
+       x1="495.36966" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1042"
+       y2="476.75348"
+       x2="496.34033"
+       y1="480.88477"
+       x1="495.79944" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1044"
+       y2="472.54642"
+       x2="496.9975"
+       y1="476.75348"
+       x1="496.34033" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1046"
+       y2="468.27008"
+       x2="497.77588"
+       y1="472.54642"
+       x1="496.9975" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1048"
+       y2="463.93134"
+       x2="498.68008"
+       y1="468.27008"
+       x1="497.77588" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1050"
+       y2="459.53732"
+       x2="499.71439"
+       y1="463.93134"
+       x1="498.68008" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1052"
+       y2="455.09552"
+       x2="500.88278"
+       y1="459.53732"
+       x1="499.71439" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1054"
+       y2="450.61356"
+       x2="502.18881"
+       y1="455.09552"
+       x1="500.88278" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1056"
+       y2="446.09937"
+       x2="503.63571"
+       y1="450.61356"
+       x1="502.18881" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1058"
+       y2="441.56116"
+       x2="505.22644"
+       y1="446.09937"
+       x1="503.63571" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1060"
+       y2="437.00717"
+       x2="506.96341"
+       y1="441.56116"
+       x1="505.22644" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1062"
+       y2="432.44595"
+       x2="508.84869"
+       y1="437.00717"
+       x1="506.96341" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1064"
+       y2="427.88614"
+       x2="510.88391"
+       y1="432.44595"
+       x1="508.84869" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1066"
+       y2="423.33652"
+       x2="513.07037"
+       y1="427.88614"
+       x1="510.88391" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1068"
+       y2="418.80585"
+       x2="515.40887"
+       y1="423.33652"
+       x1="513.07037" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1070"
+       y2="414.30313"
+       x2="517.89978"
+       y1="418.80585"
+       x1="515.40887" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1072"
+       y2="409.83725"
+       x2="520.54309"
+       y1="414.30313"
+       x1="517.89978" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1074"
+       y2="405.41727"
+       x2="523.33826"
+       y1="409.83725"
+       x1="520.54309" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1076"
+       y2="401.05206"
+       x2="526.2843"
+       y1="405.41727"
+       x1="523.33826" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1078"
+       y2="396.75058"
+       x2="529.38007"
+       y1="401.05206"
+       x1="526.2843" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1080"
+       y2="392.52167"
+       x2="532.6236"
+       y1="396.75058"
+       x1="529.38007" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1082"
+       y2="388.37408"
+       x2="536.0127"
+       y1="392.52167"
+       x1="532.6236" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1084"
+       y2="384.3165"
+       x2="539.54474"
+       y1="388.37408"
+       x1="536.0127" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1086"
+       y2="380.35736"
+       x2="543.21667"
+       y1="384.3165"
+       x1="539.54474" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1088"
+       y2="376.505"
+       x2="547.02502"
+       y1="380.35736"
+       x1="543.21667" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1090"
+       y2="372.76758"
+       x2="550.96588"
+       y1="376.505"
+       x1="547.02502" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1092"
+       y2="369.15302"
+       x2="555.03503"
+       y1="372.76758"
+       x1="550.96588" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1094"
+       y2="368.72327"
+       x2="558.68939"
+       y1="369.15302"
+       x1="555.03503" />
+    <path
+       style="stroke-width:0.85500002;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.854745"
+       stroke="#000000"
+       fill="none"
+       id="1"
+       d="m 442.59941,272.36766 a 160.52487,160.52487 0 1 0 160.52488,0" />
+    <path
+       stroke-width="0.854745"
+       stroke="#000000"
+       fill="none"
+       id="2"
+       d="m 367.80673,303.3478 a 179.04223,179.04223 0 1 0 310.11024,0" />
+    <path
+       stroke-width="0.854745"
+       stroke="#000000"
+       fill="none"
+       id="3"
+       d="m 303.58079,352.6301 a 219.28106,219.28106 0 1 0 438.56211,0" />
+    <path
+       stroke-width="0.854745"
+       stroke="#000000"
+       fill="none"
+       id="4"
+       d="m 254.2985,416.85603 a 310.11024,310.11024 0 0 0 537.1267,0" />
+    <path
+       stroke-width="0.854745"
+       stroke="#000000"
+       fill="none"
+       id="5"
+       d="m 223.31836,491.64871 a 599.08699,599.08699 0 0 0 599.08698,0" />
+    <circle
+       stroke-width="0.854745"
+       id="0"
+       stroke="#000000"
+       fill="none"
+       r="155.05511"
+       cy="416.85602"
+       cx="522.86188" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1102"
+       y2="571.91113"
+       x2="212.75162"
+       y1="571.91113"
+       x1="832.97211" />
+    <text
+       id="text1106"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1104"
+         startOffset="49.8%"
+         xlink:href="#capricornebis">0</textPath></text>
+    <text
+       id="text1110"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1108"
+         startOffset="54.000002%"
+         xlink:href="#capricornebis">1</textPath></text>
+    <text
+       id="text1114"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1112"
+         startOffset="58.200002%"
+         xlink:href="#capricornebis">2</textPath></text>
+    <text
+       id="text1118"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1116"
+         startOffset="62.299997%"
+         xlink:href="#capricornebis">3</textPath></text>
+    <text
+       id="text1122"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1120"
+         startOffset="66.400003%"
+         xlink:href="#capricornebis">4</textPath></text>
+    <text
+       id="text1126"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1124"
+         startOffset="70.699996%"
+         xlink:href="#capricornebis">5</textPath></text>
+    <text
+       id="text1130"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1128"
+         startOffset="75%"
+         xlink:href="#capricornebis">6</textPath></text>
+    <text
+       id="text1134"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1132"
+         startOffset="79.100001%"
+         xlink:href="#capricornebis">7</textPath></text>
+    <text
+       id="text1138"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1136"
+         startOffset="83.3%"
+         xlink:href="#capricornebis">8</textPath></text>
+    <text
+       id="text1142"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1140"
+         startOffset="87.199998%"
+         xlink:href="#capricornebis">9</textPath></text>
+    <text
+       id="text1146"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1144"
+         startOffset="91.199994%"
+         xlink:href="#capricornebis">10</textPath></text>
+    <text
+       id="text1150"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1148"
+         startOffset="95.499998%"
+         xlink:href="#capricornebis">11</textPath></text>
+    <text
+       id="text1154"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1152"
+         startOffset="99.449998%"
+         xlink:href="#capricornebis">12</textPath></text>
+    <text
+       style="stroke-width:1.70949"
+       id="text1156"
+       font-size="17.0949px"
+       font-family="Caladea"
+       font-style="italic"
+       text-anchor="middle"
+       y="317.52277"
+       x="522.86188">Francesco De Comite Fecit</text>
+    <text
+       style="stroke-width:1.70949"
+       id="text1158"
+       font-size="17.0949px"
+       font-family="Caladea"
+       font-style="italic"
+       text-anchor="middle"
+       y="333.80362"
+       x="522.86188">Anno MMXXI</text>
+    <rect
+       id="rect1160"
+       stroke-width="0.854745"
+       fill="none"
+       stroke="#000000"
+       ry="-0.665"
+       rx="13.67592"
+       height="35.899288"
+       width="194.88187"
+       y="301.24188"
+       x="425.17673" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1162"
+       y2="775.42181"
+       x2="726.37256"
+       y1="571.91113"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1164"
+       y2="775.42181"
+       x2="726.37256"
+       y1="775.42181"
+       x1="522.86188" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1166"
+       y2="571.91113"
+       x2="522.86188"
+       y1="775.42181"
+       x1="522.86188" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1168"
+       y2="775.42181"
+       x2="319.35114"
+       y1="571.91113"
+       x1="319.35114" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1170"
+       y2="775.42181"
+       x2="319.35114"
+       y1="775.42181"
+       x1="522.86188" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1172"
+       y2="769.72357"
+       x2="720.67432"
+       y1="571.91113"
+       x1="720.67432" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1174"
+       y2="769.72357"
+       x2="720.67432"
+       y1="769.72357"
+       x1="522.86188" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1176"
+       y2="769.72357"
+       x2="325.04944"
+       y1="571.91113"
+       x1="325.04944" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1178"
+       y2="769.72357"
+       x2="325.04944"
+       y1="769.72357"
+       x1="522.86188" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1180"
+       y2="571.91113"
+       x2="710.49872"
+       y1="759.54803"
+       x1="710.49872" />
+    <line
+       stroke-width="0.854745"
+       stroke="none"
+       id="verticaldroit"
+       y2="571.91113"
+       x2="708.99768"
+       y1="759.54803"
+       x1="708.99768" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1183"
+       y2="759.54803"
+       x2="710.49872"
+       y1="759.54803"
+       x1="522.86188" />
+    <line
+       stroke-width="0.854745"
+       stroke="none"
+       id="horizontaldroit"
+       y2="758.04694"
+       x2="708.99768"
+       y1="758.04694"
+       x1="522.86188" />
+    <text
+       id="text1188"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1186"
+         startOffset="25%"
+         xlink:href="#verticaldroit">Umbra versa</textPath></text>
+    <text
+       id="text1192"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1190"
+         startOffset="34.999999%"
+         xlink:href="#horizontaldroit">Umbra recta</textPath></text>
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1194"
+       y2="571.91113"
+       x2="335.22498"
+       y1="759.54803"
+       x1="335.22498" />
+    <line
+       stroke-width="0.854745"
+       stroke="none"
+       id="verticalgauche"
+       y2="759.54803"
+       x2="336.72607"
+       y1="571.91113"
+       x1="336.72607" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1197"
+       y2="759.54803"
+       x2="335.22498"
+       y1="759.54803"
+       x1="522.86188" />
+    <line
+       stroke-width="0.854745"
+       stroke="none"
+       id="horizontalgauche"
+       y2="758.04694"
+       x2="522.86188"
+       y1="758.04694"
+       x1="336.72607" />
+    <text
+       id="text1202"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1200"
+         startOffset="34.999999%"
+         xlink:href="#verticalgauche">Umbra versa</textPath></text>
+    <text
+       id="text1206"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1204"
+         startOffset="34.999999%"
+         xlink:href="#horizontalgauche">Umbra recta</textPath></text>
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1208"
+       y2="747.3374"
+       x2="698.28809"
+       y1="571.91113"
+       x1="698.28809" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1210"
+       y2="747.3374"
+       x2="698.28809"
+       y1="747.3374"
+       x1="522.86188" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1212"
+       y2="747.3374"
+       x2="347.43561"
+       y1="571.91113"
+       x1="347.43561" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1214"
+       y2="747.3374"
+       x2="347.43561"
+       y1="747.3374"
+       x1="522.86188" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1216"
+       y2="571.91113"
+       x2="720.67432"
+       y1="571.91113"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1218"
+       y2="588.39551"
+       x2="720.67432"
+       y1="588.87036"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1220"
+       y2="604.87988"
+       x2="720.67432"
+       y1="605.82959"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1222"
+       y2="621.3642"
+       x2="720.67432"
+       y1="622.78882"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1224"
+       y2="637.84863"
+       x2="720.67432"
+       y1="639.74805"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1226"
+       y2="654.33301"
+       x2="720.67432"
+       y1="656.70728"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1228"
+       y2="670.81738"
+       x2="720.67432"
+       y1="673.6665"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1230"
+       y2="687.3017"
+       x2="720.67432"
+       y1="690.62573"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1232"
+       y2="703.78607"
+       x2="720.67432"
+       y1="707.58496"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1234"
+       y2="720.27045"
+       x2="720.67432"
+       y1="724.54419"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1236"
+       y2="736.75482"
+       x2="720.67432"
+       y1="741.50342"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1238"
+       y2="753.2392"
+       x2="720.67432"
+       y1="758.46265"
+       x1="726.37256" />
+    <line
+       stroke-width="0.854745"
+       stroke="#000000"
+       id="line1240"
+       y2="769.72357"
+       x2="720.67432"
+       y1="775.42181"
+       x1="726.37256" />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1242"
+       stroke="none"
+       fill="#000000"
+       points="369.04762,259.92063 369.04762,250 365.71429,250 365.71429,259.64286 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1244"
+       stroke="none"
+       fill="none"
+       points="259.92063,369.04762 250,369.04762 250,365.71429 259.64286,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1246"
+       stroke="none"
+       fill="#000000"
+       points="130.95238,259.92063 130.95238,250 134.28571,250 134.28571,259.64286 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1248"
+       stroke="none"
+       fill="none"
+       points="240.07937,369.04762 250,369.04762 250,365.71429 240.35714,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1250"
+       stroke="none"
+       fill="none"
+       points="369.04762,269.84127 369.04762,259.92063 365.71429,259.64286 365.71429,269.28571 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1252"
+       stroke="none"
+       fill="#000000"
+       points="269.84127,369.04762 259.92063,369.04762 259.64286,365.71429 269.28571,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1254"
+       stroke="none"
+       fill="none"
+       points="130.95238,269.84127 130.95238,259.92063 134.28571,259.64286 134.28571,269.28571 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1256"
+       stroke="none"
+       fill="#000000"
+       points="230.15873,369.04762 240.07937,369.04762 240.35714,365.71429 230.71429,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1258"
+       stroke="none"
+       fill="#000000"
+       points="369.04762,279.7619 369.04762,269.84127 365.71429,269.28571 365.71429,278.92857 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1260"
+       stroke="none"
+       fill="none"
+       points="279.7619,369.04762 269.84127,369.04762 269.28571,365.71429 278.92857,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1262"
+       stroke="none"
+       fill="#000000"
+       points="130.95238,279.7619 130.95238,269.84127 134.28571,269.28571 134.28571,278.92857 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1264"
+       stroke="none"
+       fill="none"
+       points="220.2381,369.04762 230.15873,369.04762 230.71429,365.71429 221.07143,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1266"
+       stroke="none"
+       fill="none"
+       points="369.04762,289.68254 369.04762,279.7619 365.71429,278.92857 365.71429,288.57143 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1268"
+       stroke="none"
+       fill="#000000"
+       points="289.68254,369.04762 279.7619,369.04762 278.92857,365.71429 288.57143,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1270"
+       stroke="none"
+       fill="none"
+       points="130.95238,289.68254 130.95238,279.7619 134.28571,278.92857 134.28571,288.57143 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1272"
+       stroke="none"
+       fill="#000000"
+       points="210.31746,369.04762 220.2381,369.04762 221.07143,365.71429 211.42857,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1274"
+       stroke="none"
+       fill="#000000"
+       points="369.04762,299.60317 369.04762,289.68254 365.71429,288.57143 365.71429,298.21429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1276"
+       stroke="none"
+       fill="none"
+       points="299.60317,369.04762 289.68254,369.04762 288.57143,365.71429 298.21429,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1278"
+       stroke="none"
+       fill="#000000"
+       points="130.95238,299.60317 130.95238,289.68254 134.28571,288.57143 134.28571,298.21429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1280"
+       stroke="none"
+       fill="none"
+       points="200.39683,369.04762 210.31746,369.04762 211.42857,365.71429 201.78571,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1282"
+       stroke="none"
+       fill="none"
+       points="369.04762,309.52381 369.04762,299.60317 365.71429,298.21429 365.71429,307.85714 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1284"
+       stroke="none"
+       fill="#000000"
+       points="309.52381,369.04762 299.60317,369.04762 298.21429,365.71429 307.85714,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1286"
+       stroke="none"
+       fill="none"
+       points="130.95238,309.52381 130.95238,299.60317 134.28571,298.21429 134.28571,307.85714 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1288"
+       stroke="none"
+       fill="#000000"
+       points="190.47619,369.04762 200.39683,369.04762 201.78571,365.71429 192.14286,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1290"
+       stroke="none"
+       fill="#000000"
+       points="369.04762,319.44444 369.04762,309.52381 365.71429,307.85714 365.71429,317.5 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1292"
+       stroke="none"
+       fill="none"
+       points="319.44444,369.04762 309.52381,369.04762 307.85714,365.71429 317.5,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1294"
+       stroke="none"
+       fill="#000000"
+       points="130.95238,319.44444 130.95238,309.52381 134.28571,307.85714 134.28571,317.5 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1296"
+       stroke="none"
+       fill="none"
+       points="180.55556,369.04762 190.47619,369.04762 192.14286,365.71429 182.5,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1298"
+       stroke="none"
+       fill="none"
+       points="369.04762,329.36508 369.04762,319.44444 365.71429,317.5 365.71429,327.14286 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1300"
+       stroke="none"
+       fill="#000000"
+       points="329.36508,369.04762 319.44444,369.04762 317.5,365.71429 327.14286,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1302"
+       stroke="none"
+       fill="none"
+       points="130.95238,329.36508 130.95238,319.44444 134.28571,317.5 134.28571,327.14286 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1304"
+       stroke="none"
+       fill="#000000"
+       points="170.63492,369.04762 180.55556,369.04762 182.5,365.71429 172.85714,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1306"
+       stroke="none"
+       fill="#000000"
+       points="369.04762,339.28571 369.04762,329.36508 365.71429,327.14286 365.71429,336.78571 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1308"
+       stroke="none"
+       fill="none"
+       points="339.28571,369.04762 329.36508,369.04762 327.14286,365.71429 336.78571,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1310"
+       stroke="none"
+       fill="#000000"
+       points="130.95238,339.28571 130.95238,329.36508 134.28571,327.14286 134.28571,336.78571 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1312"
+       stroke="none"
+       fill="none"
+       points="160.71429,369.04762 170.63492,369.04762 172.85714,365.71429 163.21429,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1314"
+       stroke="none"
+       fill="none"
+       points="369.04762,349.20635 369.04762,339.28571 365.71429,336.78571 365.71429,346.42857 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1316"
+       stroke="none"
+       fill="#000000"
+       points="349.20635,369.04762 339.28571,369.04762 336.78571,365.71429 346.42857,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1318"
+       stroke="none"
+       fill="none"
+       points="130.95238,349.20635 130.95238,339.28571 134.28571,336.78571 134.28571,346.42857 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1320"
+       stroke="none"
+       fill="#000000"
+       points="150.79365,369.04762 160.71429,369.04762 163.21429,365.71429 153.57143,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1322"
+       stroke="none"
+       fill="#000000"
+       points="369.04762,359.12698 369.04762,349.20635 365.71429,346.42857 365.71429,356.07143 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1324"
+       stroke="none"
+       fill="none"
+       points="359.12698,369.04762 349.20635,369.04762 346.42857,365.71429 356.07143,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1326"
+       stroke="none"
+       fill="#000000"
+       points="130.95238,359.12698 130.95238,349.20635 134.28571,346.42857 134.28571,356.07143 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1328"
+       stroke="none"
+       fill="none"
+       points="140.87302,369.04762 150.79365,369.04762 153.57143,365.71429 143.92857,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1330"
+       stroke="none"
+       fill="none"
+       points="369.04762,369.04762 369.04762,359.12698 365.71429,356.07143 365.71429,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1332"
+       stroke="none"
+       fill="#000000"
+       points="369.04762,369.04762 359.12698,369.04762 356.07143,365.71429 365.71429,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1334"
+       stroke="none"
+       fill="none"
+       points="130.95238,369.04762 130.95238,359.12698 134.28571,356.07143 134.28571,365.71429 " />
+    <polygon
+       transform="matrix(1.70949,0,0,1.70949,95.489352,144.53865)"
+       id="polygon1336"
+       stroke="none"
+       fill="#000000"
+       points="130.95238,369.04762 140.87302,369.04762 143.92857,365.71429 134.28571,365.71429 " />
+    <circle
+       stroke-width="0.854745"
+       id="circle1338"
+       stroke="#000000"
+       fill="none"
+       r="357.30093"
+       cy="571.91113"
+       cx="522.86188" />
+    <circle
+       stroke-width="0.854745"
+       id="basechiffre"
+       stroke="none"
+       fill="none"
+       r="359.80206"
+       cy="571.91113"
+       cx="522.86188" />
+    <circle
+       stroke-width="0.854745"
+       id="circle1341"
+       stroke="#ff0000"
+       fill="none"
+       r="7.5505104"
+       cy="571.91113"
+       cx="522.86188" />
+    <path
+       id="circle1343"
+       d="m 521.25252,76.025494 c -4.36642,0.0995 -16.36642,3.57452 -20.19,37.812446 -1.58041,14.15167 -0.32327,14.56535 -5.12514,34.09298 -5.85254,23.8003 -37.07569,22.24987 -51.82893,27.37187 -14.67223,5.09388 -18.88164,31.4766 -18.94462,31.87598 -4.8915,1.30699 -9.75628,2.68383 -14.5674,4.18024 -11.82145,3.67685 -23.39232,7.91834 -34.68395,12.6943 -45.16653,19.10383 -85.84217,46.74761 -120.00152,80.90696 -68.31868,68.31867 -110.57595,162.70009 -110.57595,266.95088 -1e-5,208.50159 169.02525,377.52685 377.52684,377.52685 208.50159,0 377.52685,-169.02526 377.52685,-377.52685 0,-104.25079 -42.25728,-198.63221 -110.57597,-266.95088 -17.07967,-17.07967 -35.78778,-32.53066 -55.87227,-46.09947 -20.08447,-13.56882 -41.54597,-25.25558 -64.12924,-34.80749 -11.29163,-4.77596 -22.86252,-9.01745 -34.68395,-12.6943 -4.81112,-1.49641 -9.6759,-2.87325 -14.5674,-4.18024 -0.063,-0.39938 -4.27239,-26.7821 -18.94462,-31.87598 -14.75324,-5.122 -45.97639,-3.57157 -51.82893,-27.37187 -4.80188,-19.52763 -3.54473,-19.94131 -5.12514,-34.09298 -4.70595,-42.138996 -21.79933,-37.678886 -21.79933,-37.678886 0,0 -0.60169,-0.15652 -1.60933,-0.13356 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.854745" />
+    <text
+       id="text1347"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1345"
+         startOffset="0.034999999%"
+         xlink:href="#basechiffre">0</textPath></text>
+    <text
+       id="text1351"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1349"
+         startOffset="61.500001%"
+         xlink:href="#basechiffre">Hauteur</textPath></text>
+    <text
+       id="text1355"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1353"
+         startOffset="85.000002%"
+         xlink:href="#basechiffre">Distance zenithale</textPath></text>
+    <text
+       id="text1359"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1357"
+         startOffset="49.700001%"
+         xlink:href="#basechiffre">00</textPath></text>
+    <text
+       id="text1363"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1361"
+         startOffset="52.477777%"
+         xlink:href="#basechiffre">10</textPath></text>
+    <text
+       id="text1367"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1365"
+         startOffset="77.477777%"
+         xlink:href="#basechiffre">10</textPath></text>
+    <text
+       id="text1371"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1369"
+         startOffset="55.255556%"
+         xlink:href="#basechiffre">20</textPath></text>
+    <text
+       id="text1375"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1373"
+         startOffset="80.255556%"
+         xlink:href="#basechiffre">20</textPath></text>
+    <text
+       id="text1379"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1377"
+         startOffset="58.033335%"
+         xlink:href="#basechiffre">30</textPath></text>
+    <text
+       id="text1383"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1381"
+         startOffset="83.033335%"
+         xlink:href="#basechiffre">30</textPath></text>
+    <text
+       id="text1387"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1385"
+         startOffset="66.366667%"
+         xlink:href="#basechiffre">60</textPath></text>
+    <text
+       id="text1391"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1389"
+         startOffset="91.366667%"
+         xlink:href="#basechiffre">60</textPath></text>
+    <text
+       id="text1395"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1393"
+         startOffset="69.144446%"
+         xlink:href="#basechiffre">70</textPath></text>
+    <text
+       id="text1399"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1397"
+         startOffset="94.144446%"
+         xlink:href="#basechiffre">70</textPath></text>
+    <text
+       id="text1403"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1401"
+         startOffset="71.922225%"
+         xlink:href="#basechiffre">80</textPath></text>
+    <text
+       id="text1407"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1405"
+         startOffset="96.922225%"
+         xlink:href="#basechiffre">80</textPath></text>
+    <text
+       id="text1411"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1409"
+         startOffset="74.699998%"
+         xlink:href="#basechiffre">90</textPath></text>
+    <text
+       id="text1415"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1413"
+         startOffset="99.699998%"
+         xlink:href="#basechiffre">90</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1417"
+       y2="571.91113"
+       x2="889.06165"
+       y1="571.91113"
+       x1="900.38739" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1419"
+       y2="565.40149"
+       x2="895.80023"
+       y1="565.32245"
+       x1="900.3299" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1421"
+       y2="558.8938"
+       x2="895.62988"
+       y1="558.73566"
+       x1="900.15741" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1423"
+       y2="552.39008"
+       x2="895.34589"
+       y1="552.15302"
+       x1="899.87" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1425"
+       y2="545.89233"
+       x2="894.94849"
+       y1="545.57629"
+       x1="899.46777" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1427"
+       y2="540.32379"
+       x2="883.90723"
+       y1="539.00763"
+       x1="898.95074" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1429"
+       y2="532.92255"
+       x2="893.81378"
+       y1="532.44897"
+       x1="898.31927" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1431"
+       y2="526.45447"
+       x2="893.07684"
+       y1="525.90234"
+       x1="897.57336" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1433"
+       y2="520.00024"
+       x2="892.22711"
+       y1="519.36975"
+       x1="896.71332" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1435"
+       y2="513.56183"
+       x2="891.26489"
+       y1="512.85315"
+       x1="895.73944" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1437"
+       y2="508.32123"
+       x2="883.49823"
+       y1="506.35452"
+       x1="894.65198" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1439"
+       y2="500.7403"
+       x2="889.00415"
+       y1="499.87589"
+       x1="893.45117" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1441"
+       y2="494.36108"
+       x2="887.70624"
+       y1="493.41916"
+       x1="892.13751" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1443"
+       y2="488.00549"
+       x2="886.29724"
+       y1="486.98639"
+       x1="890.71143" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1445"
+       y2="481.67545"
+       x2="884.77753"
+       y1="480.57944"
+       x1="889.17328" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1447"
+       y2="478.10876"
+       x2="872.93707"
+       y1="474.20035"
+       x1="887.5235" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1449"
+       y2="469.09973"
+       x2="881.4079"
+       y1="467.85101"
+       x1="885.7627" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1451"
+       y2="462.85791"
+       x2="879.55896"
+       y1="461.53336"
+       x1="883.8913" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1453"
+       y2="456.64929"
+       x2="877.60138"
+       y1="455.24936"
+       x1="881.90997" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1455"
+       y2="450.4758"
+       x2="875.53583"
+       y1="449.00085"
+       x1="879.81927" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1457"
+       y2="446.66345"
+       x2="866.97705"
+       y1="442.78983"
+       x1="877.61981" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1459"
+       y2="438.24161"
+       x2="871.08295"
+       y1="436.6181"
+       x1="875.31232" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1461"
+       y2="432.18466"
+       x2="868.69702"
+       y1="430.48761"
+       x1="872.89746" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1463"
+       y2="426.17032"
+       x2="866.20575"
+       y1="424.40018"
+       x1="870.37592" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1465"
+       y2="420.20035"
+       x2="863.60999"
+       y1="418.3577"
+       x1="867.7486" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1467"
+       y2="418.74396"
+       x2="851.33002"
+       y1="412.36197"
+       x1="865.01617" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1469"
+       y2="408.40082"
+       x2="858.10773"
+       y1="406.41486"
+       x1="862.17957" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1471"
+       y2="402.57486"
+       x2="855.20306"
+       y1="400.51816"
+       x1="859.23956" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1473"
+       y2="396.80051"
+       x2="852.19708"
+       y1="394.67368"
+       x1="856.19714" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1475"
+       y2="391.07947"
+       x2="849.09082"
+       y1="388.88315"
+       x1="853.05316" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1477"
+       y2="388.81128"
+       x2="840.00018"
+       y1="383.14838"
+       x1="849.80859" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1479"
+       y2="379.80441"
+       x2="842.58118"
+       y1="377.47113"
+       x1="846.46442" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1481"
+       y2="374.25378"
+       x2="839.17975"
+       y1="371.85312"
+       x1="843.02167" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1483"
+       y2="368.7634"
+       x2="835.68195"
+       y1="366.29602"
+       x1="839.48138" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1485"
+       y2="363.33487"
+       x2="832.08893"
+       y1="360.80157"
+       x1="835.84473" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1487"
+       y2="364.03302"
+       x2="819.74268"
+       y1="355.3714"
+       x1="832.11267" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1489"
+       y2="352.67007"
+       x2="824.62134"
+       y1="350.00723"
+       x1="828.28644" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1491"
+       y2="347.43704"
+       x2="820.74915"
+       y1="344.71063"
+       x1="824.36719" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1493"
+       y2="342.27237"
+       x2="816.78613"
+       y1="339.48325"
+       x1="820.35602" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1495"
+       y2="337.17767"
+       x2="812.73358"
+       y1="334.32663"
+       x1="816.25427" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1497"
+       y2="336.52249"
+       x2="803.38715"
+       y1="329.24243"
+       x1="812.06323" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1499"
+       y2="327.20428"
+       x2="804.36493"
+       y1="324.23215"
+       x1="807.784" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1501"
+       y2="322.32864"
+       x2="800.05133"
+       y1="319.29727"
+       x1="803.41797" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1503"
+       y2="317.52902"
+       x2="795.65332"
+       y1="314.43936"
+       x1="798.96655" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1505"
+       y2="312.80692"
+       x2="791.17218"
+       y1="309.65988"
+       x1="794.43103" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1507"
+       y2="315.63834"
+       x2="779.1347"
+       y1="304.9603"
+       x1="789.81268" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1509"
+       y2="303.60086"
+       x2="781.96606"
+       y1="300.34204"
+       x1="785.1131" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1511"
+       y2="299.11972"
+       x2="777.24396"
+       y1="295.80649"
+       x1="780.33368" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1513"
+       y2="294.72168"
+       x2="772.4444"
+       y1="291.35501"
+       x1="775.47571" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1515"
+       y2="290.40808"
+       x2="767.56873"
+       y1="286.98904"
+       x1="770.54089" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1517"
+       y2="291.38586"
+       x2="758.25049"
+       y1="282.70984"
+       x1="765.53058" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1519"
+       y2="282.03943"
+       x2="757.5954"
+       y1="278.51871"
+       x1="760.44641" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1521"
+       y2="277.98691"
+       x2="752.50067"
+       y1="274.41699"
+       x1="755.28979" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1523"
+       y2="274.02393"
+       x2="747.336"
+       y1="270.40585"
+       x1="750.06244" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1525"
+       y2="270.1517"
+       x2="742.10297"
+       y1="266.4866"
+       x1="744.76581" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1527"
+       y2="275.0304"
+       x2="730.74005"
+       y1="262.66034"
+       x1="739.40155" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1529"
+       y2="262.68411"
+       x2="731.43811"
+       y1="258.92831"
+       x1="733.97144" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1531"
+       y2="259.09103"
+       x2="726.00958"
+       y1="255.29163"
+       x1="728.47699" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1533"
+       y2="255.59328"
+       x2="720.51917"
+       y1="251.75136"
+       x1="722.91992" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1535"
+       y2="252.19186"
+       x2="714.96863"
+       y1="248.30862"
+       x1="717.30188" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1537"
+       y2="254.77287"
+       x2="705.96173"
+       y1="244.96446"
+       x1="711.62463" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1539"
+       y2="245.68219"
+       x2="703.69354"
+       y1="241.71989"
+       x1="705.88989" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1541"
+       y2="242.57593"
+       x2="697.97253"
+       y1="238.57591"
+       x1="700.09937" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1543"
+       y2="239.56999"
+       x2="692.19812"
+       y1="235.53345"
+       x1="694.25488" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1545"
+       y2="236.66528"
+       x2="686.37219"
+       y1="232.59346"
+       x1="688.35815" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1547"
+       y2="243.44301"
+       x2="676.02905"
+       y1="229.75684"
+       x1="682.41107" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1549"
+       y2="231.16307"
+       x2="674.57269"
+       y1="227.02443"
+       x1="676.41528" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1551"
+       y2="228.56726"
+       x2="668.60272"
+       y1="224.39708"
+       x1="670.3728" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1553"
+       y2="226.07602"
+       x2="662.58832"
+       y1="221.8756"
+       x1="664.28546" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1555"
+       y2="223.69012"
+       x2="656.53137"
+       y1="219.46072"
+       x1="658.15491" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1557"
+       y2="227.79594"
+       x2="648.10956"
+       y1="217.15321"
+       x1="651.98322" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1559"
+       y2="219.23726"
+       x2="644.29724"
+       y1="214.95377"
+       x1="645.77216" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1561"
+       y2="217.17163"
+       x2="638.12372"
+       y1="212.86305"
+       x1="639.52362" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1563"
+       y2="215.21407"
+       x2="631.9151"
+       y1="210.88171"
+       x1="633.23962" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1565"
+       y2="213.36514"
+       x2="625.67328"
+       y1="209.01035"
+       x1="626.922" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1567"
+       y2="221.83597"
+       x2="616.66425"
+       y1="207.24951"
+       x1="620.57269" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1569"
+       y2="209.9955"
+       x2="613.09753"
+       y1="205.59976"
+       x1="614.19354" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1571"
+       y2="208.47578"
+       x2="606.76752"
+       y1="204.0616"
+       x1="607.78662" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1573"
+       y2="207.06679"
+       x2="600.41193"
+       y1="202.63547"
+       x1="601.35382" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1575"
+       y2="205.76892"
+       x2="594.03271"
+       y1="201.32185"
+       x1="594.89716" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1577"
+       y2="211.2748"
+       x2="586.45178"
+       y1="200.12109"
+       x1="588.41846" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1579"
+       y2="203.50813"
+       x2="581.21112"
+       y1="199.0336"
+       x1="581.91986" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1581"
+       y2="202.5459"
+       x2="574.77277"
+       y1="198.05969"
+       x1="575.40326" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1583"
+       y2="201.6962"
+       x2="568.31854"
+       y1="197.19965"
+       x1="568.87067" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1585"
+       y2="200.95924"
+       x2="561.85046"
+       y1="196.45377"
+       x1="562.32404" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1587"
+       y2="210.8658"
+       x2="554.44922"
+       y1="195.82225"
+       x1="555.76538" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1589"
+       y2="199.82454"
+       x2="548.88068"
+       y1="195.30527"
+       x1="549.19672" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1591"
+       y2="199.42712"
+       x2="542.38287"
+       y1="194.90303"
+       x1="542.62" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1593"
+       y2="199.14316"
+       x2="535.87921"
+       y1="194.61562"
+       x1="536.03729" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1595"
+       y2="198.97275"
+       x2="529.37152"
+       y1="194.44313"
+       x1="529.45056" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1597"
+       y2="205.7114"
+       x2="522.86188"
+       y1="194.38564"
+       x1="522.86188" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1599"
+       y2="198.97275"
+       x2="516.35217"
+       y1="194.44313"
+       x1="516.27313" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1601"
+       y2="199.14316"
+       x2="509.84451"
+       y1="194.61562"
+       x1="509.6864" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1603"
+       y2="199.42712"
+       x2="503.34079"
+       y1="194.90303"
+       x1="503.1037" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1605"
+       y2="199.82454"
+       x2="496.84302"
+       y1="195.30527"
+       x1="496.52701" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1607"
+       y2="210.8658"
+       x2="491.27448"
+       y1="195.82225"
+       x1="489.95834" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1609"
+       y2="200.95924"
+       x2="483.87323"
+       y1="196.45377"
+       x1="483.39969" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1611"
+       y2="201.6962"
+       x2="477.40515"
+       y1="197.19965"
+       x1="476.85306" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1613"
+       y2="202.5459"
+       x2="470.95096"
+       y1="198.05969"
+       x1="470.32047" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1615"
+       y2="203.50813"
+       x2="464.51254"
+       y1="199.0336"
+       x1="463.80383" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1617"
+       y2="211.2748"
+       x2="459.27194"
+       y1="200.12109"
+       x1="457.30524" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1619"
+       y2="205.76892"
+       x2="451.69101"
+       y1="201.32185"
+       x1="450.82657" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1621"
+       y2="207.06679"
+       x2="445.3118"
+       y1="202.63547"
+       x1="444.36987" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1623"
+       y2="208.47578"
+       x2="438.95621"
+       y1="204.0616"
+       x1="437.9371" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1625"
+       y2="209.9955"
+       x2="432.62616"
+       y1="205.59976"
+       x1="431.53015" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1627"
+       y2="221.83597"
+       x2="429.05948"
+       y1="207.24951"
+       x1="425.15106" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1629"
+       y2="213.36514"
+       x2="420.05045"
+       y1="209.01035"
+       x1="418.8017" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1631"
+       y2="215.21407"
+       x2="413.80862"
+       y1="210.88171"
+       x1="412.48407" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1633"
+       y2="217.17163"
+       x2="407.60001"
+       y1="212.86305"
+       x1="406.20007" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1635"
+       y2="219.23726"
+       x2="401.42651"
+       y1="214.95377"
+       x1="399.95157" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1637"
+       y2="227.79594"
+       x2="397.61417"
+       y1="217.15321"
+       x1="393.74054" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1639"
+       y2="223.69012"
+       x2="389.19232"
+       y1="219.46072"
+       x1="387.56879" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1641"
+       y2="226.07602"
+       x2="383.13538"
+       y1="221.8756"
+       x1="381.43829" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1643"
+       y2="228.56726"
+       x2="377.12103"
+       y1="224.39708"
+       x1="375.35089" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1645"
+       y2="231.16307"
+       x2="371.15103"
+       y1="227.02443"
+       x1="369.30841" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1647"
+       y2="243.44301"
+       x2="369.69464"
+       y1="229.75684"
+       x1="363.31265" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1649"
+       y2="236.66528"
+       x2="359.3515"
+       y1="232.59346"
+       x1="357.36554" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1651"
+       y2="239.56999"
+       x2="353.52557"
+       y1="235.53345"
+       x1="351.46887" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1653"
+       y2="242.57593"
+       x2="347.75122"
+       y1="238.57591"
+       x1="345.62436" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1655"
+       y2="245.68219"
+       x2="342.03018"
+       y1="241.71989"
+       x1="339.83383" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1657"
+       y2="254.77287"
+       x2="339.76196"
+       y1="244.96446"
+       x1="334.09909" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1659"
+       y2="252.19186"
+       x2="330.75513"
+       y1="248.30862"
+       x1="328.42184" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1661"
+       y2="255.59328"
+       x2="325.2045"
+       y1="251.75136"
+       x1="322.8038" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1663"
+       y2="259.09103"
+       x2="319.71411"
+       y1="255.29163"
+       x1="317.2467" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1665"
+       y2="262.68411"
+       x2="314.28558"
+       y1="258.92831"
+       x1="311.75226" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1667"
+       y2="275.0304"
+       x2="314.9837"
+       y1="262.66034"
+       x1="306.32211" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1669"
+       y2="270.1517"
+       x2="303.62076"
+       y1="266.4866"
+       x1="300.95792" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1671"
+       y2="274.02393"
+       x2="298.38773"
+       y1="270.40585"
+       x1="295.66132" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1673"
+       y2="277.98691"
+       x2="293.22308"
+       y1="274.41699"
+       x1="290.43393" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1675"
+       y2="282.03943"
+       x2="288.12836"
+       y1="278.51871"
+       x1="285.27734" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1677"
+       y2="291.38586"
+       x2="287.47321"
+       y1="282.70984"
+       x1="280.19312" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1679"
+       y2="290.40808"
+       x2="278.15497"
+       y1="286.98904"
+       x1="275.18283" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1681"
+       y2="294.72168"
+       x2="273.27933"
+       y1="291.35501"
+       x1="270.24799" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1683"
+       y2="299.11972"
+       x2="268.47974"
+       y1="295.80649"
+       x1="265.39008" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1685"
+       y2="303.60086"
+       x2="263.7576"
+       y1="300.34204"
+       x1="260.6106" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1687"
+       y2="315.63834"
+       x2="266.58902"
+       y1="304.9603"
+       x1="255.911" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1689"
+       y2="312.80692"
+       x2="254.55156"
+       y1="309.65988"
+       x1="251.29272" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1691"
+       y2="317.52902"
+       x2="250.07042"
+       y1="314.43936"
+       x1="246.75717" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1693"
+       y2="322.32864"
+       x2="245.67239"
+       y1="319.29727"
+       x1="242.30573" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1695"
+       y2="327.20428"
+       x2="241.3588"
+       y1="324.23215"
+       x1="237.93973" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1697"
+       y2="336.52249"
+       x2="242.33656"
+       y1="329.24243"
+       x1="233.66054" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1699"
+       y2="337.17767"
+       x2="232.99013"
+       y1="334.32663"
+       x1="229.46942" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1701"
+       y2="342.27237"
+       x2="228.93762"
+       y1="339.48325"
+       x1="225.36768" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1703"
+       y2="347.43704"
+       x2="224.97464"
+       y1="344.71063"
+       x1="221.35657" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1705"
+       y2="352.67007"
+       x2="221.1024"
+       y1="350.00723"
+       x1="217.43729" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1707"
+       y2="364.03302"
+       x2="225.98109"
+       y1="355.3714"
+       x1="213.61105" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1709"
+       y2="363.33487"
+       x2="213.63481"
+       y1="360.80157"
+       x1="209.87901" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1711"
+       y2="368.7634"
+       x2="210.04175"
+       y1="366.29602"
+       x1="206.24232" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1713"
+       y2="374.25378"
+       x2="206.54398"
+       y1="371.85312"
+       x1="202.70206" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1715"
+       y2="379.80441"
+       x2="203.14256"
+       y1="377.47113"
+       x1="199.25932" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1717"
+       y2="388.81128"
+       x2="205.72357"
+       y1="383.14838"
+       x1="195.91516" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1719"
+       y2="391.07947"
+       x2="196.63289"
+       y1="388.88315"
+       x1="192.67059" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1721"
+       y2="396.80051"
+       x2="193.52663"
+       y1="394.67368"
+       x1="189.52661" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1723"
+       y2="402.57486"
+       x2="190.52069"
+       y1="400.51816"
+       x1="186.48415" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1725"
+       y2="408.40082"
+       x2="187.61598"
+       y1="406.41486"
+       x1="183.54416" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1727"
+       y2="418.74396"
+       x2="194.39371"
+       y1="412.36197"
+       x1="180.70753" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1729"
+       y2="420.20035"
+       x2="182.11377"
+       y1="418.3577"
+       x1="177.97513" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1731"
+       y2="426.17032"
+       x2="179.51796"
+       y1="424.40018"
+       x1="175.34778" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1733"
+       y2="432.18466"
+       x2="177.02672"
+       y1="430.48761"
+       x1="172.82629" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1735"
+       y2="438.24161"
+       x2="174.64082"
+       y1="436.6181"
+       x1="170.41142" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1737"
+       y2="446.66345"
+       x2="178.74664"
+       y1="442.78983"
+       x1="168.10393" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1739"
+       y2="450.4758"
+       x2="170.18796"
+       y1="449.00085"
+       x1="165.90446" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1741"
+       y2="456.64929"
+       x2="168.12233"
+       y1="455.24936"
+       x1="163.81375" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1743"
+       y2="462.85791"
+       x2="166.16476"
+       y1="461.53336"
+       x1="161.83241" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1745"
+       y2="469.09973"
+       x2="164.31584"
+       y1="467.85101"
+       x1="159.96104" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1747"
+       y2="478.10876"
+       x2="172.78667"
+       y1="474.20035"
+       x1="158.20021" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1749"
+       y2="481.67545"
+       x2="160.9462"
+       y1="480.57944"
+       x1="156.55046" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1751"
+       y2="488.00549"
+       x2="159.42648"
+       y1="486.98639"
+       x1="155.01228" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1753"
+       y2="494.36108"
+       x2="158.01749"
+       y1="493.41916"
+       x1="153.58617" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1755"
+       y2="500.7403"
+       x2="156.71962"
+       y1="499.87589"
+       x1="152.27254" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1757"
+       y2="508.32123"
+       x2="162.22549"
+       y1="506.35452"
+       x1="151.07181" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1759"
+       y2="513.56183"
+       x2="154.45883"
+       y1="512.85315"
+       x1="149.9843" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1761"
+       y2="520.00024"
+       x2="153.4966"
+       y1="519.36975"
+       x1="149.01039" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1763"
+       y2="526.45447"
+       x2="152.6469"
+       y1="525.90234"
+       x1="148.15036" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1765"
+       y2="532.92255"
+       x2="151.90996"
+       y1="532.44897"
+       x1="147.40446" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1767"
+       y2="540.32379"
+       x2="161.8165"
+       y1="539.00763"
+       x1="146.77293" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1769"
+       y2="545.89233"
+       x2="150.77524"
+       y1="545.57629"
+       x1="146.25597" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1771"
+       y2="552.39008"
+       x2="150.37782"
+       y1="552.15302"
+       x1="145.85371" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1773"
+       y2="558.8938"
+       x2="150.09386"
+       y1="558.73566"
+       x1="145.56631" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1775"
+       y2="565.40149"
+       x2="149.92345"
+       y1="565.32245"
+       x1="145.39383" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1777"
+       y2="571.91113"
+       x2="156.66209"
+       y1="571.91113"
+       x1="145.33633" />
+    <path
+       stroke-width="0.854745"
+       stroke="none"
+       fill="none"
+       id="basic"
+       d="m 147.97901,571.91115 a 374.88283,374.88283 0 1 0 749.76567,0" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1780"
+       y2="571.91113"
+       x2="889.06165"
+       y1="571.91113"
+       x1="900.38739" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1786"
+       y2="595.86176"
+       x2="888.27759"
+       y1="596.60248"
+       x1="899.5791" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1788"
+       y2="619.70984"
+       x2="885.92877"
+       y1="621.18811"
+       x1="897.15759" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1790"
+       y2="643.35315"
+       x2="882.02521"
+       y1="645.56274"
+       x1="893.13336" />
+    <text
+       id="text1794"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1792"
+         startOffset="6.3500002%"
+         xlink:href="#basic">3</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1796"
+       y2="666.69061"
+       x2="876.58368"
+       y1="669.62195"
+       x1="887.5235" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1798"
+       y2="689.62219"
+       x2="869.62744"
+       y1="693.26276"
+       x1="880.35211" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1800"
+       y2="712.04974"
+       x2="861.18634"
+       y1="716.38391"
+       x1="871.64996" />
+    <text
+       id="text1804"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1802"
+         startOffset="12.6%"
+         xlink:href="#basic">6</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1806"
+       y2="733.87714"
+       x2="851.29645"
+       y1="738.88641"
+       x1="861.45422" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1808"
+       y2="755.01099"
+       x2="840.00018"
+       y1="760.67389"
+       x1="849.80859" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1810"
+       y2="775.36078"
+       x2="827.34583"
+       y1="781.65308"
+       x1="836.76288" />
+    <text
+       id="text1814"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1812"
+         startOffset="18.85%"
+         xlink:href="#basic">9</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1816"
+       y2="794.83942"
+       x2="813.3877"
+       y1="801.73407"
+       x1="822.37299" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1818"
+       y2="813.3634"
+       x2="798.18542"
+       y1="820.83099"
+       x1="806.70062" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1820"
+       y2="830.85345"
+       x2="781.8042"
+       y1="838.86194"
+       x1="789.81268" />
+    <text
+       id="text1824"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1822"
+         startOffset="24.48%"
+         xlink:href="#basic">12</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1826"
+       y2="847.23468"
+       x2="764.31415"
+       y1="855.74988"
+       x1="771.78174" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1828"
+       y2="862.43695"
+       x2="745.79016"
+       y1="871.42224"
+       x1="752.68481" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1830"
+       y2="876.39508"
+       x2="726.31152"
+       y1="885.81213"
+       x1="732.60376" />
+    <text
+       id="text1834"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1832"
+         startOffset="31.350002%"
+         xlink:href="#basic">9</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1836"
+       y2="889.04944"
+       x2="705.96173"
+       y1="898.85779"
+       x1="711.62463" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1838"
+       y2="900.3457"
+       x2="684.82782"
+       y1="910.50348"
+       x1="689.8371" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1840"
+       y2="910.2356"
+       x2="663.00043"
+       y1="920.69922"
+       x1="667.33466" />
+    <text
+       id="text1844"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1842"
+         startOffset="37.599999%"
+         xlink:href="#basic">6</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1846"
+       y2="918.6767"
+       x2="640.57294"
+       y1="929.40137"
+       x1="644.2135" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1848"
+       y2="925.63293"
+       x2="617.6413"
+       y1="936.57275"
+       x1="620.57269" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1850"
+       y2="931.07446"
+       x2="594.30383"
+       y1="942.18262"
+       x1="596.51343" />
+    <text
+       id="text1854"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1852"
+         startOffset="43.849999%"
+         xlink:href="#basic">3</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1856"
+       y2="934.97797"
+       x2="570.66052"
+       y1="946.20685"
+       x1="572.13879" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1858"
+       y2="937.32684"
+       x2="546.81244"
+       y1="948.62836"
+       x1="547.55322" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1860"
+       y2="938.1109"
+       x2="522.86188"
+       y1="949.43665"
+       x1="522.86188" />
+    <text
+       id="text1864"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1862"
+         startOffset="49.48%"
+         xlink:href="#basic">00</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1866"
+       y2="937.32684"
+       x2="498.91125"
+       y1="948.62836"
+       x1="498.1705" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1868"
+       y2="934.97797"
+       x2="475.0632"
+       y1="946.20685"
+       x1="473.5849" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1870"
+       y2="931.07446"
+       x2="451.41983"
+       y1="942.18262"
+       x1="449.2103" />
+    <text
+       id="text1874"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1872"
+         startOffset="56.349999%"
+         xlink:href="#basic">3</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1876"
+       y2="925.63293"
+       x2="428.08237"
+       y1="936.57275"
+       x1="425.15106" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1878"
+       y2="918.6767"
+       x2="405.15082"
+       y1="929.40137"
+       x1="401.51025" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1880"
+       y2="910.2356"
+       x2="382.72327"
+       y1="920.69922"
+       x1="378.3891" />
+    <text
+       id="text1884"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1882"
+         startOffset="62.599999%"
+         xlink:href="#basic">6</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1886"
+       y2="900.3457"
+       x2="360.89584"
+       y1="910.50348"
+       x1="355.88657" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1888"
+       y2="889.04944"
+       x2="339.76196"
+       y1="898.85779"
+       x1="334.09909" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1890"
+       y2="876.39508"
+       x2="319.41217"
+       y1="885.81213"
+       x1="313.1199" />
+    <text
+       id="text1894"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1892"
+         startOffset="68.849999%"
+         xlink:href="#basic">9</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1896"
+       y2="862.43695"
+       x2="299.93356"
+       y1="871.42224"
+       x1="293.03888" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1898"
+       y2="847.23468"
+       x2="281.40958"
+       y1="855.74988"
+       x1="273.94199" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1900"
+       y2="830.85345"
+       x2="263.91953"
+       y1="838.86194"
+       x1="255.911" />
+    <text
+       id="text1904"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1902"
+         startOffset="74.480003%"
+         xlink:href="#basic">12</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1906"
+       y2="813.3634"
+       x2="247.53831"
+       y1="820.83099"
+       x1="239.02313" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1908"
+       y2="794.83942"
+       x2="232.33606"
+       y1="801.73407"
+       x1="223.35072" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1910"
+       y2="775.36078"
+       x2="218.37788"
+       y1="781.65308"
+       x1="208.96086" />
+    <text
+       id="text1914"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1912"
+         startOffset="81.349999%"
+         xlink:href="#basic">9</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1916"
+       y2="755.01099"
+       x2="205.72357"
+       y1="760.67389"
+       x1="195.91516" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1918"
+       y2="733.87714"
+       x2="194.42728"
+       y1="738.88641"
+       x1="184.2695" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1920"
+       y2="712.04974"
+       x2="184.5374"
+       y1="716.38391"
+       x1="174.07375" />
+    <text
+       id="text1924"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1922"
+         startOffset="87.599999%"
+         xlink:href="#basic">6</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1926"
+       y2="689.62219"
+       x2="176.09627"
+       y1="693.26276"
+       x1="165.37157" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1928"
+       y2="666.69061"
+       x2="169.14006"
+       y1="669.62195"
+       x1="158.20021" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1930"
+       y2="643.35315"
+       x2="163.69853"
+       y1="645.56274"
+       x1="152.59038" />
+    <text
+       id="text1934"
+       font-size="7px"
+       font-family="Arial, Helvetica, sans-serif"><textPath
+         id="textPath1932"
+         startOffset="93.849999%"
+         xlink:href="#basic">3</textPath></text>
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1936"
+       y2="619.70984"
+       x2="159.795"
+       y1="621.18811"
+       x1="148.56612" />
+    <line
+       stroke-width="1.70949"
+       stroke="#000000"
+       id="line1938"
+       y2="595.86176"
+       x2="157.44617"
+       y1="596.60248"
+       x1="146.14465" />
+  </g>
+</svg>

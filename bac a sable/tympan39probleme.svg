@@ -1,0 +1,2672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="tympan39probleme.svg"
+   id="svg610"
+   version="1.1"
+   viewBox="0 0 500 500">
+  <metadata
+     id="metadata616">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs614" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg610"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="250"
+     inkscape:cx="250"
+     inkscape:zoom="1.6550575"
+     showgrid="false"
+     id="namedview612"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="sphereceleste"
+     stroke="black"
+     fill="none"
+     r="119.04761904761904"
+     cy="250.0"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="capricorne"
+     stroke="black"
+     fill="none"
+     r="181.40512252579057"
+     cy="250.0"
+     cx="250.0" />
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text6"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath4"
+       startOffset="23%"
+       xlink:href="#capricorne">Latitude 39</textPath></text>
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="cercleexterne"
+     stroke="black"
+     fill="none"
+     r="190.4753786520801"
+     cy="250.0"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="cercleinvisible"
+     stroke="none"
+     fill="none"
+     r="184.12619936367742"
+     cy="250.0"
+     cx="250.0" />
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text12"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath10"
+       startOffset="58.6%"
+       xlink:href="#cercleinvisible">230</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text16"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath14"
+       startOffset="62.4%"
+       xlink:href="#cercleinvisible">220</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text20"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath18"
+       startOffset="65.5%"
+       xlink:href="#cercleinvisible">210</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text24"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath22"
+       startOffset="68.6%"
+       xlink:href="#cercleinvisible">200</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text28"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath26"
+       startOffset="71.55%"
+       xlink:href="#cercleinvisible">190</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text32"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath30"
+       startOffset="74.4%"
+       xlink:href="#cercleinvisible">Sud</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text36"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath34"
+       startOffset="77.4%"
+       xlink:href="#cercleinvisible">170</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text40"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath38"
+       startOffset="80.3%"
+       xlink:href="#cercleinvisible">160</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text44"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath42"
+       startOffset="83.4%"
+       xlink:href="#cercleinvisible">150</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text48"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath46"
+       startOffset="86.5%"
+       xlink:href="#cercleinvisible">140</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text52"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath50"
+       startOffset="90%"
+       xlink:href="#cercleinvisible">130</textPath></text>
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="cancer"
+     stroke="black"
+     fill="none"
+     r="78.1253329761519"
+     cy="250.0"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="  "
+     stroke="black"
+     fill="none"
+     r="0.7142857142857142"
+     cy="250.0"
+     cx="250.0" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="horizon"
+     d=" M80.1546658526106 186.2788814680821 A189.16853917449384 189.16853917449384 0 0 0 419.8453341473894 186.2788814680821" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="none"
+     fill="none"
+     id="horizonlarge"
+     d=" M76.75313904736976 196.21019010391385 A196.73528074147362 196.73528074147362 0 0 0 423.24686095263024 196.21019010391385" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path58"
+     d=" M80.1546658526106 186.2788814680821 A189.16853917449384 189.16853917449384 0 0 0 419.8453341473894 186.2788814680821" />
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text62"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath60"
+       startOffset="6.5%"
+       xlink:href="#horizonlarge">250</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text66"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath64"
+       startOffset="16.8%"
+       xlink:href="#horizonlarge">Ouest</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text70"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath68"
+       startOffset="30.4%"
+       xlink:href="#horizonlarge">300</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text74"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath72"
+       startOffset="40.15%"
+       xlink:href="#horizonlarge">330</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text78"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath76"
+       startOffset="48.2%"
+       xlink:href="#horizonlarge">Nord</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text82"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath80"
+       startOffset="57.65%"
+       xlink:href="#horizonlarge">30</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text86"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath84"
+       startOffset="67.4%"
+       xlink:href="#horizonlarge">60</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text90"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath88"
+       startOffset="79.25%"
+       xlink:href="#horizonlarge">Est</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text94"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath92"
+       startOffset="91%"
+       xlink:href="#horizonlarge">110</textPath></text>
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id=" "
+     d=" M90.22038113311731 164.1030159240105 A165.52485326636645 165.52485326636645 0 0 0 409.7796188668827 164.1030159240105" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="10"
+     d=" M395.8236210379964 142.09592210688282 A146.00698306672197 146.00698306672197 0 1 1104.17637896200358 142.09592210688282" />
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text100"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath98"
+       startOffset="8.6%"
+       xlink:href="#10">10</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text104"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath102"
+       startOffset="89.785%"
+       xlink:href="#10">10</textPath></text>
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path106"
+     d=" M123.04268246963322 120.4250872888941 A129.47423018899835 129.47423018899835 0 1 0 376.95731753036677 120.4250872888941" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="20"
+     d=" M350.915291164844 99.25543960821724 A115.16884674549466 115.16884674549466 0 1 1149.08470883515596 99.25543960821724" />
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text111"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath109"
+       startOffset="20.5%"
+       xlink:href="#20">20</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text115"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath113"
+       startOffset="78.1%"
+       xlink:href="#20">20</textPath></text>
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path117"
+     d=" M190.16186181320103 78.74809286628474 A102.56661249666399 102.56661249666399 0 1 0 309.838138186799 78.74809286628474" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="30"
+     stroke="black"
+     fill="none"
+     r="91.292305684349"
+     cy="168.07694512810556"
+     cx="250.0" />
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text122"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath120"
+       startOffset="96.3%"
+       xlink:href="#30">30</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text126"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath124"
+       startOffset="52%"
+       xlink:href="#30">30</textPath></text>
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     id="circle128"
+     stroke="black"
+     fill="none"
+     r="81.06938042334271"
+     cy="173.08785403996058"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="40"
+     stroke="black"
+     fill="none"
+     r="71.68869858941511"
+     cy="177.2723885783517"
+     cx="250.0" />
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text133"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath131"
+       startOffset="94.8%"
+       xlink:href="#40">40</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text137"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath135"
+       startOffset="53.18%"
+       xlink:href="#40">40</textPath></text>
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     id="circle139"
+     stroke="black"
+     fill="none"
+     r="62.98837711584234"
+     cy="180.77260154093847"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="50"
+     stroke="black"
+     fill="none"
+     r="54.84037766515396"
+     cy="183.6966404065676"
+     cx="250.0" />
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text144"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath142"
+       startOffset="93.45%"
+       xlink:href="#50">50</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text148"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath146"
+       startOffset="54.18%"
+       xlink:href="#50">50</textPath></text>
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     id="circle150"
+     stroke="black"
+     fill="none"
+     r="47.14132449019465"
+     cy="186.12762375952065"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="60"
+     stroke="black"
+     fill="none"
+     r="39.80605003166263"
+     cy="188.12977795267852"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     id="circle153"
+     stroke="black"
+     fill="none"
+     r="32.76294258221156"
+     cy="189.7527489504595"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="70"
+     stroke="black"
+     fill="none"
+     r="25.950507371259928"
+     cy="191.0346659549498"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     id="circle156"
+     stroke="black"
+     fill="none"
+     r="19.314755771702636"
+     cy="192.00432801009424"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="80"
+     stroke="black"
+     fill="none"
+     r="12.807162912842042"
+     cy="192.68275619610978"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     id="circle159"
+     stroke="black"
+     fill="none"
+     r="6.383012824516313"
+     cy="193.08427096005457"
+     cx="250.0" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="moins18"
+     d=" M69.2082443232396 264.90501787693216 A353.4805282117604 353.4805282117604 0 0 0 430.79175567676043 264.90501787693216" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="none"
+     fill="none"
+     id="moins18p"
+     d=" M69.04332166203329 262.7475112663901 A351.7131255707016 351.7131255707016 0 0 0 430.9566783379667 262.7475112663901" />
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text165"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath163"
+       startOffset="2%"
+       xlink:href="#moins18p">-18</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text169"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath167"
+       startOffset="95%"
+       xlink:href="#moins18p">-18</textPath></text>
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path171"
+     d=" M369.04761904761904 250.0 A153.1856626063294 153.1856626063294 0 0 0 130.952380952381 250.0" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path173"
+     d=" M377.2109524559142 242.995968502608 A153.7708069514556 153.7708069514556 0 0 0 262.80706705540837 192.6332050674808" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path175"
+     d=" M237.37758569163518 194.850261421954 A153.7708069514556 153.7708069514556 0 0 0 138.92856499061668 256.1154154909409" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path177"
+     d=" M361.0714350093833 256.1154154909409 A153.7708069514556 153.7708069514556 0 0 0 262.6224143083648 194.850261421954" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path179"
+     d=" M237.19293294459163 192.6332050674808 A153.7708069514556 153.7708069514556 0 0 0 122.78904754408579 242.995968502608" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path181"
+     d=" M385.5286000850473 234.9609110750013 A155.54879836981792 155.54879836981792 0 0 0 262.7532500523891 191.50885885080567" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path183"
+     d=" M237.61050182075164 195.92679021912437 A155.54879836981792 155.54879836981792 0 0 0 146.70115839205872 261.46267624557703" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path185"
+     d=" M353.2988416079413 261.46267624557703 A155.54879836981792 155.54879836981792 0 0 0 262.3894981792484 195.92679021912437" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path187"
+     d=" M237.2467499476109 191.50885885080567 A155.54879836981792 155.54879836981792 0 0 0 114.47139991495271 234.9609110750013" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path189"
+     d=" M393.94411421280313 225.72729554967296 A158.58946767666836 158.58946767666836 0 0 0 262.5994473826941 190.3855083803978" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path191"
+     d=" M237.9324583045564 196.97202878068657 A158.58946767666836 158.58946767666836 0 0 0 154.26498744484115 266.14340175010113" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path193"
+     d=" M345.73501255515885 266.14340175010113 A158.58946767666836 158.58946767666836 0 0 0 262.0675416954436 196.97202878068657" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path195"
+     d=" M237.40055261730586 190.3855083803978 A158.58946767666836 158.58946767666836 0 0 0 106.0558857871969 225.72729554967296" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path197"
+     d=" M402.36734418276376 215.09966708175676 A163.01677720765025 163.01677720765025 0 0 0 262.3447219563103 189.27229263561517" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path199"
+     d=" M238.33932028863217 197.9791672965594 A163.01677720765025 163.01677720765025 0 0 0 161.62252578011 270.2432042724843" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path201"
+     d=" M338.37747421989 270.2432042724843 A163.01677720765025 163.01677720765025 0 0 0 261.66067971136783 197.9791672965594" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path203"
+     d=" M237.6552780436897 189.27229263561517 A163.01677720765025 163.01677720765025 0 0 0 97.63265581723621 215.09966708175676" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path205"
+     d=" M410.66048251061227 202.8530699934463 A169.02167762146212 169.02167762146212 0 0 0 261.9890138934451 188.17865054250228" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path207"
+     d=" M238.82654507684953 198.94193561168834 A169.02167762146212 169.02167762146212 0 0 0 168.78135036145903 273.8341745891505" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path209"
+     d=" M331.21864963854097 273.8341745891505 A169.02167762146212 169.02167762146212 0 0 0 261.1734549231505 198.94193561168834" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path211"
+     d=" M238.01098610655492 188.17865054250228 A169.02167762146212 169.02167762146212 0 0 0 89.33951748938773 202.8530699934463" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path213"
+     d=" M418.6190814369421 188.73423007879 A176.8835670835109 176.8835670835109 0 0 0 261.5332106370943 187.11423087278718" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path215"
+     d=" M239.38924943673857 199.8546035425275 A176.8835670835109 176.8835670835109 0 0 0 175.75236319145287 276.9770099275931" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path217"
+     d=" M324.2476368085471 276.9770099275931 A176.8835670835109 176.8835670835109 0 0 0 260.61075056326143 199.8546035425275" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path219"
+     d=" M238.46678936290564 187.11423087278718 A176.8835670835109 176.8835670835109 0 0 0 81.38091856305792 188.73423007879" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path221"
+     d=" M411.53205856738316 167.4456994846385 A187.0051642723929 187.0051642723929 0 0 0 260.9792072934647 186.08878705126165" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path223"
+     d=" M240.0222705945047 200.71197395295212 A187.0051642723929 187.0051642723929 0 0 0 182.54855653582845 279.7228078443928" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path225"
+     d=" M317.4514434641716 279.7228078443928 A187.0051642723929 187.0051642723929 0 0 0 259.9777294054953 200.71197395295212" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path227"
+     d=" M239.02079270653527 186.08878705126165 A187.0051642723929 187.0051642723929 0 0 0 88.46794143261687 167.4456994846385" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path229"
+     d=" M399.71070144982536 147.55721426084543 A199.96968058749744 199.96968058749744 0 0 0 260.3299539568029 185.11205787122566" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path231"
+     d=" M240.72022049625267 201.50937016965042 A199.96968058749744 199.96968058749744 0 0 0 189.18416347098542 282.1145631649832" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path233"
+     d=" M310.8158365290146 282.1145631649832 A199.96968058749744 199.96968058749744 0 0 0 259.2797795037473 201.50937016965042" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path235"
+     d=" M239.6700460431971 185.11205787122566 A199.96968058749744 199.96968058749744 0 0 0 100.2892985501746 147.55721426084543" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path237"
+     d=" M386.4094043359732 130.41616795192556 A216.63724161898008 216.63724161898008 0 0 0 259.5894868224411 184.19363584366414" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path239"
+     d=" M241.47753318256443 202.24261922974094 A216.63724161898008 216.63724161898008 0 0 0 195.67408143071515 284.18840831816397" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path241"
+     d=" M304.32591856928485 284.18840831816397 A216.63724161898008 216.63724161898008 0 0 0 258.5224668174356 202.24261922974094" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path243"
+     d=" M240.41051317755895 184.19363584366414 A216.63724161898008 216.63724161898008 0 0 0 113.59059566402681 130.41616795192556" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path245"
+     d=" M372.13997914453864 115.87452153610508 A238.3145852500667 238.3145852500667 0 0 0 258.7629401122286 183.3428256575262" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path247"
+     d=" M242.2885053504893 202.90803233647097 A238.3145852500667 238.3145852500667 0 0 0 202.03348908483716 285.97463553174777" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path249"
+     d=" M297.96651091516287 285.97463553174777 A238.3145852500667 238.3145852500667 0 0 0 257.7114946495107 202.90803233647097" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path251"
+     d=" M241.2370598877714 183.3428256575262 A238.3145852500667 238.3145852500667 0 0 0 127.86002085546134 115.87452153610508" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path253"
+     d=" M357.28012736278345 103.71673796492621 A267.0710526060996 267.0710526060996 0 0 0 257.85653624572444 182.56849596138755" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path255"
+     d=" M243.14733036156184 203.50238376375245 A267.0710526060996 267.0710526060996 0 0 0 208.27760005073907 287.49853524676394" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path257"
+     d=" M291.72239994926093 287.49853524676394 A267.0710526060996 267.0710526060996 0 0 0 256.85266963843816 203.50238376375245" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path259"
+     d=" M242.1434637542756 182.56849596138755 A267.0710526060996 267.0710526060996 0 0 0 142.71987263721655 103.71673796492621" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path261"
+     d=" M342.0929327219151 93.70953253229447 A306.37132521265875 306.37132521265875 0 0 0 256.8775522917845 181.87892833975042" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path263"
+     d=" M244.04812610007068 204.02288930623766 A306.37132521265875 306.37132521265875 0 0 0 214.42151335038585 288.78108026644514" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path265"
+     d=" M285.57848664961415 288.78108026644514 A306.37132521265875 306.37132521265875 0 0 0 255.95187389992932 204.02288930623766" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path267"
+     d=" M243.12244770821545 181.87892833975042 A306.37132521265875 306.37132521265875 0 0 0 157.90706727808495 93.70953253229447" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path269"
+     d=" M326.75118346207034 85.63128547144768 A362.4681573753611 362.4681573753611 0 0 0 255.83426151685103 181.28166789590597" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path271"
+     d=" M244.98495719691 204.46718522594523 A362.4681573753611 362.4681573753611 0 0 0 220.48013214560132 289.839480345173" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path273"
+     d=" M279.5198678543987 289.839480345173 A362.4681573753611 362.4681573753611 0 0 0 255.01504280309 204.46718522594523" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path275"
+     d=" M244.16573848314897 181.28166789590597 A362.4681573753611 362.4681573753611 0 0 0 173.24881653792968 85.63128547144768" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path277"
+     d=" M311.3601761700279 79.28753045257585 A447.88491437028387 447.88491437028387 0 0 0 254.73584977995313 180.78338021508478" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path279"
+     d=" M245.95185221616424 204.83330850439208 A447.88491437028387 447.88491437028387 0 0 0 226.46813051116902 290.6876274888284" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path281"
+     d=" M273.531869488831 290.6876274888284 A447.88491437028387 447.88491437028387 0 0 0 254.04814778383576 204.83330850439208" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path283"
+     d=" M245.26415022004687 180.78338021508478 A447.88491437028387 447.88491437028387 0 0 0 188.63982382997207 79.28753045257585" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path285"
+     d=" M295.97668287529837 74.51791228053702 A591.8639509146285 591.8639509146285 0 0 0 253.5923075653411 180.38971962119894" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path287"
+     d=" M246.94281645945065 205.11967907419736 A591.8639509146285 591.8639509146285 0 0 0 232.39995382543876 291.3364483041585" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path289"
+     d=" M267.60004617456127 291.3364483041585 A591.8639509146285 591.8639509146285 0 0 0 253.05718354054935 205.11967907419736" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path291"
+     d=" M246.4076924346589 180.38971962119894 A591.8639509146285 591.8639509146285 0 0 0 204.0233171247016 74.51791228053702" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path293"
+     d=" M280.6238231886056 71.19843420173822 A882.1610722581287 882.1610722581287 0 0 0 252.41429953261803 180.10521352502718" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path295"
+     d=" M247.9518410820355 205.32508457828948 A882.1610722581287 882.1610722581287 0 0 0 238.2898424647575 291.79417630656576" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path297"
+     d=" M261.7101575352425 291.79417630656576 A882.1610722581287 882.1610722581287 0 0 0 252.0481589179645 205.32508457828948" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     fill="none"
+     id="path299"
+     d=" M247.58570046738197 180.10521352502718 A882.1610722581287 882.1610722581287 0 0 0 219.37617681139437 71.19843420173822" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path301"
+     d=" M265.30245854119505 69.24145043403362 A1757.6083660929557 1757.6083660929557 0 0 0 251.2130145315142 179.93316727636662" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path303"
+     d=" M248.97290923967893 205.44866808857427 A1757.6083660929557 1757.6083660929557 0 0 0 244.15187136537614 292.0665541217315" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path305"
+     d=" M255.84812863462386 292.0665541217315 A1757.6083660929557 1757.6083660929557 0 0 0 251.02709076032107 205.44866808857427" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.25"
+     stroke="black"
+     fill="none"
+     id="path307"
+     d=" M248.7869854684858 179.93316727636662 A1757.6083660929557 1757.6083660929557 0 0 0 234.69754145880498 69.24145043403362" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line309"
+     y2="328.12533297615187"
+     x2="250.0"
+     y1="68.59487747420943"
+     x1="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="circle311"
+     stroke="red"
+     fill="none"
+     r="209.01024986667176"
+     cy="250.0"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="basechiffre"
+     stroke="none"
+     fill="none"
+     r="211.93639336480516"
+     cy="250.0"
+     cx="250.0" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="circle314"
+     stroke="red"
+     fill="none"
+     r="220.8410187270494"
+     cy="250.0"
+     cx="250.0" />
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text318"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath316"
+       startOffset="-0.27%"
+       xlink:href="#basechiffre">06</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text322"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath320"
+       startOffset="99.65%"
+       xlink:href="#basechiffre">0</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text326"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath324"
+       startOffset="3.896666666666667%"
+       xlink:href="#basechiffre">05</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text330"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath328"
+       startOffset="8.063333333333334%"
+       xlink:href="#basechiffre">04</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text334"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath332"
+       startOffset="12.23%"
+       xlink:href="#basechiffre">03</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text338"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath336"
+       startOffset="16.39666666666667%"
+       xlink:href="#basechiffre">02</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text342"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath340"
+       startOffset="20.563333333333333%"
+       xlink:href="#basechiffre">01</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text346"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath344"
+       startOffset="24.73%"
+       xlink:href="#basechiffre">24</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text350"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath348"
+       startOffset="28.89666666666667%"
+       xlink:href="#basechiffre">23</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text354"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath352"
+       startOffset="33.06333333333333%"
+       xlink:href="#basechiffre">22</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text358"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath356"
+       startOffset="37.23%"
+       xlink:href="#basechiffre">21</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text362"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath360"
+       startOffset="41.39666666666666%"
+       xlink:href="#basechiffre">20</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text366"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath364"
+       startOffset="45.56333333333333%"
+       xlink:href="#basechiffre">19</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text370"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath368"
+       startOffset="49.73%"
+       xlink:href="#basechiffre">18</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text374"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath372"
+       startOffset="53.89666666666666%"
+       xlink:href="#basechiffre">17</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text378"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath376"
+       startOffset="58.06333333333333%"
+       xlink:href="#basechiffre">16</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text382"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath380"
+       startOffset="62.23%"
+       xlink:href="#basechiffre">15</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text386"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath384"
+       startOffset="66.39666666666668%"
+       xlink:href="#basechiffre">14</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text390"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath388"
+       startOffset="70.56333333333333%"
+       xlink:href="#basechiffre">13</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text394"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath392"
+       startOffset="74.73%"
+       xlink:href="#basechiffre">12</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text398"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath396"
+       startOffset="78.89666666666668%"
+       xlink:href="#basechiffre">11</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text402"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath400"
+       startOffset="83.06333333333333%"
+       xlink:href="#basechiffre">10</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text406"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath404"
+       startOffset="87.23%"
+       xlink:href="#basechiffre">09</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text410"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath408"
+       startOffset="91.39666666666668%"
+       xlink:href="#basechiffre">08</textPath></text>
+  <text
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="text414"
+     font-size="7"
+     font-family="Arial, Helvetica, sans-serif"><textPath
+       id="textPath412"
+       startOffset="95.56333333333333%"
+       xlink:href="#basechiffre">07</textPath></text>
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line416"
+     y2="250.0"
+     x2="470.8410187270494"
+     y1="250.0"
+     x1="459.01024986667176" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line418"
+     y2="263.9433228701035"
+     x2="462.73399773534436"
+     y1="263.66992438245444"
+     x1="458.56274287778854" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line420"
+     y2="277.8269382910594"
+     x2="461.3665809688632"
+     y1="277.2813120500582"
+     x1="457.2221382047678" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line422"
+     y2="291.59139449018363"
+     x2="459.0940600530856"
+     y1="290.7758769511604"
+     x1="454.99417652263287" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line424"
+     y2="307.1578615864028"
+     x2="463.3160434924448"
+     y1="304.09583328713126"
+     x1="451.88839830534954" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line426"
+     y2="318.5278258192236"
+     x2="451.8764650314929"
+     y1="317.18414296002317"
+     x1="447.9181029720519" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line428"
+     y2="331.58445501483226"
+     x2="446.9622977756257"
+     y1="329.984759818463"
+     x1="443.10029193688797" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line430"
+     y2="344.29172704899395"
+     x2="441.2047077224812"
+     y1="342.44286965587645"
+     x1="437.4555958063541" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line432"
+     y2="360.4205093635247"
+     x2="441.2539324152597"
+     y1="354.5051249333359"
+     x1="431.00818603587084" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line434"
+     y2="368.44227068635035"
+     x2="427.26138485237766"
+     y1="366.1198732219121"
+     x1="423.78567142389966" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line436"
+     y2="379.782125954031"
+     x2="419.1353594845663"
+     y1="377.23737838630484"
+     x1="415.8189798868297" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line438"
+     y2="390.56623423386196"
+     x2="410.2850705413093"
+     y1="387.81003356260976"
+     x1="407.1422260208914" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line440"
+     y2="406.15818190604193"
+     x2="406.15818190604193"
+     y1="397.7925650182183"
+     x1="397.7925650182183" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line442"
+     y2="410.2850705413093"
+     x2="390.56623423386196"
+     y1="407.1422260208914"
+     x1="387.81003356260976" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line444"
+     y2="419.1353594845663"
+     x2="379.782125954031"
+     y1="415.8189798868297"
+     x1="377.23737838630484" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line446"
+     y2="427.26138485237766"
+     x2="368.4422706863504"
+     y1="423.78567142389966"
+     x1="366.11987322191214" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line448"
+     y2="441.25393241525967"
+     x2="360.42050936352473"
+     y1="431.00818603587084"
+     x1="354.5051249333359" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line450"
+     y2="441.2047077224812"
+     x2="344.29172704899395"
+     y1="437.4555958063541"
+     x1="342.44286965587645" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line452"
+     y2="446.9622977756257"
+     x2="331.58445501483226"
+     y1="443.10029193688797"
+     x1="329.984759818463" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line454"
+     y2="451.8764650314929"
+     x2="318.52782581922366"
+     y1="447.9181029720519"
+     x1="317.1841429600232" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line456"
+     y2="463.3160434924448"
+     x2="307.1578615864028"
+     y1="451.88839830534954"
+     x1="304.09583328713126" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line458"
+     y2="459.0940600530856"
+     x2="291.59139449018363"
+     y1="454.99417652263287"
+     x1="290.77587695116046" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line460"
+     y2="461.3665809688632"
+     x2="277.8269382910594"
+     y1="457.2221382047678"
+     x1="277.28131205005826" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line462"
+     y2="462.73399773534436"
+     x2="263.94332287010354"
+     y1="458.56274287778854"
+     x1="263.6699243824545" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line464"
+     y2="470.8410187270494"
+     x2="250.0"
+     y1="459.01024986667176"
+     x1="250.0" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line466"
+     y2="462.73399773534436"
+     x2="236.05667712989646"
+     y1="458.56274287778854"
+     x1="236.33007561754556" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line468"
+     y2="461.3665809688632"
+     x2="222.17306170894062"
+     y1="457.2221382047678"
+     x1="222.7186879499418" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line470"
+     y2="459.0940600530856"
+     x2="208.40860550981637"
+     y1="454.99417652263287"
+     x1="209.2241230488396" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line472"
+     y2="463.3160434924448"
+     x2="192.84213841359718"
+     y1="451.88839830534954"
+     x1="195.90416671286877" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line474"
+     y2="451.8764650314929"
+     x2="181.47217418077636"
+     y1="447.9181029720519"
+     x1="182.81585703997683" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line476"
+     y2="446.96229777562576"
+     x2="168.4155449851678"
+     y1="443.10029193688797"
+     x1="170.01524018153708" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line478"
+     y2="441.2047077224812"
+     x2="155.70827295100605"
+     y1="437.4555958063541"
+     x1="157.5571303441236" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line480"
+     y2="441.2539324152597"
+     x2="139.57949063647536"
+     y1="431.00818603587084"
+     x1="145.49487506666418" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line482"
+     y2="427.26138485237766"
+     x2="131.55772931364962"
+     y1="423.78567142389966"
+     x1="133.88012677808786" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line484"
+     y2="419.1353594845663"
+     x2="120.21787404596901"
+     y1="415.8189798868297"
+     x1="122.76262161369513" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line486"
+     y2="410.2850705413093"
+     x2="109.43376576613804"
+     y1="407.1422260208914"
+     x1="112.18996643739024" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line488"
+     y2="406.15818190604193"
+     x2="93.84181809395804"
+     y1="397.7925650182183"
+     x1="102.20743498178172" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line490"
+     y2="390.56623423386196"
+     x2="89.71492945869073"
+     y1="387.81003356260976"
+     x1="92.85777397910857" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line492"
+     y2="379.782125954031"
+     x2="80.8646405154337"
+     y1="377.2373783863049"
+     x1="84.18102011317029" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line494"
+     y2="368.4422706863504"
+     x2="72.73861514762237"
+     y1="366.11987322191214"
+     x1="76.21432857610037" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line496"
+     y2="360.4205093635247"
+     x2="58.746067584740274"
+     y1="354.5051249333359"
+     x1="68.99181396412916" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line498"
+     y2="344.29172704899406"
+     x2="58.795292277518826"
+     y1="342.4428696558765"
+     x1="62.54440419364593" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line500"
+     y2="331.5844550148323"
+     x2="53.0377022243743"
+     y1="329.98475981846303"
+     x1="56.89970806311206" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line502"
+     y2="318.52782581922366"
+     x2="48.1235349685071"
+     y1="317.1841429600232"
+     x1="52.081897027948145" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line504"
+     y2="307.1578615864029"
+     x2="36.68395650755522"
+     y1="304.0958332871313"
+     x1="48.11160169465049" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line506"
+     y2="291.59139449018363"
+     x2="40.9059399469144"
+     y1="290.7758769511604"
+     x1="45.0058234773671" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line508"
+     y2="277.8269382910595"
+     x2="38.63341903113678"
+     y1="277.2813120500583"
+     x1="42.777861795232155" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line510"
+     y2="263.94332287010354"
+     x2="37.26600226465567"
+     y1="263.66992438245444"
+     x1="41.43725712221146" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line512"
+     y2="250.00000000000003"
+     x2="29.158981272950598"
+     y1="250.00000000000003"
+     x1="40.98975013332824" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line514"
+     y2="236.0566771298965"
+     x2="37.26600226465567"
+     y1="236.33007561754562"
+     x1="41.43725712221146" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line516"
+     y2="222.1730617089406"
+     x2="38.63341903113678"
+     y1="222.71868794994174"
+     x1="42.777861795232155" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line518"
+     y2="208.40860550981643"
+     x2="40.90593994691437"
+     y1="209.22412304883966"
+     x1="45.00582347736707" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line520"
+     y2="192.84213841359718"
+     x2="36.683956507555195"
+     y1="195.90416671286874"
+     x1="48.11160169465046" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line522"
+     y2="181.4721741807764"
+     x2="48.12353496850707"
+     y1="182.81585703997683"
+     x1="52.081897027948145" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line524"
+     y2="168.41554498516774"
+     x2="53.03770222437427"
+     y1="170.01524018153702"
+     x1="56.89970806311206" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line526"
+     y2="155.708272951006"
+     x2="58.795292277518826"
+     y1="157.55713034412355"
+     x1="62.54440419364593" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line528"
+     y2="139.57949063647538"
+     x2="58.746067584740246"
+     y1="145.49487506666418"
+     x1="68.99181396412914" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line530"
+     y2="131.5577293136497"
+     x2="72.73861514762228"
+     y1="133.88012677808794"
+     x1="76.21432857610029" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line532"
+     y2="120.21787404596901"
+     x2="80.86464051543368"
+     y1="122.76262161369513"
+     x1="84.18102011317029" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line534"
+     y2="109.43376576613804"
+     x2="89.7149294586907"
+     y1="112.18996643739024"
+     x1="92.85777397910857" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line536"
+     y2="93.84181809395812"
+     x2="93.84181809395795"
+     y1="102.2074349817818"
+     x1="102.20743498178163" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line538"
+     y2="89.71492945869073"
+     x2="109.43376576613801"
+     y1="92.85777397910857"
+     x1="112.18996643739021" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line540"
+     y2="80.86464051543373"
+     x2="120.21787404596898"
+     y1="84.18102011317032"
+     x1="122.76262161369509" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line542"
+     y2="72.73861514762231"
+     x2="131.55772931364965"
+     y1="76.21432857610034"
+     x1="133.8801267780879" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line544"
+     y2="58.7460675847403"
+     x2="139.5794906364752"
+     y1="68.99181396412922"
+     x1="145.49487506666404" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line546"
+     y2="58.795292277518826"
+     x2="155.708272951006"
+     y1="62.54440419364593"
+     x1="157.55713034412355" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line548"
+     y2="53.03770222437427"
+     x2="168.4155449851678"
+     y1="56.89970806311206"
+     x1="170.01524018153708" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line550"
+     y2="48.1235349685071"
+     x2="181.47217418077634"
+     y1="52.081897027948145"
+     x1="182.81585703997678" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line552"
+     y2="36.683956507555195"
+     x2="192.84213841359718"
+     y1="48.11160169465046"
+     x1="195.90416671286877" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line554"
+     y2="40.90593994691443"
+     x2="208.40860550981628"
+     y1="45.00582347736713"
+     x1="209.2241230488395" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line556"
+     y2="38.63341903113678"
+     x2="222.17306170894062"
+     y1="42.777861795232155"
+     x1="222.7186879499418" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line558"
+     y2="37.26600226465567"
+     x2="236.05667712989657"
+     y1="41.43725712221146"
+     x1="236.33007561754565" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line560"
+     y2="29.158981272950598"
+     x2="249.99999999999997"
+     y1="40.98975013332824"
+     x1="249.99999999999997" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line562"
+     y2="37.26600226465564"
+     x2="263.9433228701034"
+     y1="41.437257122211435"
+     x1="263.66992438245427" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line564"
+     y2="38.633419031136754"
+     x2="277.8269382910593"
+     y1="42.77786179523213"
+     x1="277.28131205005815" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line566"
+     y2="40.9059399469144"
+     x2="291.59139449018363"
+     y1="45.0058234773671"
+     x1="290.77587695116046" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line568"
+     y2="36.683956507555195"
+     x2="307.15786158640276"
+     y1="48.11160169465043"
+     x1="304.09583328713114" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line570"
+     y2="48.12353496850707"
+     x2="318.5278258192236"
+     y1="52.081897027948145"
+     x1="317.18414296002317" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line572"
+     y2="53.03770222437424"
+     x2="331.58445501483214"
+     y1="56.89970806311203"
+     x1="329.98475981846286" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line574"
+     y2="58.7952922775188"
+     x2="344.29172704899395"
+     y1="62.5444041936459"
+     x1="342.4428696558764" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line576"
+     y2="58.7460675847403"
+     x2="360.42050936352473"
+     y1="68.9918139641292"
+     x1="354.5051249333359" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line578"
+     y2="72.73861514762228"
+     x2="368.4422706863503"
+     y1="76.21432857610029"
+     x1="366.11987322191203" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line580"
+     y2="80.86464051543354"
+     x2="379.7821259540308"
+     y1="84.18102011317015"
+     x1="377.2373783863047" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line582"
+     y2="89.71492945869076"
+     x2="390.566234233862"
+     y1="92.85777397910857"
+     x1="387.81003356260976" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line584"
+     y2="93.84181809395801"
+     x2="406.15818190604193"
+     y1="102.20743498178169"
+     x1="397.7925650182183" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line586"
+     y2="109.43376576613807"
+     x2="410.2850705413093"
+     y1="112.18996643739027"
+     x1="407.1422260208915" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line588"
+     y2="120.21787404596895"
+     x2="419.13535948456627"
+     y1="122.76262161369506"
+     x1="415.81897988682965" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line590"
+     y2="131.55772931364947"
+     x2="427.26138485237755"
+     y1="133.88012677808774"
+     x1="423.78567142389954" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line592"
+     y2="139.5794906364752"
+     x2="441.25393241525967"
+     y1="145.49487506666404"
+     x1="431.0081860358707" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line594"
+     y2="155.708272951006"
+     x2="441.2047077224812"
+     y1="157.55713034412355"
+     x1="437.45559580635404" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line596"
+     y2="168.4155449851678"
+     x2="446.96229777562576"
+     y1="170.01524018153705"
+     x1="443.10029193688797" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line598"
+     y2="181.4721741807763"
+     x2="451.8764650314929"
+     y1="182.81585703997678"
+     x1="447.9181029720519" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line600"
+     y2="192.84213841359698"
+     x2="463.31604349244475"
+     y1="195.90416671286857"
+     x1="451.8883983053495" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line602"
+     y2="208.40860550981625"
+     x2="459.09406005308557"
+     y1="209.2241230488395"
+     x1="454.99417652263287" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line604"
+     y2="222.1730617089406"
+     x2="461.3665809688632"
+     y1="222.71868794994177"
+     x1="457.2221382047678" />
+  <line
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     stroke="black"
+     id="line606"
+     y2="236.05667712989654"
+     x2="462.73399773534436"
+     y1="236.33007561754562"
+     x1="458.56274287778854" />
+  <circle
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     stroke-width="0.5"
+     id="circle608"
+     stroke="red"
+     fill="none"
+     r="4.416820374540988"
+     cy="250.0"
+     cx="250.0" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     sodipodi:nodetypes="csssssssc"
+     id="path1443"
+     d="m 142.59324,77.942913 c 0,0 -34.43989,19.334676 -53.774572,44.711437 -22.714757,29.81311 -15.709424,54.98299 -1.812626,50.14932 C 100.90284,167.97 147.4269,101.50705 190.92993,91.235502 c 43.50302,-10.271546 60.42086,-29.002013 116.00805,-1.812625 78.5953,38.443353 80.96396,101.507053 97.27759,79.151333 16.31363,-22.35572 21.78794,-15.72887 0,-47.12828 C 376.13186,80.97344 327.35106,55.684761 275.51913,51.961942 197.55573,46.362236 142.59324,77.942913 142.59324,77.942913 Z"
+     style="opacity:0.6;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="path1447"
+     d="m 309.35482,170.99104 c 0,0 18.73046,-18.73047 24.16834,-1.20842 5.43788,17.52205 -11.47996,42.29461 14.50101,45.91986 25.98097,3.62525 33.83568,11.47996 45.31565,-6.6463 11.47996,-18.12625 28.3978,-22.95992 12.08417,-29.00201 -16.31364,-6.04209 -30.81464,-6.04209 -46.52407,-24.77255 -15.70942,-18.73047 -11.47996,-27.7936 -30.81464,-20.5431 -19.33467,7.25051 -34.43989,0 -36.25251,21.75151 -1.81263,21.75151 17.52205,14.50101 17.52205,14.50101 z"
+     style="opacity:0.6;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
+  <path
+     inkscape:export-ydpi="89"
+     inkscape:export-xdpi="89"
+     inkscape:export-filename="C:\Users\Francesco\Documents\GitHub\Construire-un-astrolabe\Presentation Ciel et espace\beamer\images\tympan39probleme.png"
+     id="path1449"
+     d="m 383.67248,232.01611 c 0,0 -31.41885,15.70943 -51.35774,29.60622 -19.93888,13.8968 -39.87777,15.70943 -71.29661,20.5431 -31.41885,4.83367 -53.17036,-6.04209 -86.40184,-19.93889 -33.23147,-13.89679 -44.10723,-33.83568 -67.67136,-52.56615 -23.56414,-18.73046 -16.313636,-6.04208 -22.355722,7.25051 -6.042087,13.29259 35.044102,48.33669 83.985002,79.15133 48.9409,30.81464 47.12827,13.29259 88.81866,11.47996 41.6904,-1.81263 98.48601,-26.58518 109.96597,-35.64831 11.47997,-9.06313 53.17036,-49.54511 53.17036,-49.54511 -8.45892,-13.89679 -36.85672,9.66734 -36.85672,9.66734 z"
+     style="opacity:0.6;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
+</svg>
