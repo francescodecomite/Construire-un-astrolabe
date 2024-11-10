@@ -19,8 +19,8 @@
 
 %\usepackage{pgfpages}
 %\mode<handout>{\pgfpagesuselayout{4 on 1}[a4paper,landscape,border shrink=5mm]}
-\mode<handout>{\pgfpagesuselayout{8 on 1}[a4paper,border shrink=5mm]}
-\mode<handout>{\setbeamercolor{background canvas}{bg=black!5}}
+%\mode<handout>{\pgfpagesuselayout{8 on 1}[a4paper,border shrink=5mm]}
+%\mode<handout>{\setbeamercolor{background canvas}{bg=black!5}}
 
 
 \pgfdeclareimage[height=0.9\textheight]{ask}{images/ask}
@@ -180,7 +180,7 @@
  \item Des documents très bien écrits (Michel Dumas).
  \item Des logiciels.
  \item Des machines et des lieux : fablabs. 
- \item Des gens. 
+ \item Des gens pour aider. 
  \end{itemize}
  
  
@@ -190,14 +190,23 @@
 \end{frame}
 
 
-\begin{frame}\frametitle{N'hésitez pas à interrompre !}
+\begin{frame}\frametitle{N'hésitez pas à  m'interrompre !}
 \begin{center}
 \pgfuseimage{ask}
 \end{center}
 {\hfill \small Créé grace à Dall-E}
    \end{frame}
 
+   \begin{frame}\frametitle{With a little help from my friends}
+\begin{block}{Des documents très utiles}
+\begin{itemize}
+\item {\em Réalisation d'un astrolabe} Michel Dumas. 
+\item {\em Les secrets de l'astrolabe} Ya{\"e}l Nazé.
+\item Ces documents sont dans le dépôt GIT. 
+\end{itemize}
+\end{block}
 
+   \end{frame}
       
    
 
@@ -213,16 +222,7 @@ versions de projets (informatiques).
 \end{block}
    \end{frame}
    
-   \begin{frame}\frametitle{With a little help from my friends}
-\begin{block}{Des documents très utiles}
-\begin{itemize}
-\item {\em Réalisation d'un astrolabe} Michel Dumas. 
-\item {\em Les secrets de l'astrolabe} Ya{\"e}l Nazé.
-\item Ces documents sont dans le dépôt GIT. 
-\end{itemize}
-\end{block}
 
-   \end{frame}
 
 \begin{frame}\frametitle{GIT en pratique -1}
 {\small \tt https://github.com/francescodecomite/Construire-un-astrolabe}
@@ -337,7 +337,7 @@ Simples consommateurs
 \item Quelle est la hauteur maximale du Soleil à une latitude donnée ? 
 \item A quelle heure un étoile atteint-elle une altitude donnée, connaissant le jour et la latitude ? 
 \item Que valent l'ascension droite et la déclinaison d'un astre ? 
-\item {\em Pour ces quatre dernières questions, cf Y. Nazé}
+\item {\em Pour ces questions, cf Y. Nazé}
 \end{itemize}
 
 
@@ -418,8 +418,44 @@ Simples consommateurs
 \pgfuseimage{exempleequation}
 \end{center}
    \end{frame}
+   
+   
+   \begin{frame}[fragile]\frametitle{Programmer l'astrolabe : le format SVG}
+\begin{block}{Primitives}
+\begin{itemize}
+\item \textcolor{red}{Un cercle :} 
+
+\begin{verbatim}
+<circle cx="250.0" cy="250.0"  r="7142.85" 
+fill="none" stroke="black"  
+stroke-width="0.5" />
+\end{verbatim}
+\item\textcolor{red}{Une ligne :}
+\begin{verbatim}
+<line x1="250" y1="250"  x2="121.7" y2="501.9"  
+stroke="black"  stroke-width="0.5" />
+
+\end{verbatim}
+\item\textcolor{red}{Un arc de cercle :}
+\begin{verbatim}
+<path d="
+M250.0 250.0
+A1000 1000 0 0 0 1200 3000"  id=" " fill="none"  
+stroke="black"   
+stroke-width="0.5" />
+\end{verbatim}
+
+\end{itemize}
+
+\end{block}
+   \end{frame}
+
+   
+
+
 
 \begin{frame}[fragile]\frametitle{Construire l'astrolabe}
+
 \begin{verbatim}
     
 

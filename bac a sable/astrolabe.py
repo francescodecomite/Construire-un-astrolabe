@@ -451,7 +451,7 @@ def tympan(x):
          #image.write(cercle(u,-v,0.01,stroke="\"blue\"" ))
          #image.write(arc2((-u,-v),(u,-v),radi))
          # Les premiers arcs sont bizarres, selon la latitude
-         # La modif courante ci-dessous ne marchent que distinguer les latitudes 44 et 50
+         # La modif courante ci-dessous ne marchent que pour distinguer les latitudes 44 et 50
          # (les intersections avec le tropique sont bonnes, mais on ne selectionne pas le bon arc)
          # L'arc suivant devient faux lui aussi pour PHI=30
          # Un gros todo
@@ -1653,9 +1653,10 @@ if __name__=="__main__":
    #alidade(R/2)  
    #ostenseur(R/2)
    #dos(R/2)
-   tympan(R/2)
+   #tympan(R/2)
    #tympanseul(R/2)
    #rete(R/2)
+   print(arc((0,0),(50,20),50))
   
   
 
